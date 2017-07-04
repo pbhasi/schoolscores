@@ -1,0 +1,578 @@
+schoolid,suburb,schoolname,region,address,longitude,latitude
+1,ELWOOD,Yesodei HaTorah College,,"39 Dickens St, Elwood VIC 3184",144.9836,-37.8729
+2,ST KILDA EAST,Yeshivah College,,"1 Empress Rd, St Kilda East VIC 3183",145.0013,-37.8687
+3,YEA,Yea High School,,"Racecourse Rd, Yea VIC 3717",145.397,-37.2154
+4,YARRAWONGA,Yarrawonga College P-12,,"Pinniger St, Yarrawonga VIC 3730",146.0054,-36.022
+5,YARRAM,Yarram Secondary College,,"86 James St, Yarram VIC 3971",146.6836,-38.5662
+6,RINGWOOD,Yarra Valley Grammar School,,"Kalinda Rd, Ringwood VIC 3134",145.2552,-37.7873
+7,MOOROOLBARK,Yarra Hills Secondary College,,"16 Reay Road, Mooroolbark VIC 3138",145.3155,-37.7882
+8,KEW,Xavier College,,"135 Barkers Rd, Kew VIC 3101",145.0358,-37.8146
+9,WERRIBEE,Wyndham Central Secondary College,SOUTH WEST,"101 Shaws Rd, Werribee VIC 3030",144.6539,-37.889
+10,WYCHEPROOF,Wycheproof P-12 College,,"McKenzie Cres, Wycheproof VIC 3527",143.2283,-36.0752
+11,LANGWARRIN SOUTH,Woodleigh School,,"485 Golf Links Rd, Langwarrin South VIC 3911",145.1736,-38.1926
+12,WONTHAGGI,Wonthaggi Secondary College,,"S Dudley Rd, Wonthaggi VIC 3995",145.5794,-38.5979
+13,WODONGA,Wodonga Senior Secondary College,,"80 Brockley St, Wodonga VIC 3690",146.8807,-36.1274
+14,WILLIAMSTOWN,Williamstown High School,INNER WEST,"76 Pasco St, Williamstown VIC 3016",144.8951,-37.863
+15,RESERVOIR,William Ruthven Secondary College,,"60 Merrilands Rd, Reservoir VIC 3073",145.0032,-37.6968
+16,WHITTLESEA,Whittlesea Secondary College,,"Laurel St, Whittlesea VIC 3757",145.1222,-37.5149
+17,DONVALE,Whitefriars College,,"156-158 Park Rd, Donvale VIC 3111",145.1986,-37.7901
+18,WHEELERS HILL,Wheelers Hill Secondary College,,"Raphael Dr, Wheelers Hill VIC 3150",145.1824,-37.9101
+19,HASTINGS,Western Port Secondary College,,"215 High St, Hastings VIC 3915",145.1753,-38.3094
+20,HAMLYN HEIGHTS,Western Heights Secondary College,,"37-61 Vines Rd, Hamlyn Heights VIC 3215",144.3282,-38.1228
+21,GEELONG NORTH,Western Heights College,,"37-61 Vines Rd, Hamlyn Heights VIC 3215",144.3282,-38.1228
+22,TRUGANINA,Westbourne Grammar School,SOUTH WEST,"300 Sayers Rd, Truganina VIC 3029",144.7233,-37.8519
+23,CLAYTON SOUTH,Westall Secondary College,,"88 Rosebank Ave, Clayton South VIC 3169",145.1363,-37.9402
+24,MELBOURNE,Wesley College,,"577 St Kilda Rd, Melbourne VIC 3004",144.9801,-37.8485
+25,WERRIMULL,Werrimull P-12 School,,"King St, Werrimull VIC 3496",141.5968,-34.3887
+26,WERRIMULL,WERRIMULL P-12 COLLEGE,,"King St, Werrimull VIC 3496",141.5968,-34.3887
+27,WERRIBEE,Werribee Secondary College,SOUTH WEST,"Duncans Rd, Werribee VIC 3030",144.6727,-37.9073
+28,MULGRAVE,Wellington Secondary College,,"91 Police Rd, Mulgrave VIC 3170",145.1691,-37.9345
+29,WEDDERBURN,Wedderburn College,,"15-29 Hospital St, Wedderburn VIC 3518",143.6176,-36.4171
+30,WANTIRNA SOUTH,Waverley Christian College,,"1248 High St Rd, Wantirna South VIC 3152",145.2148,-37.8792
+31,WARRNAMBOOL,Warrnambool College,,"Grafton Rd, Warrnambool VIC 3280",142.5025,-38.379
+32,WARRANDYTE,Warrandyte High School,,"241-247 Heidelberg-Warrandyte Rd, Warrandyte VIC 3113",145.1846,-37.7482
+33,WARRAGUL,Warragul Regional College,,"55 Burke St, Warragul VIC 3820",145.9246,-38.1642
+34,WARRACKNABEAL,Warracknabeal Secondary College,,"Tregear St, Warracknabeal VIC 3393",142.3903,-36.2621
+35,WANTIRNA,Wantirna College,,"90 Harold St, Wantirna VIC 3152",145.23,-37.8578
+36,WANGARATTA,Wangaratta High School,,"17-49 Edwards St, Wangaratta VIC 3677",146.3091,-36.3433
+37,SHEPPARTON,Wanganui Park Secondary College,,"Parkside Dr, Shepparton VIC 3630",145.3867,-36.3565
+38,WALLAN,Wallan Secondary College,,"100 Duke St, Wallan VIC 3756",144.9807,-37.4167
+39,ROSANNA,Viewbank College,,"1 Warren Rd, Viewbank VIC 3084",145.0864,-37.741
+40,WEST WODONGA,Victory Lutheran College,,"28 Drage Rd, West Wodonga VIC 3690",146.8466,-36.117
+41,STRATHDALE,Victory Christian College,,"6 Kairn Rd, Strathdale VIC 3550",144.3133,-36.7836
+42,SOUTHBANK,Victorian College of the Arts,,"234 St Kilda Rd, Southbank VIC 3006",144.9702,-37.8247
+43,MELBOURNE,Victorian College for the Deaf,,"597 St Kilda Rd, Melbourne VIC 3004",144.9809,-37.8497
+44,ST ALBANS,Victoria University Secondary College,NORTH WEST,"88 Billingham Rd, Deer Park VIC 3023",144.7666,-37.7593
+45,DEER PARK,Victoria University SC,NORTH WEST,"88 Billingham Rd, Deer Park VIC 3023",144.7666,-37.7593
+46,SUNSHINE NORTH,Victoria Uni TAFE,NORTH WEST,"Ballarat Road, Footscray VIC 3011",144.8972,-37.7935
+47,FOOTSCRAY,Victoria Uni of Tech - TAFE,INNER WEST,"Ballarat Road, Footscray VIC 3011",144.8972,-37.7935
+48,VERMONT,Vermont Secondary College,,"27-63 Morack Rd, Vermont VIC 3133",145.1997,-37.8439
+49,UPWEY,Upwey High School,,"1451 Burwood Hwy, Upwey VIC 3158",145.3329,-37.9041
+50,YARRA JUNCTION,Upper Yarra Secondary College,,"81-89 Little Yarra Rd, Yarra Junction VIC 3797",145.6246,-37.7925
+51,PARKVILLE,University High School,,"77 Story St, Parkville VIC 3052",144.9567,-37.797
+52,SEA LAKE,Tyrrell College,,"10 Sutcliff St, Sea Lake VIC 3533",142.8523,-35.5093
+53,KEW,Trinity Grammar School,,"119 Prospect Rd, Summer Hill NSW 2130",151.1308,-33.8995
+54,COLAC,Trinity College Colac,,"119 Hart St, Colac VIC 3250",143.579,-38.3507
+55,TRARALGON,Traralgon College,,"154-184 Grey St, Traralgon VIC 3844",146.5195,-38.1914
+56,TRAFALGAR,Trafalgar High School,,"84 School Rd, Trafalgar VIC 3824",146.1597,-38.2149
+57,MOUNT ELIZA,Toorak College,,"Old Mornington Rd, Mount Eliza VIC 3930",145.0942,-38.1738
+58,RINGWOOD EAST,Tintern Schools,,"90 Alexandra Road, Ringwood East VIC 3135",145.2565,-37.8164
+59,TIMBOON,Timboon P-12 School,,"Bailey Street, Timboon VIC 3268",142.9726,-38.4831
+60,THORNBURY,Thornbury High School,,"238 Collins St., Thornbury VIC 3071",-37.7565,-37.7565
+61,THOMASTOWN,Thomastown Secondary College,,"80-96 Main St, Thomastown VIC 3074",145.002,-37.6789
+62,TARNEIT,Thomas Carr College,SOUTH WEST,"35 Thomas Carr Dr, Tarneit VIC 3029",144.7022,-37.8477
+63,MOUNT ELIZA,The Peninsula School,,"20 Wooralla Dr, Mount Eliza VIC 3930",145.0926,-38.197
+64,MELBOURNE,THE MERIDIAN INTERNATIONAL SCHOOL,,"123-129 Lonsdale St Melbourne, VIC, 3000",144.9686,-37.8106
+65,WANTIRNA SOUTH,The Knox School,,"220 Burwood Hwy, Wantirna South VIC 3152",145.2194,-37.8641
+66,ARMADALE,The King David School,,"517 Orrong Rd, Armadale VIC 3143",145.0108,-37.8585
+67,HAMILTON,The Hamilton and Alexandra College,,"1 Chaucer St, Hamilton VIC 3300",142.0245,-37.7373
+68,HOPPERS CROSSING,The Grange P-12 College,SOUTH WEST,"Callistemon Dr, Hoppers Crossing VIC 3029",144.6785,-37.8591
+69,NEWTOWN,The Geelong College,,"Talbot Street, Newtown VIC 3220",144.3403,-38.1515
+70,WANGARATTA,The Centre,,"Chilsom Street,Wangaratta VIC 3677",146.328103,-36.356568
+71,TERANG,Terang College,,"45 Strong St, Terang VIC 3264",142.9206,-38.2462
+72,TEMPLESTOWE LOWER,Templestowe College,,"7 Cypress Ave, Templestowe Lower VIC 3107",145.1216,-37.7675
+73,TAYLORS LAKES,Taylors Lakes Secondary College,NORTH WEST,"1-39 Parmelia Dr, Taylors Lakes VIC 3038",144.7933,-37.707
+74,MELBOURNE,Taylors College,,"965 Bourke St, Waterloo NSW 2017",151.2075,-33.9025
+75,TARNEIT,Tarneit Senior College,SOUTH WEST,"861 Leakes Rd, Tarneit VIC 3029",144.6804,-37.8333
+76,TALLANGATTA,Tallangatta Secondary College,,"140 Towong St, Tallangatta VIC 3700",147.1744,-36.2171
+77,BRUNSWICK,Sydney Road Community School,,"350 Sydney Rd, Brunswick VIC 3056",144.962,-37.7699
+78,CROYDON,Swinburne University Of Tech,,"John St, Hawthorn VIC 3122",145.039,-37.8218
+79,HAWTHORN,Swinburne Senior Secondary College,,"505 Burwood Rd., Hawthorn VIC 3122",145.0408,-37.8231
+80,SWIFTS CREEK,Swifts Creek School,,"Great Alpine Rd, Swifts Creek VIC 3896",147.8163,-37.3592
+81,SWAN HILL,Swan Hill College,,"10-32 Pye St, Swan Hill VIC 3585",143.5531,-35.3348
+82,WERRIBEE,Suzanne Cory High School,SOUTH WEST,"225 Hoppers Ln, Werribee VIC 3030",144.7008,-37.8939
+83,TORQUAY,Surf Coast Secondary College,,"75 White St, Torquay VIC 3228",144.3279,-38.3052
+84,SUNSHINE,Sunshine College,NORTH WEST,"Northumberlan Road, Sunshine, VIC 3020",144.8416,-37.772
+85,SUNBURY,Sunbury Downs Secondary College,,"148-174 Mitchells Ln, Sunbury VIC 3429",144.7058,-37.5842
+86,SUNBURY,Sunbury College,,"30 Racecourse Rd, Sunbury VIC 3429",144.7291,-37.5733
+87,STRATHMORE,Strathmore Secondary College,,"400 Pascoe Vale Rd, Strathmore VIC 3041",144.9268,-37.7377
+88,CANTERBURY,Strathcona Baptist Girls Grammar School,,"34 Scott St, Canterbury VIC 3126",145.0804,-37.8292
+89,MELBOURNE,Stotts College,,"252 Lygon St, Carlton VIC 3053",144.9671,-37.8013
+90,STAWELL,Stawell Secondary College,,"79-97 Patrick St, Stawell VIC 3380",142.7892,-37.062
+91,MELTON SOUTH,Staughton College,,"26-46 Wilson Rd, Melton VIC 3337",144.5687,-37.7085
+92,BRIGHTON,Star of the Sea College,,"Martin St, Brighton VIC 3186",144.9961,-37.8964
+93,TYNONG,St Thomas Aquinas College,,"1 Tynong Rd, Tynong VIC 3813",145.6237,-38.0832
+94,CRANBOURNE,St Peter's College,,"57 Hackney Rd, Hackney SA 5069",138.6141,-34.9149
+95,WARRAGUL,St Pauls Anglican Grammar School,,"150 Bowen St, Warragul VIC 3820",145.9299,-38.1463
+96,BALLARAT,St Patrick's College,,"60 Park Parade, Shorncliffe QLD 4017",153.0826,-27.3238
+97,EPPING,St Monica's College,,"16 Davisson St, Epping VIC 3076",145.0296,-37.6512
+98,ST KILDA,St Michaels Grammar School,,"25 Chapel St, St Kilda VIC 3182",144.9916,-37.8594
+99,COOLAROO,St Mary's Coptic Orth College,,"19-35 Thorpdale Ave, Coolaroo VIC 3048",144.9314,-37.6556
+100,NATHALIA,St Mary of the Angels School,,"Wirruna Street, Guyra NSW 2365",151.677,-30.216
+101,SWAN HILL,St Mary MacKillop College,,"Erindale Dr, Wanniassa ACT 2903",149.0963,-35.4066
+102,BERWICK,St Margaret's School,,"27-47 Gloucester Ave, Berwick VIC 3806",145.3472,-38.0357
+103,BRIGHTON EAST,St Leonard's College,,"163 South Rd, Brighton East VIC 3187",145.0074,-37.9285
+104,TOORAK,St Kevins College,,"31 Moonga Rd, Toorak VIC 3142",145.0276,-37.8394
+105,FERNTREE GULLY,St Joseph's College,,"Mark Street,Hunters Hill, NSW 2110",151.1382,-33.8302
+106,NEWTOWN,St Josephs College,,"Mark Street,Hunters Hill, NSW 2111",151.1382,-33.8302
+107,DANDENONG,St John's Regional College,,"5-11 Caroline St, Dandenong VIC 3175",145.2258,-37.9904
+108,PRESTON,St Johns Greek Orthodox College,,"21 Railway Place, West Preston VIC 3072",144.9993,-37.7482
+109,ELTHAM,St Helena Secondary College,,"Wallowa Rd, Eltham North VIC 3095",145.1399,-37.6866
+110,BEACONSFIELD,St Francis Xavier College,,"Barnard Circuit, Florey ACT 2615",149.0397,-35.2259
+111,ESSENDON,St Columba's College,,"2 Leslie Rd, Essendon VIC 3040",144.9138,-37.7575
+112,TOORAK,St Catherines School,,"17 Heyington Pl, Toorak VIC 3142",145.0218,-37.8378
+113,HORSHAM,St Brigid's College,,"200 Lesmurdie Rd, Lesmurdie WA 6076",116.0526,-31.9961
+114,ESSENDON,St Bernard's College,,"41 Rosehill Rd, Essendon VIC 3040",144.883,-37.7485
+115,MENTONE,St Bede's College,,"2 Mentone Parade, Mentone VIC 3194",145.0651,-37.9904
+116,KYABRAM,St Augustine's College,,"Federal Parade, Brookvale NSW 2100",151.2741,-33.7588
+117,ST ARNAUD,St Arnaud Secondary College,,"Smith St, St Arnaud VIC 3478",143.2514,-36.6103
+118,FRANKSTON NORTH,St Anthony's Coptic Orthodox College,,"15 Alpina St, Frankston North VIC 3200",145.1581,-38.1203
+119,WANTIRNA SOUTH,St Andrews Christian College,,"130 Tyner Rd, Wantirna South VIC 3152",145.2447,-37.8741
+120,NORTH MELBOURNE,St Aloysius College,,"47 Upper Pitt St, Kirribilli NSW 2061",151.2141,-33.8487
+121,ST ALBANS,St Albans Secondary College,NORTH WEST,"289 Main Rd E, St Albans VIC 3021",144.8074,-37.7451
+122,SPRINGVALE,SPRINGVALE SECONDARY COLLEGE,,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+123,RINGWOOD,Southwood Boys Grammar,,"Maidstone St, Ringwood VIC 3134",145.2248,-37.8262
+124,WARRNAMBOOL,South West Institute of TAFE,,"39 Hammond St, Hamilton VIC 3300",142.0061,-37.7266
+125,OAKLEIGH SOUTH,South Oakleigh Secondary College,,"Bakers Rd, Oakleigh South VIC 3167",145.0896,-37.9222
+126,FOSTER,South Gippsland Secondary College,,"Pioneer St & Hoddle Road, Foster VIC 3960",146.197,-38.6525
+127,LEONGATHA,South Coast Christian College,,"101 Horn St, Leongatha VIC 3953",145.9605,-38.4702
+128,SOMERVILLE,Somerville Secondary College,,"37 Graf Rd, Somerville VIC 3912",145.1687,-38.2269
+129,KEYSBOROUGH,Sirius College - Keysborough,,"139 Chapel Rd, Keysborough VIC 3173",145.161,-38.0048
+130,BROADMEADOWS,Sirius College,,"515 Fitzgerald Rd, Sunshine West VIC 3020",144.7902,-37.7861
+131,WEST MELBOURNE,Simonds Catholic College,,"273 Victoria St, West Melbourne VIC 3003",144.9524,-37.8058
+132,CAMBERWELL,Siena College,,"815 Riversdale Rd, Camberwell VIC 3124",145.0824,-37.8343
+133,SASSAFRAS,Sherbrooke Community School,,"311 Mount Dandenong Tourist Rd, Sassafras VIC 3787",145.3499,-37.8687
+134,SHEPPARTON,Shepparton High School,,"31-71 Hawdon St, Shepparton VIC 3630",145.4151,-36.3729
+135,SHEPPARTON,Shepparton Christian College,,"155 Verney Rd, Shepparton VIC 3630",145.4157,-36.3539
+136,CAULFIELD,Shelford Girls' Grammar,,"3 Hood Cres, Caulfield VIC 3161",145.0118,-37.8775
+137,SEYMOUR,Seymour College,,"546 Portrush Rd, Glen Osmond SA 5064",138.6479,-34.9565
+138,HAWTHORN,Scotch College,,"1 Morrison St, Hawthorn VIC 3122",145.0295,-37.8339
+139,SCORESBY,Scoresby Secondary College,,"2 Cavell St, Scoresby VIC 3179",145.236,-37.8897
+140,NORTHCOTE,Santa Maria College,,"18 Stoneham Rd, Attadale WA 6156",115.7958,-32.0186
+141,SANDRINGHAM,Sandringham College,,"11 Holloway Rd, Sandringham VIC 3191",145.0246,-37.9572
+142,PRESTON,SAMARITAN CATHOLIC COLLEGE,,"8 Clifton Grv; Preston, Victoria, Australia 3072",145.0047,-37.744
+143,CHADSTONE,Salesian College,,"Bosco St, Chadstone VIC 3148",145.1002,-37.8824
+144,SALE,Sale College,,"PO Box 231, SALE VIC 3850",147.073,-38.1026
+145,DRYSDALE,Saint Ignatius College,,"2 Manresa Ct, Athelstone SA 5076",138.6992,-34.8751
+146,OAKLEIGH,Sacred Heart Girls' College,,"113 Warrigal Rd, Oakleigh VIC 3166",145.0865,-37.902
+147,HUGHESDALE,Sacred Heart Girls College,,"113 Warrigal Rd, Oakleigh VIC 3166",145.0865,-37.902
+148,NEWTOWN,Sacred Heart College,,"95-235 Brighton Rd, Somerton Park SA 5044",138.5212,-34.997
+149,GLEN IRIS,Sacre Coeur,,"172 Burke Rd, Glen Iris VIC 3146",145.0531,-37.8629
+150,KEW,Ruyton Girls School,,"12 Selbourne Rd, Kew VIC 3101",145.0387,-37.8124
+151,RESERVOIR,Ruthven Secondary College,,"60 Merrilands Rd, Reservoir VIC 3073",145.0032,-37.6968
+152,RUTHERGLEN,Rutherglen High School,,"Sheridan’s Bridge Road, Rutherglen VIC 3685",146.4431,-36.0795
+153,RUSHWORTH,Rushworth P-12 College,,"Heily St, Rushworth VIC 3612",145.0156,-36.5846
+154,ROXBURGH PARK,Roxburgh College,,"60-70 Donald Cameron Dr, Roxburgh Park VIC 3064",144.9298,-37.6305
+155,ROWVILLE,Rowville Secondary College,,"Paratea Dr, Rowville VIC 3178",145.2368,-37.9239
+156,NIDDRIE,Rosehill Secondary College,,"Sapphire St, Niddrie VIC 3042",144.8862,-37.7474
+157,ROSEBUD,Rosebud Secondary College,,"245 Eastbourne Rd, Rosebud VIC 3939",144.8869,-38.3674
+158,ROCHESTER,Rochester Secondary College,,"Edward St, Rochester VIC 3561",144.6985,-36.3551
+159,ROBINVALE,Robinvale P-12 College,,"186 Latje Rd, Robinvale VIC 3549",142.7822,-34.589
+160,CARLTON,RMIT TAFE,,"124 La Trobe St, Melbourne VIC 3000",144.9648,-37.8074
+161,RINGWOOD,Ringwood Secondary College,,"Bedford Rd, Ringwood VIC 3134",145.2362,-37.816
+162,RESERVOIR,Reservoir High School,,"855 Plenty Rd, Reservoir VIC 3073",145.0303,-37.7223
+163,RED CLIFFS,Red Cliffs Secondary College,,"55 Fitzroy Ave, Red Cliffs VIC 3496",142.1947,-34.3008
+164,RAINBOW,Rainbow P-12 College,,"7 Albert St, Rainbow VIC 3424",141.9949,-35.8945
+165,PRINCES HILL,Princes Hill Secondary College,,"Arnold Street, Carlton North VIC 3054",144.9651,-37.7846
+166,PRESTON,Preston Girls Secondary College,,"Cooma St, Preston, VIC 3072",145.0063,-37.7412
+167,KEW,Preshil - The Margaret Lyttle Secondary College,,"395 Barkers Rd, Kew VIC 3101",145.0358,-37.8146
+168,WINDSOR,Presentation College,,"187 Dandenong Rd, Windsor VIC 3181",144.995,-37.8572
+169,BURWOOD,Presbyterian Ladies College,,"141 Burwood Hwy, Burwood VIC 3125",145.1071,-37.8489
+170,PORTLAND,Portland Secondary College,,"Must St, Portland VIC 3305",141.6031,-38.3596
+171,POINT COOK,Point Cook Senior Secondary College,SOUTH WEST,"Cnr Boardwalk Boulevard and Bergamot Drive, Point Cook VIC 3030",144.7325,-37.8862
+172,DOREEN,Plenty Valley Christian College,,"840 Yan Yean Rd, Doreen VIC 3754",145.1373,-37.6119
+173,SEBASTOPOL,Phoenix P-12 Community College,,"Hertford Street, Sebastopol VIC 3356",143.8334,-37.5862
+174,LALOR,Peter Lalor Secondary College,,"35 Duncan Rd, Lalor VIC 3075",145.0107,-37.6673
+175,BROADMEADOWS,Penola Catholic College,,"29 Gibson St, Broadmeadows VIC 3047",144.9198,-37.6888
+176,KEILOR EAST,Penleigh and Essendon Grammar,NORTH WEST,"Keilor Rd & Rachelle Rd, Keilor East VIC 3033",144.8717,-37.7303
+177,MOOROOLBARK,Pembroke Secondary College,,"16 Reay Road, Mooroolbark VIC 3138",145.3155,-37.7882
+178,CARRUM,Patterson River Secondary College,,"70-98 Eel Race Rd, Seaford VIC 3198",145.1343,-38.0835
+179,PASCOE VALE,Pascoe Vale Girls Secondary College,,"Lake Ave, Pascoe Vale VIC 3044",144.9355,-37.7174
+180,RINGWOOD NORTH,Parkwood Secondary College,,"Byron St, Ringwood VIC 3134",145.2373,-37.8001
+181,MORDIALLOC,Parkdale Secondary College,,"Warren Rd, Mordialloc VIC 3195",145.0927,-37.9929
+182,BUNDOORA,Parade College,,"1436 Plenty Rd, Bundoora VIC 3083",145.0652,-37.6902
+183,PAKENHAM,Pakenham Secondary College,,"1020 Princes Hwy, Pakenham VIC 3810",145.4712,-38.0689
+184,MORNINGTON,Padua College,,"80 Turner Rd, Kedron QLD 4031",153.0252,-27.4077
+185,MELBOURNE,Ozford College,,"815 George Street, Sydney, NSW 2000",151.2034,-33.8829
+186,CHIRNSIDE PARK,Oxley Christian College,,"15-49 Old Melbourne Rd, Chirnside Park VIC 3116",145.3062,-37.7632
+187,KEILOR,Overnewton Anglican Community College,,"2-30 Overnewton Rd, Keilor VIC 3036",144.8217,-37.7063
+188,OUYEN,Ouyen P-12 College,,"1-35 Fuller St, Ouyen VIC 3490",142.3208,-35.0641
+189,BOX HILL,Our Lady of Sion College,,"1065 Whitehorse Rd, Box Hill VIC 3128",145.1296,-37.8186
+190,BENTLEIGH,Our Lady of Sacred Heart College,,"496 Regency Rd, Enfield SA 5085",138.604,-34.873
+191,HEIDELBERG,Our Lady of Mercy College,,"Victoria Rd, Parramatta NSW 2150",151.0151,-33.8088
+192,ORBOST,Orbost Secondary College,,"2 Arnold St, Orbost VIC 3888",148.466,-37.7055
+193,BELMONT,Oberon High School,,"12 Pickett Cres, Belmont VIC 3216",144.3374,-38.1867
+194,OAKLEIGH,Oakleigh Greek Orthodox College,,"77/73-81 Willesden Rd, Hughesdale VIC 3166",145.0826,-37.8962
+195,OAKLEIGH,Oakleigh Grammar,,"77/73-81 Willesden Rd, Hughesdale VIC 3166",145.0826,-37.8962
+196,NUNAWADING,Nunawading Christian College,,"161 Central Rd, Nunawading VIC 3131",145.1667,-37.8244
+197,NUMURKAH,Numurkah Secondary College,,"104 Tocumwal Rd, Numurkah VIC 3636",145.4459,-36.0799
+198,SHEPPARTON,Notre Dame College,,"139 Knight St, Shepparton VIC 3630",145.4076,-36.374
+199,BERWICK,Nossal High School,,"Sir Gustav Nossal Boulevarde, 100 Clyde Road, Berwick VIC 3806",145.336,-38.0392
+200,RINGWOOD,Norwood Secondary College,,"Byron St, Ringwood VIC 3134",145.2373,-37.8001
+201,BUNDOORA,Northside Christian College,,"151 Flockton St, Everton Park QLD 4053",152.9912,-27.3945
+202,PRESTON,Northern Melbourne Institute of TAFE,,"77 St Georges Rd, Preston VIC 3072",144.9977,-37.7424
+203,PRESTON EAST,Northern College of Arts and Technology,,"62 Murray Rd, Preston VIC 3072",145.026,-37.7402
+204,CORIO,Northern Bay P-12 College,,"Goldsworthy Rd; Geelong, Victoria 3214",144.3484,-38.0772
+205,NORTHCOTE,Northcote High School,,"19-25 St Georges Rd, Northcote VIC 3070",144.9898,-37.7742
+206,GEELONG NORTH,North Geelong Secondary College,,"130 Separation St, North Geelong VIC 3215",144.3415,-38.1104
+207,NOBLE PARK,Noble Park Secondary College,,"3 Callaghan St, Noble Park VIC 3174",145.1824,-37.9699
+208,NHILL,Nhill College,,"Whitehead Ave, Nhill VIC 3418",141.6561,-36.3319
+209,NEWHAVEN,Newhaven College,,"1770 Phillip Island Rd, Rhyll VIC 3923",145.2681,-38.4885
+210,NEWCOMB,Newcomb Secondary College,,"81/85 Bellarine Hwy, Newcomb VIC 3219",144.3952,-38.1714
+211,MELBOURNE,New Generation College,,"152/154-168 Elizabeth St, Melbourne VIC 3000",144.9637,-37.8143
+212,NEERIM SOUTH,Neerim District Secondary College,,"Neerim E Rd, Neerim South VIC 3831",145.9751,-38.0097
+213,NOBLE PARK NORTH,Nazareth College,,"15-17 Manning Dr, Noble Park North VIC 3174",145.1962,-37.9409
+214,NATHALIA,Nathalia Secondary College,,"41/42 Chapel St, Nathalia VIC 3638",145.2079,-36.0608
+215,NARRE WARREN SOUTH,Narre Warren South P-12 College,,"Amberly Park Dr, Narre Warren South VIC 3805",145.2895,-38.0468
+216,BAIRNSDALE,Nagle College,,"Hope Ave, Bairnsdale VIC 3875",147.5868,-37.8412
+217,MYRTLEFORD,Myrtleford P-12 College,,"Prince St, Myrtleford VIC 3737",146.7223,-36.5556
+218,MURTOA,Murtoa College,,"Webb St, Murtoa VIC 3390",142.4752,-36.6229
+219,MURRAYVILLE,Murrayville Community College,,"20 Francis St, Murrayville VIC 3512",141.1781,-35.2658
+220,MITCHAM,Mullauna College,,"456 Springfield Rd, Mitcham VIC 3132",145.1895,-37.8071
+221,KEYSBOROUGH,Mt Hira College,,"185 Perry Rd, Keysborough VIC 3173",145.1729,-38.0129
+222,MELTON,Mowbray College,,"Centenary Ave, Melton, VIC, 3337",144.575,-37.6736
+223,FERNTREE GULLY,Mountain District Learning Centre,,"13-15 The Ave, Ferntree Gully VIC 3156",145.2932,-37.8833
+224,MONBULK,Mountain District Christian School,,"Macclesfield Rd, Monbulk VIC 3793",145.4412,-37.8626
+225,MOUNT WAVERLEY,Mount Waverley Secondary College,,"145 Stephensons Rd, Mount Waverley VIC 3149",145.4412,-37.8626
+226,ALTONA,Mount St Joseph Girls College,INNER WEST,"133 Maidstone Street, Altona VIC 3018",144.8122,-37.8641
+227,BURWOOD,Mount Scopus Memorial College,,"245 Burwood Hwy, Burwood VIC 3125",145.1165,-37.8501
+228,CRAIGIEBURN,Mount Ridley College,,"2-30 Hampton St, Craigieburn VIC 3064",144.9208,-37.5792
+229,LILYDALE,Mount Lilydale Mercy College,,"120 Anderson St, Lilydale VIC 3140",145.3576,-37.7489
+230,MOUNT EVELYN,Mount Evelyn Christian School,,"135 York Rd, Mount Evelyn VIC 3796",145.3755,-37.7925
+231,FRANKSTON,Mount Erin College,,"Robinsons Rd, Frankston South VIC 3199",145.1514,-38.1755
+232,MOUNT ELIZA,Mount Eliza Secondary College,,"Canadian Bay Rd, Mount Eliza VIC 393",145.1057,-38.2047
+233,MOUNT CLEAR,Mount Clear College,,"59 Olympic Ave, Mount Clear VIC 3350",145.1057,-38.2047
+234,MOUNT BEAUTY,Mount Beauty Secondary College,,"Tailrace Road, Mount Beauty VIC 3699",147.1675,-36.7419
+235,FLEMINGTON,Mount Alexander College,,"167-175 Mt Alexander Rd, Flemington VIC 3031",144.9339,-37.7827
+236,MORTLAKE,Mortlake College,,"10 Hood Ave, Mortlake VIC 3272",142.8095,-38.0865
+237,MORNINGTON,Mornington Secondary College,,"1051 Nepean Hwy, Mornington VIC 3931",145.0528,-38.2235
+238,MORDIALLOC,Mordialloc College,,"1 Station St, Mordialloc VIC 3195",145.0917,-38.0123
+239,MOOROOPNA,Mooroopna Secondary College,,"141-179 Echuca Rd, Mooroopna VIC 3629",145.3513,-36.3807
+240,MOOROOLBARK,Mooroolbark College,,"186 Manchester Rd, Mooroolbark VIC 3138",145.3136,-37.7739
+241,MONTMORENCY,Montmorency Secondary College,,"Para Rd, Montmorency VIC 3094",145.1141,-37.7178
+242,FRANKSTON NORTH,Monterey Secondary College,,"Silvertop St, Frankston North VIC 3200",145.1483,-38.1256
+243,HAMILTON,Monivae College,,"33 Ballarat Rd, Hamilton VIC 3300",142.0373,-37.7421
+244,MONBULK,Monbulk College,,"146-148 David Hill Rd, Monbulk VIC 3793",145.4278,-37.8832
+245,MIRBOO NORTH,Mirboo North Secondary College,,"Castle St, Mirboo North VIC 3871",146.1471,-38.4003
+246,SPRINGVALE,Minaret College,,"36/38 Lewis St, Springvale VIC 3171",145.1482,-37.9384
+247,EPPING,Mill Park Secondary College,,"Civic Dr & Findon Road, Epping VIC 3076",145.0628,-37.6456
+248,MILDURA,Mildura Senior College,,"Fourteenth St & Deakin Avenue, Mildura VIC 3500",142.147,-34.1983
+249,KEW,Methodist Ladies College,,"207 Barkers Rd, Kew VIC 3101",145.0387,-37.814
+250,RESERVOIR,Merrilands P-12 College,,"60 Merrilands Rd, Reservoir VIC 3073",145.0032,-37.6968
+251,CAMPERDOWN,Mercy Regional College,,"Henderson St, Camperdown VIC 3266",143.1407,-38.2341
+252,COBURG,Mercy College,,"Mirrabooka Ave & Beach Road, Koondoola WA 6064",115.8551,-31.8487
+253,MENTONE,Mentone Grammar School,,"63 Venice St, Mentone VIC 3194",145.0674,-37.9879
+254,MENTONE,Mentone Girls Secondary College,,"Balcombe Rd & Charman Rd, Mentone VIC 3194",145.053,-37.9798
+255,MENTONE,Mentone Girls Grammar School,,"11 Mentone Parade, Mentone VIC 3194",145.053,-37.9798
+256,MELTON,Melton Secondary College,,"Coburns Rd, Melton VIC 3337",144.5684,-37.6818
+257,MELTON SOUTH,Melton Christian College,,"152-156 Brooklyn Rd, Melton South VIC 3338",144.5604,-37.701
+258,MELBOURNE,Melbourne Senior Secondary College,,"168/152 Elizabeth St, Melbourne VIC 3000",144.9636,-37.8145
+259,WARRANWOOD,Melbourne Rudolf Steiner School,,"213 Wonga Rd, Warranwood VIC 3134",145.2495,-37.7772
+260,SOUTH YARRA,Melbourne High School,,"Forrest Hill, South Yarra VIC 3141",144.9954,-37.8368
+261,MELBOURNE,Melbourne Grammar School,,"355 St Kilda Rd, Melbourne VIC 3004",144.9759,-37.8335
+262,SOUTH YARRA,Melbourne Girls Grammar,,"86 Anderson St, South Yarra VIC 3141",144.985,-37.8309
+263,RICHMOND,Melbourne Girls College,,"Yarra Blvd, Richmond VIC 3121",145.0151,-37.8242
+264,CROYDON,Melba College,,"20 Brentnall Rd, Croydon VIC 3136",145.2626,-37.7953
+265,MCKINNON,McKinnon Secondary College,,"291a McKinnon Rd, McKinnon VIC 3204",145.0478,-37.9122
+266,SHEPPARTON,McGuire College,,"92-100 Wilmot Road, Shepparton VIC 3630",145.4081,-36.3987
+267,FRANKSTON,McClelland College,,"31 Belar Ave, Frankston VIC 3199",145.1579,-38.1455
+268,MULGRAVE,Mazenod College,,"5 Kernot Ave, Mulgrave VIC 3170",145.1656,-37.9155
+269,GEELONG,Matthew Flinders Girl's Secondary College,,"Little Ryrie St, Geelong VIC 3220",144.3585,-38.1501
+270,BELGRAVE,Mater Christi College,,"28 Bayview Rd, Belgrave VIC 3160",145.3595,-37.9108
+271,SOUTH MORANG,Marymede Catholic College,,"60 Williamsons Rd, South Morang VIC 3752",145.0894,-37.644
+272,MARYBOROUGH,Maryborough Education Centre,,"102-192 Balaclava Rd, Maryborough VIC 3465",143.7231,-37.0427
+273,LEONGATHA,Mary Mackillop Catholic Regional College,,"Horn St, Leongatha VIC 3953",145.9584,-38.4738
+274,CROYDON,Maroondah Secondary College,,"20 Brentnall Rd, Croydon VIC 3136",145.2626,-37.7953
+275,WARRAGUL,Marist Sion College,,"165 Burke St, Warragul VIC 3820",145.9144,-38.1586
+276,MARIBYRNONG,Maribyrnong Secondary College,,"River St, Maribyrnong VIC 3032",144.8881,-37.7797
+277,ARARAT,Marian College Ararat,,"304 Barkly St, Ararat VIC 3377",142.9406,-37.2847
+278,SUNSHINE WEST,Marian College,NORTH WEST,"196 Glengala Rd, Sunshine West VIC 3020",144.8061,-37.7878
+279,BULLEEN,Marcellin College,,"160 Bulleen Rd, Bulleen VIC 3105",145.0797,-37.7681
+280,ENDEAVOUR HILLS,Maranatha Christian School,,"146 Kidds Rd, Doveton VIC 3177",145.2367,-37.9874
+281,MANSFIELD,Mansfield Secondary College,,"15 View St, Mansfield VIC 3722",146.0879,-37.0622
+282,WYNDHAM VALE,Manor Lakes P-12 College,SOUTH WEST,"2 - 50 Minindee Road, Wyndham Vale VIC 3024",144.6025,-37.8768
+283,MANANGATANG,Manangatang P-12 College,,"4105 Mallee Hwy, Manangatang VIC 3546",142.8841,-35.055
+284,MALLACOOTA,Mallacoota P-12 College,,"25 Bucknall St, Mallacoota VIC 3892",149.7538,37.5605
+285,MAFFRA,Maffra Secondary College,,"14 Bill Cane Ct, Maffra VIC 3860",149.7538,-37.5605
+286,MACLEOD,Macleod College,,"Carwarp St, Macleod VIC 3085",145.072,-37.7272
+287,WERRIBEE,MacKillop Catholic Reg College,SOUTH WEST,"Russell St, Werribee VIC 3030",144.6612,-37.9107
+288,MACEDON,MACEDON GRAMMAR SCHOOL,,"110 Bailey Rd, Macedon VIC 3440",144.5332,-37.4457
+289,MELBOURNE,Mac.Robertson Girls High School,,"350-370 Kings Way, Melbourne VIC 3004",144.9722,-37.836
+290,CRANBOURNE,Lyndhurst Secondary College,,"950 S Gippsland Hwy, Cranbourne VIC 3977",145.2714,-38.0744
+291,DANDENONG NORTH,Lyndale Secondary College,,"170-174 Gladstone Rd, Dandenong North VIC 3175",145.2069,-37.9577
+292,RICHMOND,Lynall Hall Community School,,"17 Gleadell St, Richmond VIC 3121",145.0022,-37.8166
+293,CROYDON HILLS,Luther College,,"1-39 Plymouth Rd, Croydon VIC 3136",145.0022,-37.8166
+294,WATSONIA,Loyola College,,"325 Grimshaw St, Watsonia VIC 3087",145.0798,-37.7023
+295,ESSENDON,Lowther Hall Anglican Grammar School,,"17 Leslie Rd, Essendon VIC 3040",144.9145,-37.7595
+296,NEWBOROUGH,Lowanna College,,"72-96 Newark Ave, Newborough VIC 3825",146.2858,-38.1767
+297,LORNE,Lorne Aireys Inlet P-12 College,,"15 Grove Rd, Lorne VIC 3232",143.9732,-38.539
+298,TOORAK,Loreto Mandeville Hall,,"10 Mandeville Cres, Toorak VIC 3142",145.0128,-37.848
+299,BALLARAT,Loreto College,,"415 Cavendish Rd, Coorparoo QLD 4151",153.0639,-27.5088
+300,YARRA JUNCTION,Little Yarra Steiner School,,"205 Little Yarra Rd, Yarra Junction VIC 3797",145.6313,-37.7939
+301,LILYDALE,Lilydale High School,,"25 Melba Ave, Lilydale VIC 3140",145.3446,-37.7607
+302,LILYDALE,Lilydale Heights College,,"17 Nelson Rd, Lilydale VIC 3140",145.3411,-37.746
+303,LILYDALE,Lilydale Adventist Academy,,"47 Edinburgh Rd., Lilydale VIC 3140",145.3508,-37.7848
+304,KEYSBOROUGH,Lighthouse Christian College,,"927 Springvale Rd, Keysborough VIC 3173",145.143,-38.0011
+305,LEONGATHA,Leongatha Secondary College,,"Nerrena Rd, Leongatha VIC 3953",145.9759,-38.4815
+306,ELSTERNWICK,Leibler Yavneh College,,"2 Nagle Ave, Elsternwick VIC 3185",145.0064,-37.8931
+307,LAVERTON,Laverton P-12 College,,"91 Bladin St, Laverton VIC 3028",144.7727,-37.8571
+308,LAVERS HILL,Lavers Hill P-12 College,,"10 College Dr, Lavers Hill VIC 3238",143.3835,-38.6819
+309,TRARALGON,Lavalla Catholic College,,"33-49 Kosciuszko St, Traralgon VIC 3844",146.5148,-38.2008
+310,ARMADALE,Lauriston Girls School,,"38 Huntingtower Rd, Armadale VIC 3143",145.0248,-37.8511
+311,LARA,Lara Secondary College,,"34 Alkara Ave, Lara VIC 3212",144.4124,-38.0185
+312,LALOR,Lalor Secondary College,,"David St & Dalton Road, Lalor VIC 3075",145.031,-37.6734
+313,EPPING,Lalor North Secondary College,,"114 Childs Rd, Epping VIC 3076",145.0345,-37.6612
+314,CAROLINE SPRINGS,Lakeview Senior College,NORTH WEST,"College St, Caroline Springs VIC 3023",144.7371,-37.7304
+315,RESERVOIR,Lakeside Secondary College,,"21-29 Radford Rd, Reservoir VIC 3073",144.9823,-37.7109
+316,PAKENHAM,Lakeside Lutheran College,,"2 Portobello Rd, Pakenham VIC 3810",145.4558,-38.0645
+317,LAKES ENTRANCE,Lakes Entrance Secondary College,,"1-11 North St, Lakes Entrance VIC 3909",147.9981,-37.8714
+318,LAKE BOLAC,Lake Bolac College,,"90 Montgomery St, Lake Bolac VIC 3351",142.8377,-37.7203
+319,MACLEOD,LA TROBE SECONDARY COLLEGE,,"235 Kingsbury Dr, Macleod VIC 3085",145.0576,-37.7291
+320,KYNETON,Kyneton Secondary College,,"Epping St, Kyneton VIC 3444",144.4621,-37.252
+321,KYABRAM,Kyabram P-12 College,,"57 Fischer St, Kyabram VIC 3620",145.0516,-36.3179
+322,MELTON,Kurunjang Secondary College,,"10 Kurunjang Dr, Kurunjang VIC 3337",144.5847,-37.6722
+323,CHURCHILL,Kurnai College,,"Northways Road & McDonald Way, Churchill VIC 3842",146.4251,-38.3115
+324,KORUMBURRA,Korumburra Secondary College,,"125 Jumbunna Rd, Korumburra VIC 3950",145.8038,-38.4437
+325,GLEN IRIS,Korowa Anglican Girl's School,,"10-16 Ranfurlie Cres, Glen Iris VIC 3146",145.0545,-37.8614
+326,MONT ALBERT NORTH,Koonung Secondary College,,"615 Elgar Rd, Mont Albert North VIC 3129",145.1177,-37.8023
+327,KOO WEE RUP,Koo Wee Rup Secondary College,,"Rossiter Rd, Koo Wee Rup VIC 3981",145.4855,-38.2014
+328,GREENVALE,Kolbe Catholic College,,"25 Dowling St, Rockingham WA 6168",115.7529,-32.2806
+329,BOX HILL,Kingswood College,,"355 Station St, Box Hill South VIC 3128",145.1207,-37.8324
+330,WARRNAMBOOL,Kings College,,"Upland Road, St Lucia QLD 4067",153.0099,-27.5007
+331,ORMOND,Kilvington Grammar School,,"2 Leila Rd, Ormond VIC 3204",145.0408,-37.9
+332,ORMOND,Kilvington Baptist Girls Grammar,,"2 Leila Rd, Ormond VIC 3204",145.0408,-37.9
+333,SPRINGVALE,Killester College,,"433 Springvale Rd., Springvale VIC 3171",145.1512,-37.9581
+334,MENTONE,Kilbreda College,,"118 Mentone Parade, Mentone VIC 3194",145.0649,-37.9832
+335,SPRINGVALE SOUTH,Keysborough College (Banksia),,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+336,SPRINGVALE SOUTH,Keysborough College - Coomoora,,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+337,SPRINGVALE SOUTH,Keysborough College - Banksia,,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+338,KEYSBOROUGH,Keysborough College,,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+339,KEW EAST,Kew High School,,"1393 Burke Rd, Kew East VIC 3102",145.0633,-37.7958
+340,KERANG,Kerang Technical High School,,"48 Murray Street, Kerang VIC 3585",143.9145,-35.7246
+341,KEILOR DOWNS,Keilor Downs College,NORTH WEST,"100-110 Odessa Ave, Keilor Downs VIC 3038",144.8115,-37.716
+342,KEALBA,Kealba Secondary College,,"88 Billingham Rd, Deer Park VIC 3023",144.7666,-37.7593
+343,FRANKSTON,KARINGAL PARK SECONDARY COLLEGE,,"31 Belar Ave, Frankston VIC 3199, Australia",145.1579,-38.1455
+344,BELL POST HILL,Kardinia International College,,"29-31 Kardinia Drive, Bell Post Hill VIC 3215",144.3287,-38.1126
+345,KANIVA,Kaniva College,,"Farmers St S, Kaniva VIC 3419",141.2453,-36.3825
+346,BROADMEADOWS,Kangan Institute of TAFE,,"1 Batmans Hill Dr, Docklands VIC 3008",144.9484,-37.8222
+347,BERWICK,Kambrya College,,"68 Bemersyde Dr, Berwick VIC 3806",145.3472,-38.0545
+348,FRANKSTON,John Paul College,,"John Paul Dr, Daisy Hill QLD 4127",153.1482,-27.6358
+349,CLAYTON,John Monash Science School,,"39 Innovation Walk, Clayton VIC 3800",145.1292,-37.9138
+350,FAWKNER,John Fawkner College,,"Jukes Rd, Fawkner VIC 3060",144.969,-37.7021
+351,IVANHOE,Ivanhoe Grammar School,,"41 The Ridgeway, Ivanhoe VIC 3079",145.0436,-37.7752
+352,IVANHOE,Ivanhoe Girls Grammar School,,"123 Marshall St, Ivanhoe VIC 3079",145.0476,-37.7665
+353,KEYSBOROUGH,Isik College - Dandenong,,"139 Chapel Rd, Keysborough VIC 3173",145.161,-38.0048
+354,BROADMEADOWS,Isik College,,"139 Chapel Rd, Keysborough VIC 3173",145.161,-38.0048
+355,BROADMEADOWS,Ilim College of Australia,,"30 Inverloch Cres, Dallas VIC 3047",144.9285,-37.6691
+356,MOUNT WAVERLEY,Huntingtower School,,"77 Waimarie Dr, Mount Waverley VIC 3149",145.1371,-37.878
+357,BROADMEADOWS,Hume Central Secondary College,,"64/78 Tanderrum Way, Broadmeadows VIC 3047",144.9153,-37.6804
+358,MICKLEHAM,Hume Anglican Grammar,,"100 Mt Ridley Rd, Mickleham VIC 3064",144.932,-37.5684
+359,HORSHAM,Horsham College,,"310 Baillie St, Horsham VIC 3400",142.1831,-36.7116
+360,HOPPERS CROSSING,Hoppers Crossing Secondary College,SOUTH WEST,"2 Fraser St, Hoppers Crossing VIC 3029",144.6953,-37.8713
+361,HOPETOUN,Hopetoun P-12 College,,"1 Dodgshun St, Hopetoun VIC 3396",142.3663,-35.7341
+362,HOLMESGLEN,Holmesglen Institute of TAFE,,"332 St Kilda Rd, Southbank VIC 3006",144.9705,-37.8299
+363,MELBOURNE,Holmes Secondary College,,"185 Spring St, Melbourne VIC 3000",144.9723,-37.8103
+364,CLYDE NORTH,Hillcrest Christian College,,"21 Bridgman Dr, Reedy Creek QLD 4227",153.3978,-28.1031
+365,MARYBOROUGH,Highview Christian Community College,,"21 Kars St, Maryborough VIC 3465",143.7353,-37.0517
+366,GLEN WAVERLEY,Highvale Secondary College,,"Capital Ave, Glen Waverley VIC 3150",145.1807,-37.8707
+367,HEYWOOD,Heywood and District Secondary College,,"23 Gorrie St, Heywood VIC 3304",141.6207,-38.1293
+368,OFFICER,Heritage College,,"2-10 Heritage Ct, Oakden SA 5086",138.6417,-34.8534
+369,HEATHMONT,Heathmont College,,"Waters Grove, Heathmont VIC 3135",145.2329,-37.8386
+370,CLARINDA,Heatherton Christian College,,"316-322 Kingston Road, Clarinda VIC 3169",145.1118,-37.9588
+371,SPRINGVALE SOUTH,HEATHERHILL SECONDARY COLLEGE,,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+372,WERRIBEE,Heathdale Christian College,SOUTH WEST,"175 Derrimut Rd, Werribee VIC 3030",144.682,-37.8808
+373,HEALESVILLE,Healesville High School,,"10 Camerons Rd, Healesville VIC 3777",145.5304,-37.644
+374,HAWTHORN EAST,Hawthorn Secondary College,,"Burgess St, Hawthorn East VIC 3123",145.0443,-37.8397
+375,HAWKESDALE,Hawkesdale College,,Hawkesdale VIC 3287,142.3048,-38.0541
+376,HAMPTON PARK,Hampton Park Secondary College,,"58-96 Fordholm Rd, Hampton Park VIC 3976",142.3048,-38.0541
+377,HALLAM,Hallam Senior Secondary College,,"74/84 Frawley Rd, Hallam VIC 3803",145.2619,-38.0003
+378,KEYSBOROUGH,Haileybury Girls College,,"855 Springvale Rd, Keysborough VIC 3173",145.1442,-37.9953
+379,KEYSBOROUGH,Haileybury College,,"855 Springvale Rd, Keysborough VIC 3173",145.1442,-37.9953
+380,GROVEDALE,Grovedale College,,"19 Wingarra Dr, Grovedale VIC 3216",144.3269,-38.2098
+381,GREENSBOROUGH,Greensborough Secondary College,,"Nell St, Greensborough VIC 3088",145.0994,-37.7092
+382,SHEPPARTON,Goulburn Valley Grammar School,,"455 Verney Rd, Shepparton VIC 3630",145.0994,-37.7092
+383,SHEPPARTON,Goulburn Ovens Institute Of TAFE,,"152-200 Fryers Street, Shepparton VIC 3630",145.405,36.3799
+384,GOROKE,Goroke P-12 College,,"Natimuk-Frances Rd, Goroke VIC 3412",141.515,-36.7182
+385,GEELONG,Gordon Institute,,"2 Fenwick St, Geelong VIC 3220",144.3543,-38.1489
+386,HAMILTON,Good Shepherd College,,"20 Ponsonby Rd, Ponsonby, Auckland 1011",174.7515,-36.8595
+387,TARNEIT,Good News Lutheran College,SOUTH WEST,"580 Tarneit Rd, Tarneit VIC 3029",144.6676,-37.8555
+388,BROADMEADOWS,Glenvale School,,"1/3 Killarney Dr, Melton VIC 3337",144.6049,-37.6822
+389,GLENROY,Glenroy Secondary College,,"120 Glenroy Rd, Glenroy VIC 3046",144.9249,-37.7057
+390,GLENROY,Glenroy College,,"120 Glenroy Rd, Glenroy VIC 3046",144.9249,-37.7057
+391,ENDEAVOUR HILLS,Gleneagles Secondary College,,"58 Reema Blvd, Endeavour Hills VIC 3802",145.2736,-37.974
+392,GLEN WAVERLEY,Glen Waverley Secondary College,,"O'sullivan Rd, Glen Waverley VIC 3150",145.1624,-37.8782
+393,CAULFIELD EAST,Glen Eira College,,"76 Booran Rd, Caulfield East VIC 3145",145.0375,-37.8853
+394,GLADSTONE PARK,Gladstone Park Secondary College,,"14-36 Taylor Drive, Gladstone Park VIC 3043",144.8896,-37.6891
+395,GISBORNE,Gisborne Secondary College,,"Gisborne Melton Rd, Gisborne VIC 3437",144.5647,-37.5255
+396,BENDIGO,Girton Grammar School,,"105 MacKenzie St, Bendigo VIC 3550",144.2707,-36.7616
+397,SALE,Gippsland Grammar,,"Princes Hwy, Sale VIC 3850",147.0693,-38.0915
+398,TAYLORS HILL,Gilson College,NORTH WEST,"450 Taylors Rd, Taylors Hill VIC 3037",144.7627,-37.7251
+399,FOOTSCRAY,Gilmore College For Girls,INNER WEST,"298 Barkly St, Footscray VIC 3011",144.8939,-37.7989
+400,KEW,Genazzano F.C.J. College,,"301 Cotham Rd, Kew VIC 3101",145.056,-37.8087
+401,ARMSTRONG CREEK,Geelong Lutheran College,,"2-38 Burvilles Rd, Mount Duneed VIC 3216",144.3382,-38.2305
+402,EAST GEELONG,Geelong High School,,"385 Ryrie St, East Geelong VIC 3219",144.3736,-38.153
+403,CORIO,Geelong Grammar School,,"50 Biddlecombe Ave, Corio VIC 3214",144.3974,-38.0696
+404,LOVELY BANKS,Geelong Baptist College,,"590 Anakie Rd, Lovely Banks VIC 3221",144.328,-38.0673
+405,WERRIBEE,Galvin Park Secondary College,SOUTH WEST,"101 Shaws Rd, Werribee VIC 3030",144.6539,-37.889
+406,WANGARATTA,Galen College,,"188 - 244 Phillipson St, Wangaratta VIC 3677",146.3085,-36.3396
+407,FRANKSTON,Frankston High School,,"97 Foot St, Frankston VIC 3199",145.1291,-38.1612
+408,FOUNTAIN GATE,Fountain Gate Secondary College,,"45 Josephine Ave, Narre Warren VIC 3805",145.2952,-38.0051
+409,BURWOOD EAST,Forest Hill College,,"178/180 Mahoneys Rd, Forest Hill VIC 3131",145.165,-37.843
+410,FOOTSCRAY,Footscray City College,INNER WEST,"Kinnear St, Footscray VIC 3011",144.8918,-37.791
+411,TRARALGON,Flinders Christian Community College,,"2-10 Lansdowne Rd, Traralgon VIC 3844",146.5511,-38.2089
+412,FITZROY NORTH,Fitzroy High School,,"Falconer St, Fitzroy VIC 3068",144.9882,-37.7844
+413,BRIGHTON,Firbank Grammar School,,"51 Outer Cres, Brighton VIC 3186",144.9967,-37.9057
+414,BALWYN,Fintona Girls School,,"79 Balwyn Rd, Balwyn VIC 3103",145.0808,-37.8148
+415,MORWELL,Federation Training,,"48 Main St, Bairnsdale VIC 3875",147.6357,-37.8257
+416,FAWKNER,Fawkner Secondary College,,"Jukes Rd, Fawkner VIC 3060",144.969,-37.7021
+417,KNOXFIELD,Fairhills High School,,"330 Scoresby Rd, Knoxfield VIC 3180",145.2595,-37.8728
+418,BENALLA,F.C.J. College,,"36 Arundel St, Benalla VIC 3672",145.9847,-36.5586
+419,EUROA,Euroa Secondary College,,"26 Campbell St, Euroa VIC 3666",145.5653,-36.7575
+420,ESSENDON,Essendon Keilor College,,"286 Buckley St, Essendon VIC 3040",144.9017,-37.7553
+421,EPPING,Epping Secondary College,,"McDonalds Rd, Epping VIC 3076",145.0484,-37.6468
+422,VERMONT SOUTH,Emmaus College,,"503 Springvale Rd, Vermont South VIC 3133",145.1711,-37.8458
+423,ALTONA NORTH,Emmanuel College,INNER WEST,"17 Birmingham Rd, Carrara QLD 4211",153.369,-28.0149
+424,EMERALD,Emerald Secondary College,,"425 Belgrave-Gembrook Rd, Emerald VIC 3782",145.4591,-37.9238
+425,ELWOOD,Elwood College,,"101 Glen Huntly Rd, Elwood VIC 3184",144.9846,-37.8821
+426,ELTHAM,Eltham High School,,"30-60 Withers Way, Eltham VIC 3095",145.1416,-37.7246
+427,RESEARCH,Eltham College,,"1660 Main Rd, Research VIC 3095",145.1908,-37.6999
+428,LANGWARRIN,Elisabeth Murdoch College,,"80 Warrandyte Rd, Langwarrin VIC 3910",145.1898,-38.159
+429,LILYDALE,Edinburgh College,,"33-61 Edinburgh Road, Lilydale VIC 3140",145.3514,-37.7844
+430,EDENHOPE,Edenhope College,,"40-48 Lake St, Edenhope VIC 3318",141.2938,-37.0355
+431,ECHUCA,Echuca College,,"20-50 Butcher St., Echuca VIC 3564",144.731,-36.1332
+432,PRESTON EAST,East Preston Islamic College,,"55 Tyler St, Preston VIC 3072",145.0359,-37.7336
+433,DINGEE,East Loddon P-12 College,,"Dingee Rd, Dingee VIC 3571",144.183,-36.3709
+434,BAIRNSDALE,East Gippsland Institute of TAFE,,"Bairnsdale, VIC, 3875",147.6167,-37.8333
+435,DONCASTER EAST,East Doncaster Secondary College,,"20 George St, Doncaster East VIC 3109",145.1588,-37.7822
+436,DROUIN,Drouin Secondary College,,"Main S Rd, Drouin VIC 3818",145.848,-38.1459
+437,DROMANA,Dromana Secondary College,,"110 Harrisons Rd, Dromana VIC 3936",145.0138,-38.3427
+438,DONVALE,Donvale Christian College,,"155 Tindals Rd, Donvale VIC 3111",145.1945,-37.774
+439,DONCASTER,Doncaster Secondary College,,"123 Church Rd, Doncaster VIC 3108",145.1382,-37.7839
+440,DONALD,Donald High School,,"2-16 camp street, Donald VIC 3480",142.9754,-36.3713
+441,THORNBURY,Distance Education Victoria,,"315 Clarendon St, Thornbury VIC 3071",145.0257,-37.7621
+442,DIMBOOLA,Dimboola Memorial Secondary College,,"Ellerman Street, Dimboola VIC 3414",142.0285,-36.4448
+443,GREENSBOROUGH,Diamond Valley Learn Centre,,"Corner Of Diamond Creek & St Helena Rds, Greensborough VIC 3088",145.1077,-37.6997
+444,DIAMOND CREEK,Diamond Valley College,,"165-179 Main Hurstbridge Rd, Diamond Creek VIC 3089",145.168,-37.6722
+445,DERRINALLUM,Derrinallum P-12 College,,"Campbell St, Derrinallum VIC 3325",143.2152,-37.94
+446,DERRINALLUM,Derrinallum P12 College,,"Campbell St, Derrinallum VIC 3326",143.2152,-37.94
+447,DEER PARK,Deer Park Secondary College,NORTH WEST,"88 Billingham Rd, Deer Park VIC 3023",144.7666,-37.7593
+448,FLEMINGTON,Debney Park Secondary College,,"167-175 Mt Alexander Rd, Flemington VIC 3031",144.9339,-37.7827
+449,MALVERN,De La Salle College,,"1318 High St, Malvern VIC 3144",145.0321,-37.8572
+450,DAYLESFORD,Daylesford Secondary College,,"Smith St, Daylesford VIC 3460",144.1509,-37.3367
+451,FAWKNER,Darul Ulum College of Victoria,,"17 Baird St, Fawkner VIC 3060, Fawkner VIC 3060",144.971,-37.7052
+452,DANDENONG,DANDENONG HIGH SCHOOL - CLEELAND,,"92-106 Princes Hwy, Dandenong VIC 3175",145.2086,-37.9792
+453,DANDENONG,Dandenong High School,,"92-106 Princes Hwy, Dandenong VIC 3175",145.2086,-37.9792
+454,MOUNT CLEAR,Damascus College,,"1412 Geelong Rd, Mount Clear VIC 3350",143.8707,-37.6114
+455,CROYDON,Croydon Secondary College,,"20 Brentnall Rd, Croydon VIC 3136",145.2626,-37.7953
+456,CRANBOURNE,Cranbourne Secondary College,,"Stawell St, Cranbourne VIC 3977",145.2869,-38.1084
+457,CRANBOURNE EAST,Cranbourne East Secondary College,,"50 Stately Dr, Cranbourne East VIC 3977",145.3061,-38.1049
+458,CRAIGIEBURN,Craigieburn Secondary College,,"102 Hothlyn Dr, Craigieburn VIC 3064",144.9361,-37.6084
+459,BELL POST HILL,Covenant College,,"14049 Scenic Hwy, Lookout Mountain, GA 30750",-85.3743,34.9665
+460,CORRYONG,Corryong College,,"27-45 Towong Rd, Corryong VIC 3707",147.9106,-36.1926
+461,BANGHOLME,Cornish College,,"65 Riverend Rd, Bangholme VIC 3175",145.1515,-38.0491
+462,CORIO,Corio Bay Senior College,,"38 Hendy St, Corio VIC 3214",144.3666,-38.0715
+463,DELAHEY,Copperfield College,,"70 Goldsmith Ave, Delahey VIC 3037",144.7721,-37.7198
+464,SPRINGVALE SOUTH,COOMOORA SECONDARY COLLEGE,,"8-20 Janine Rd, Springvale South VIC 3172",145.1595,-37.9668
+465,COLLINGWOOD,Collingwood College,,"Cromwell St & McCutcheon Way, Abbotsford VIC 3067",144.9904,-37.8034
+466,COLAC,Colac Secondary College,,"173 Queen St, Colac VIC 3250",143.5907,-38.3516
+467,COLAC,COLAC HIGH SCHOOL,,"173 Queen St, Colac VIC 3250",143.5907,-38.3516
+468,COLAC,COLAC COLLEGE,,"174 Queen St, Colac VIC 3250",143.5907,-38.3516
+469,COHUNA,Cohuna Secondary College,,"6415 Murray Valley Hwy, Cohuna VIC 3568",144.227,-35.8133
+470,COBURG,Coburg Senior High School,,"101 Urquhart St, Coburg VIC 3058",144.9768,-37.7414
+471,COBRAM,Cobram Secondary College,,"25/47 Warkil St, Cobram VIC 3644",145.6543,-35.9135
+472,COBRAM,Cobram Anglican Grammar School,,"40-48 Campbell Rd, Cobram VIC 3644",145.6601,-35.9243
+473,COBDEN,Cobden Technical School,,"McKenzie St, Cobden VIC 3266",143.069,-38.3195
+474,GEELONG WEST,Clonard College,,"225-239 Church St, Herne Hill VIC 3218",144.33,-38.1298
+475,WAURN PONDS,Christian College,,"59 Parsons St, Sunshine VIC 3020",144.8392,-37.7913
+476,ST KILDA EAST,Christian Brothers College,,"214 Wakefield St, Adelaide SA 5000",138.6094,-34.9281
+477,COBRAM,Christ the King Anglican College,,"40-48 Campbell Rd, Cobram VIC 3644",145.6601,-35.9243
+478,DANDENONG,Chisholm Institute,,"121 Stud Rd, Dandenong VIC 3175",145.2196,-37.9752
+479,CHELTENHAM,Cheltenham Secondary College,,"73 Bernard St, Cheltenham VIC 3192",145.0684,-37.9539
+480,CHARLTON,Charlton College,,"Davies Street, Charlton VIC 3525",143.3558,-36.2694
+481,MACLEOD WEST,Charles La Trobe P-12 College,,"235 Kingsbury Dr, Macleod VIC 3085",145.0576,-37.7291
+482,DROUIN,Chairo Christian School,,"76 Balfour Rd, Drouin VIC 3818",145.8785,-38.1428
+483,MELBOURNE,Centre for Adult Education,,"253 Flinders Ln, Melbourne VIC 3000",144.9658,-37.8169
+484,NEWBOROUGH,Central Gippsland Institute of TAFE,,"GPO Box 5387, Melbourne, Australia, 3001",144.9623,-37.8142
+485,ST KILDA EAST,Caulfield Grammar School,,"217 Glen Eira Rd, East St Kilda VIC 3183",145.0037,-37.8776
+486,MELTON WEST,Catholic Regional College,,"10-28 College St, Caroline Springs VIC 3023",144.7396,-37.7289
+487,ELTHAM,Catholic Ladies College,,"19 Diamond St, Eltham VIC 3095",145.1434,-37.7117
+488,WODONGA,Catholic College Wodonga,,"1 Bowman Ct, Wodonga VIC 3690",146.8625,-36.1297
+489,SALE,Catholic College Sale,,"Our Lady of Sion Campus, Cnr York St and Raglan St, Sale VIC 3850",147.0672,-38.0991
+490,BENDIGO,Catholic College Bendigo,,"Barkly St, Bendigo VIC 3550",144.2762,-36.7526
+491,WANGARATTA,Cathedral College,,"344 Wangaratta-Whitfield Rd, Wangaratta VIC 3677",146.3301,-36.3862
+492,CASTLEMAINE,Castlemaine Secondary College,,"Etty St, Castlemaine VIC 3450",144.2121,-37.0774
+493,CASTERTON,Casterton Secondary College,,"27 Mt Gambier Rd, Casterton VIC 3311",141.3877,-37.5888
+494,CRANBOURNE,Casey Grammar School,,"3 New Holland Dr, Cranbourne East VIC 3977",145.2933,-38.1104
+495,NOBLE PARK NORTH,Carwatha College P-12,,"43-81 Browns Road, Noble Park North VIC 3174",145.1888,-37.9422
+496,CARRUM DOWNS,Carrum Downs Secondary College,,"263 McCormicks Rd, Carrum Downs VIC 3201",145.1982,-38.0962
+497,CAROLINE SPRINGS,Caroline Springs College,NORTH WEST,"CAROLINE SPRINGS , VIC, 3023",144.74,-37.745
+498,BRAYBROOK,Caroline Chisholm Catholic College,,"204 Churchill Ave, Braybrook VIC 3019",144.8482,-37.7866
+499,KEW,Carey Baptist Grammar School,,"349 Barkers Rd, Kew VIC 3101",145.0479,-37.8145
+500,CANTERBURY,Canterbury Girls Secondary College,,"16 Mangarra Rd, Canterbury VIC 3126",145.0689,-37.8201
+501,CANN RIVER,Cann River P-12 College,,"20-24 Tamboon Rd, Cann River VIC 3890",149.1532,-37.569
+502,CAMPERDOWN,Camperdown College,,"1 Wilson St, Camperdown VIC 3260",143.1455,-38.2394
+503,CANTERBURY,Camberwell High School,,"Prospect Hill Rd, Canterbury VIC 3126",145.0784,-37.8306
+504,CANTERBURY,Camberwell Grammar School,,"55 Mont Albert Rd, Canterbury VIC 3126",145.0687,-37.8168
+505,CANTERBURY,Camberwell Girls Grammar School,,"2 Torrington St, Canterbury VIC 3126",145.0604,-37.8186
+506,BUNDOORA,Bundoora Secondary College,,"53 Balmoral Ave, Bundoora VIC 3083",145.0623,-37.7071
+507,ESSENDON,Buckley Park College,,"Cooper St, Essendon VIC 3040",144.8972,-37.7497
+508,BRUNSWICK,Brunswick Secondary College,,"47 Dawson St, Melbourne VIC 3056",144.9553,-37.771
+509,BROADMEADOWS,Broadmeadows Secondary College,,"Blair Street, Broadmeadows, VIC, 3047",144.9282,-37.6808
+510,BROADFORD,Broadford Secondary College,,"2-12 Pinniger St, Broadford VIC 3658",145.0407,-37.2041
+511,ST ALBANS,Brimbank College,NORTH WEST,"5A Jamieson St, St Albans VIC 3021",144.786,-37.7418
+512,BRIGHTON EAST,Brighton Secondary College,,"120 Marriage Rd, Brighton East VIC 3187",145.0191,-37.9204
+513,BRIGHTON,Brighton Grammar School,,"90 Outer Cres, Brighton VIC 3186",144.9938,-37.9082
+514,BRIGHT,Bright P-12 College,,"Bakers Gully Rd & Park St, Bright VIC 3741",146.9607,-36.7317
+515,GLEN WAVERLEY,Brentwood Secondary College,,"65-71 Watsons Rd, Glen Waverley VIC 3150",145.1687,-37.8975
+516,BRAYBROOK,Braybrook College,,"352 Ballarat Rd, Braybrook VIC 3019",144.8483,-37.7789
+517,WARRNAMBOOL,Brauer College,,"37 Caramut Rd, Warrnambool VIC 3280",142.4604,-38.3595
+518,WOODEND,Braemar College,,"1499 Mount Macedon Rd, Woodend VIC 3442",144.5709,-37.3618
+519,MONT ALBERT NORTH,Box Hill Senior Secondary College,,"19 Dunloe Ave, Mont Albert North VIC 3129",145.1142,-37.8094
+520,BOX HILL,Box Hill Institute of TAFE,,"465 Elgar Rd, Box Hill VIC 3128",145.1153,-37.8154
+521,BOX HILL,Box Hill High School,,"1180 Whitehorse Rd, Box Hill VIC 3128",145.1373,-37.8199
+522,GLENROY,Box Forest Secondary College,,"120 Glenroy Rd, Glenroy VIC 3046",144.9249,-37.7057
+523,BORONIA,Boronia K-12 College,,"35-37 Albert Ave, Boronia VIC 3155",145.294,-37.8594
+524,BOORT,Boort District P-12 School,,"1 Malone St, Boort VIC 3537",143.7252,-36.1102
+525,BLACKBURN,Blackburn High School,,"58-62 Springfield Rd, Blackburn VIC 3130",145.1499,-37.8103
+526,BIRCHIP,Birchip P-12 School,,Birchip VIC 3483,142.9146,-35.9833
+527,MOOROOLBARK,Billanook College,,"197-199 Cardigan Rd, Mooroolbark VIC 3138",145.3381,-37.7857
+528,HAWTHORN EAST,Bialik College,,"429 Auburn Rd, Hawthorn East VIC 3123",145.0418,-37.8413
+529,ST KILDA EAST,Beth Rivkah Ladies College,,"1 Empress Rd, St Kilda East VIC 3183",145.0013,-37.8687
+530,BERWICK,Berwick Secondary College,,"Manuka Rd, Berwick VIC 3806",145.3654,-38.0331
+531,OFFICER,Berwick Grammar School,,"80 Tivendale Rd, Officer VIC 3809",145.4118,-38.0529
+532,BENTLEIGH EAST,Bentleigh Secondary College,,"4 Vivien St, Bentleigh East VIC 3165",145.0594,-37.9275
+533,BENDIGO,Bendigo Senior Secondary College,,"Gaol Rd, Bendigo VIC 3550",144.2783,-36.7551
+534,BENDIGO,Bendigo Regional Institute of TAFE,,"23 Mundy St, Bendigo VIC 3550",144.2835,-36.758
+535,BENALLA,Benalla P-12 College,,"44 Clarke St, Benalla VIC 3672",145.968,-36.5538
+536,BELMONT,Belmont High School,,"Rotherham St, Belmont VIC 3216",144.3308,-38.1754
+537,DRYSDALE,Bellarine Secondary College,,"Peninsula Dr, Drysdale VIC 3222",144.5556,-38.189
+538,BELGRAVE HEIGHTS,Belgrave Heights Christian School,,"Wattle Valley Rd, Belgrave Heights VIC 3160",145.3451,-37.9199
+539,BEECHWORTH,Beechworth Secondary College,,"85 Balaclava Rd, Beechworth VIC 3747",146.6906,-36.3468
+540,BEAUFORT,Beaufort Secondary College,,"Park Rd, Beaufort VIC 3373",143.3813,-37.4378
+541,BERWICK,Beaconhills College,,"30-34 Toomuc Valley Rd, Pakenham VIC 3810",145.4665,-38.0616
+542,PORTLAND,Bayview College,,"119 Bentinck St, Portland VIC 3305",141.6062,-38.3452
+543,BAYSWATER,Bayswater Secondary College,,"Orchard Rd, Bayswater VIC 3153",145.2607,-37.8392
+544,NEWPORT,Bayside P-12 College,,"P-9, 1 Mcarthurs Road, Altona VIC 3025",144.8469,-37.8375
+545,LANGWARRIN SOUTH,Bayside Christian College,,"120-128 Robinsons Rd, Langwarrin South VIC 3911",145.1627,-38.1774
+546,HEIDELBERG WEST,Banksia Latrobe Secondary College,,"235 Kingsbury Dr, Macleod VIC 3085",145.0576,-37.7291
+547,BALWYN NORTH,Balwyn High School,,"Buchanan Ave, Balwyn North VIC 3104",145.077,-37.7983
+548,BALMORAL,Balmoral P-12 Comm College,,"Harrow-Balmoral Rd, Balmoral VIC 3407",141.7708,-37.2459
+549,BALLARAT,Ballarat Secondary College,,"1 Fussell St, Ballarat East VIC 3350",143.8921,-37.5595
+550,BALLARAT,Ballarat High School,,"Sturt Street, West Ballarat VIC 3350",143.8212,-37.5565
+551,WENDOUREE,Ballarat Grammar School,,"201 Forest St, Wendouree VIC 3355",143.8322,-37.5357
+552,BALLARAT,Ballarat Clarendon College,,"1425 Sturt St, Ballarat VIC 3350",143.8347,-37.5596
+553,SEBASTOPOL,Ballarat Christian College,,"111A Yarrowee St, Sebastopol VIC 3356",143.8432,-37.5925
+554,MOUNT MARTHA,Balcombe Grammar School,,"389 Nepean Hwy, Mount Martha VIC 3934",145.0326,-38.2759
+555,BAIRNSDALE,Bairnsdale Secondary College,,"90 McKean St, Bairnsdale VIC 3875",145.0326,-38.2759
+556,HAMILTON,Baimbridge College,,"85 Stephen St, Hamilton VIC 3300",142.0147,-37.7334
+557,BACCHUS MARSH,Bacchus Marsh Grammar,,"S Maddingley Rd, Maddingley VIC 3340",144.4301,-37.6944
+558,BACCHUS MARSH,Bacchus Marsh College,,"Grant St, Bacchus Marsh VIC 3340",144.4344,-37.6808
+559,MOUNT WAVERLEY,Avila College,,"35 Charles St, Mount Waverley VIC 3149",145.1337,-37.8747
+560,ABERFELDIE,Ave Maria College,,"14/22 Vida St, Aberfeldie VIC 3040",-37.757,-37.757
+561,COBURG,Australian International Academy,,"56 Bakers Rd., North Coburg VIC 3058",144.9585,-37.7263
+562,HAWTHORN EAST,Auburn High School,,"26 Burgess Street, East Hawthorn, VIC 3123",145.0437,-37.8396
+563,KILMORE,Assumption College,,"Sutherland St, Kilmore VIC 3764",144.9478,-37.3035
+564,ASHWOOD,Ashwood Secondary College,,"50 Vannam Dr, Ashwood VIC 3147",145.1032,-37.865
+565,ARARAT,Ararat Secondary College,,"4-30 Barkly St, Ararat VIC 3377",142.922,-37.2856
+566,RINGWOOD,Aquinas College,,"58 Mount Henry Rd, Salter Point WA 6152",115.8655,-32.024
+567,APOLLO BAY,Apollo Bay P-12 College,,"Pengilley Ave, Apollo Bay VIC 3233",143.6624,38.7541
+568,PASCOE VALE SOUTH,Antonine College,,"Harding St, Coburg VIC 3058",144.9734,-37.7458
+569,TRUGANINA,Al-Taqwa College,SOUTH WEST,"201 Sayers Rd, Truganina VIC 3029",144.7222,-37.8523
+570,ALPHINGTON,Alphington Grammar School,,"18 Old Heidelberg Road, Alphington VIC 3078",145.0365,-37.7802
+571,CRANBOURNE NORTH,Alkira Secondary College,,"15 Nurture Ave, Cranbourne North VIC 3977",145.3105,-38.0737
+572,HAWTHORN EAST,Alia College,,"405 Tooronga Rd, Hawthorn East VIC 3123",145.0449,-37.8433
+573,ALEXANDRA,Alexandra Secondary College,,"Downey St, Alexandra VIC 3714",145.7097,-37.1916
+574,ALBERT PARK,Albert Park College,,"83 Danks St, Albert Park VIC 3206",144.9482,-37.8453
+575,EPPING,Al Siraat College,,"45 Harvest Home Rd, Epping VIC 3076",145.0367,-37.6241
+576,GREENVALE,Aitken College,,"1010 Mickleham Road, Greenvale VIC 3059",144.8831,-37.6264
+577,FITZROY,Academy of Mary Immaculate,,"88 Nicholson St, Fitzroy VIC 3065",144.974,-37.8036
