@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>School Scores</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      #map {
+        height: 100%;
+      }
+
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      var map;
+      function initMap() {
+        //Get school data 
+
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: -37.81569599, lng: 144.965091},
+          zoom: 12
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZlWKvJkg04PPJ9UsWAD-Ld1noAPzp03M&callback=initMap"
+    async defer></script>
+  </body>
+</html>
