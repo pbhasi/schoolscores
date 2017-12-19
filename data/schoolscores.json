@@ -1,0 +1,5195 @@
+[
+  {
+    "schoolid": 1,
+    "precent_above_40": 17.9,
+    "suburb": "ELWOOD",
+    "schoolname": "Yesodei HaTorah College",
+    "address": "39 Dickens St, Elwood VIC 3184",
+    "longitude": 144.9836,
+    "latitude": -37.8729
+  },
+  {
+    "schoolid": 289,
+    "precent_above_40": 39,
+    "suburb": "MELBOURNE",
+    "schoolname": "Mac.Robertson Girls High School",
+    "address": "350-370 Kings Way, Melbourne VIC 3004",
+    "longitude": 144.9722,
+    "latitude": -37.836
+  },
+  {
+    "schoolid": 260,
+    "precent_above_40": 35.6,
+    "suburb": "SOUTH YARRA",
+    "schoolname": "Melbourne High School",
+    "address": "Forrest Hill, South Yarra VIC 3141",
+    "longitude": 144.9954,
+    "latitude": -37.8368
+  },
+  {
+    "schoolid": 528,
+    "precent_above_40": 35,
+    "suburb": "HAWTHORN EAST",
+    "schoolname": "Bialik College",
+    "address": "429 Auburn Rd, Hawthorn East VIC 3123",
+    "longitude": 145.0418,
+    "latitude": -37.8413
+  },
+  {
+    "schoolid": 227,
+    "precent_above_40": 35,
+    "suburb": "BURWOOD",
+    "schoolname": "Mount Scopus Memorial College",
+    "address": "245 Burwood Hwy, Burwood VIC 3125",
+    "longitude": 145.1165,
+    "latitude": -37.8501
+  },
+  {
+    "schoolid": 150,
+    "precent_above_40": 32,
+    "suburb": "KEW",
+    "schoolname": "Ruyton Girls School",
+    "address": "12 Selbourne Rd, Kew VIC 3101",
+    "longitude": 145.0387,
+    "latitude": -37.8124
+  },
+  {
+    "schoolid": 306,
+    "precent_above_40": 32,
+    "suburb": "ELSTERNWICK",
+    "schoolname": "Leibler Yavneh College",
+    "address": "2 Nagle Ave, Elsternwick VIC 3185",
+    "longitude": 145.0064,
+    "latitude": -37.8931
+  },
+  {
+    "schoolid": 2,
+    "precent_above_40": 31.9,
+    "suburb": "ST KILDA EAST",
+    "schoolname": "Yeshivah College",
+    "address": "1 Empress Rd, St Kilda East VIC 3183",
+    "longitude": 145.0013,
+    "latitude": -37.8687
+  },
+  {
+    "schoolid": 529,
+    "precent_above_40": 30.5,
+    "suburb": "ST KILDA EAST",
+    "schoolname": "Beth Rivkah Ladies College",
+    "address": "1 Empress Rd, St Kilda East VIC 3183",
+    "longitude": 145.0013,
+    "latitude": -37.8687
+  },
+  {
+    "schoolid": 169,
+    "precent_above_40": 28.8,
+    "suburb": "BURWOOD",
+    "schoolname": "Presbyterian Ladies College",
+    "address": "141 Burwood Hwy, Burwood VIC 3125",
+    "longitude": 145.1071,
+    "latitude": -37.8489
+  },
+  {
+    "schoolid": 552,
+    "precent_above_40": 28.1,
+    "suburb": "BALLARAT",
+    "schoolname": "Ballarat Clarendon College",
+    "address": "1425 Sturt St, Ballarat VIC 3350",
+    "longitude": 143.8347,
+    "latitude": -37.5596
+  },
+  {
+    "schoolid": 414,
+    "precent_above_40": 27.6,
+    "suburb": "BALWYN",
+    "schoolname": "Fintona Girls School",
+    "address": "79 Balwyn Rd, Balwyn VIC 3103",
+    "longitude": 145.0808,
+    "latitude": -37.8148
+  },
+  {
+    "schoolid": 505,
+    "precent_above_40": 27.3,
+    "suburb": "CANTERBURY",
+    "schoolname": "Camberwell Girls Grammar School",
+    "address": "2 Torrington St, Canterbury VIC 3126",
+    "longitude": 145.0604,
+    "latitude": -37.8186
+  },
+  {
+    "schoolid": 104,
+    "precent_above_40": 27.1,
+    "suburb": "TOORAK",
+    "schoolname": "St Kevins College",
+    "address": "31 Moonga Rd, Toorak VIC 3142",
+    "longitude": 145.0276,
+    "latitude": -37.8394
+  },
+  {
+    "schoolid": 356,
+    "precent_above_40": 27,
+    "suburb": "MOUNT WAVERLEY",
+    "schoolname": "Huntingtower School",
+    "address": "77 Waimarie Dr, Mount Waverley VIC 3149",
+    "longitude": 145.1371,
+    "latitude": -37.878
+  },
+  {
+    "schoolid": 298,
+    "precent_above_40": 27,
+    "suburb": "TOORAK",
+    "schoolname": "Loreto Mandeville Hall",
+    "address": "10 Mandeville Cres, Toorak VIC 3142",
+    "longitude": 145.0128,
+    "latitude": -37.848
+  },
+  {
+    "schoolid": 138,
+    "precent_above_40": 26.6,
+    "suburb": "HAWTHORN",
+    "schoolname": "Scotch College",
+    "address": "1 Morrison St, Hawthorn VIC 3122",
+    "longitude": 145.0295,
+    "latitude": -37.8339
+  },
+  {
+    "schoolid": 176,
+    "precent_above_40": 26.2,
+    "suburb": "KEILOR EAST",
+    "schoolname": "Penleigh and Essendon Grammar",
+    "address": "Keilor Rd & Rachelle Rd, Keilor East VIC 3033",
+    "longitude": 144.8717,
+    "latitude": -37.7303
+  },
+  {
+    "schoolid": 66,
+    "precent_above_40": 26,
+    "suburb": "ARMADALE",
+    "schoolname": "The King David School",
+    "address": "517 Orrong Rd, Armadale VIC 3143",
+    "longitude": 145.0108,
+    "latitude": -37.8585
+  },
+  {
+    "schoolid": 325,
+    "precent_above_40": 26,
+    "suburb": "GLEN IRIS",
+    "schoolname": "Korowa Anglican Girls School",
+    "address": "10-16 Ranfurlie Cres, Glen Iris VIC 3146",
+    "longitude": 145.0545,
+    "latitude": -37.8614
+  },
+  {
+    "schoolid": 112,
+    "precent_above_40": 26,
+    "suburb": "TOORAK",
+    "schoolname": "St Catherines School",
+    "address": "17 Heyington Pl, Toorak VIC 3142",
+    "longitude": 145.0218,
+    "latitude": -37.8378
+  },
+  {
+    "schoolid": 378,
+    "precent_above_40": 25,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Haileybury Girls College",
+    "address": "855 Springvale Rd, Keysborough VIC 3173",
+    "longitude": 145.1442,
+    "latitude": -37.9953
+  },
+  {
+    "schoolid": 261,
+    "precent_above_40": 25,
+    "suburb": "MELBOURNE",
+    "schoolname": "Melbourne Grammar School",
+    "address": "355 St Kilda Rd, Melbourne VIC 3004",
+    "longitude": 144.9759,
+    "latitude": -37.8335
+  },
+  {
+    "schoolid": 136,
+    "precent_above_40": 25,
+    "suburb": "CAULFIELD",
+    "schoolname": "Shelford Girls Grammar",
+    "address": "3 Hood Cres, Caulfield VIC 3161",
+    "longitude": 145.0118,
+    "latitude": -37.8775
+  },
+  {
+    "schoolid": 149,
+    "precent_above_40": 24.9,
+    "suburb": "GLEN IRIS",
+    "schoolname": "Sacre Coeur",
+    "address": "172 Burke Rd, Glen Iris VIC 3146",
+    "longitude": 145.0531,
+    "latitude": -37.8629
+  },
+  {
+    "schoolid": 504,
+    "precent_above_40": 24.9,
+    "suburb": "CANTERBURY",
+    "schoolname": "Camberwell Grammar School",
+    "address": "55 Mont Albert Rd, Canterbury VIC 3126",
+    "longitude": 145.0687,
+    "latitude": -37.8168
+  },
+  {
+    "schoolid": 310,
+    "precent_above_40": 24.8,
+    "suburb": "ARMADALE",
+    "schoolname": "Lauriston Girls School",
+    "address": "38 Huntingtower Rd, Armadale VIC 3143",
+    "longitude": 145.0248,
+    "latitude": -37.8511
+  },
+  {
+    "schoolid": 199,
+    "precent_above_40": 24.7,
+    "suburb": "BERWICK",
+    "schoolname": "Nossal High School",
+    "address": "Sir Gustav Nossal Boulevarde, 100 Clyde Road, Berwick VIC 3806",
+    "longitude": 145.336,
+    "latitude": -38.0392
+  },
+  {
+    "schoolid": 262,
+    "precent_above_40": 24.5,
+    "suburb": "SOUTH YARRA",
+    "schoolname": "Melbourne Girls Grammar",
+    "address": "86 Anderson St, South Yarra VIC 3141",
+    "longitude": 144.985,
+    "latitude": -37.8309
+  },
+  {
+    "schoolid": 249,
+    "precent_above_40": 24.4,
+    "suburb": "KEW",
+    "schoolname": "Methodist Ladies College",
+    "address": "207 Barkers Rd, Kew VIC 3101",
+    "longitude": 145.0387,
+    "latitude": -37.814
+  },
+  {
+    "schoolid": 88,
+    "precent_above_40": 24,
+    "suburb": "CANTERBURY",
+    "schoolname": "Strathcona Baptist Girls Grammar School",
+    "address": "34 Scott St, Canterbury VIC 3126",
+    "longitude": 145.0804,
+    "latitude": -37.8292
+  },
+  {
+    "schoolid": 413,
+    "precent_above_40": 23.7,
+    "suburb": "BRIGHTON",
+    "schoolname": "Firbank Grammar School",
+    "address": "51 Outer Cres, Brighton VIC 3186",
+    "longitude": 144.9967,
+    "latitude": -37.9057
+  },
+  {
+    "schoolid": 349,
+    "precent_above_40": 22.2,
+    "suburb": "CLAYTON",
+    "schoolname": "John Monash Science School",
+    "address": "39 Innovation Walk, Clayton VIC 3800",
+    "longitude": 145.1292,
+    "latitude": -37.9138
+  },
+  {
+    "schoolid": 485,
+    "precent_above_40": 22,
+    "suburb": "ST KILDA EAST",
+    "schoolname": "Caulfield Grammar School",
+    "address": "217 Glen Eira Rd, East St Kilda VIC 3183",
+    "longitude": 145.0037,
+    "latitude": -37.8776
+  },
+  {
+    "schoolid": 255,
+    "precent_above_40": 22,
+    "suburb": "MENTONE",
+    "schoolname": "Mentone Girls Grammar School",
+    "address": "11 Mentone Parade, Mentone VIC 3194",
+    "longitude": 145.053,
+    "latitude": -37.9798
+  },
+  {
+    "schoolid": 400,
+    "precent_above_40": 21.4,
+    "suburb": "KEW",
+    "schoolname": "Genazzano F.C.J. College",
+    "address": "301 Cotham Rd, Kew VIC 3101",
+    "longitude": 145.056,
+    "latitude": -37.8087
+  },
+  {
+    "schoolid": 53,
+    "precent_above_40": 21.3,
+    "suburb": "KEW",
+    "schoolname": "Trinity Grammar School",
+    "address": "119 Prospect Rd, Summer Hill NSW 2130",
+    "longitude": 151.1308,
+    "latitude": -33.8995
+  },
+  {
+    "schoolid": 352,
+    "precent_above_40": 20.8,
+    "suburb": "IVANHOE",
+    "schoolname": "Ivanhoe Girls Grammar School",
+    "address": "123 Marshall St, Ivanhoe VIC 3079",
+    "longitude": 145.0476,
+    "latitude": -37.7665
+  },
+  {
+    "schoolid": 42,
+    "precent_above_40": 20.8,
+    "suburb": "SOUTHBANK",
+    "schoolname": "Victorian College of the Arts",
+    "address": "234 St Kilda Rd, Southbank VIC 3006",
+    "longitude": 144.9702,
+    "latitude": -37.8247
+  },
+  {
+    "schoolid": 461,
+    "precent_above_40": 20.15,
+    "suburb": "BANGHOLME",
+    "schoolname": "Cornish College",
+    "address": "65 Riverend Rd, Bangholme VIC 3175",
+    "longitude": 145.1515,
+    "latitude": -38.0491
+  },
+  {
+    "schoolid": 43,
+    "precent_above_40": 20,
+    "suburb": "MELBOURNE",
+    "schoolname": "Victorian College for the Deaf",
+    "address": "597 St Kilda Rd, Melbourne VIC 3004",
+    "longitude": 144.9809,
+    "latitude": -37.8497
+  },
+  {
+    "schoolid": 57,
+    "precent_above_40": 20,
+    "suburb": "MOUNT ELIZA",
+    "schoolname": "Toorak College",
+    "address": "Old Mornington Rd, Mount Eliza VIC 3930",
+    "longitude": 145.0942,
+    "latitude": -38.1738
+  },
+  {
+    "schoolid": 547,
+    "precent_above_40": 19.2,
+    "suburb": "BALWYN NORTH",
+    "schoolname": "Balwyn High School",
+    "address": "Buchanan Ave, Balwyn North VIC 3104",
+    "longitude": 145.077,
+    "latitude": -37.7983
+  },
+  {
+    "schoolid": 295,
+    "precent_above_40": 19.1,
+    "suburb": "ESSENDON",
+    "schoolname": "Lowther Hall Anglican Grammar School",
+    "address": "17 Leslie Rd, Essendon VIC 3040",
+    "longitude": 144.9145,
+    "latitude": -37.7595
+  },
+  {
+    "schoolid": 8,
+    "precent_above_40": 19,
+    "suburb": "KEW",
+    "schoolname": "Xavier College",
+    "address": "135 Barkers Rd, Kew VIC 3101",
+    "longitude": 145.0358,
+    "latitude": -37.8146
+  },
+  {
+    "schoolid": 379,
+    "precent_above_40": 19,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Haileybury College",
+    "address": "855 Springvale Rd, Keysborough VIC 3173",
+    "longitude": 145.1442,
+    "latitude": -37.9953
+  },
+  {
+    "schoolid": 98,
+    "precent_above_40": 19,
+    "suburb": "ST KILDA",
+    "schoolname": "St Michaels Grammar School",
+    "address": "25 Chapel St, St Kilda VIC 3182",
+    "longitude": 144.9916,
+    "latitude": -37.8594
+  },
+  {
+    "schoolid": 331,
+    "precent_above_40": 18.5,
+    "suburb": "ORMOND",
+    "schoolname": "Kilvington Grammar School",
+    "address": "2 Leila Rd, Ormond VIC 3204",
+    "longitude": 145.0408,
+    "latitude": -37.9
+  },
+  {
+    "schoolid": 499,
+    "precent_above_40": 18,
+    "suburb": "KEW",
+    "schoolname": "Carey Baptist Grammar School",
+    "address": "349 Barkers Rd, Kew VIC 3101",
+    "longitude": 145.0479,
+    "latitude": -37.8145
+  },
+  {
+    "schoolid": 69,
+    "precent_above_40": 18,
+    "suburb": "NEWTOWN",
+    "schoolname": "The Geelong College",
+    "address": "Talbot Street, Newtown VIC 3220",
+    "longitude": 144.3403,
+    "latitude": -38.1515
+  },
+  {
+    "schoolid": 382,
+    "precent_above_40": 18,
+    "suburb": "SHEPPARTON",
+    "schoolname": "Goulburn Valley Grammar School",
+    "address": "455 Verney Rd, Shepparton VIC 3630",
+    "longitude": 145.0994,
+    "latitude": -37.7092
+  },
+  {
+    "schoolid": 102,
+    "precent_above_40": 17.3,
+    "suburb": "BERWICK",
+    "schoolname": "St Margarets School",
+    "address": "27-47 Gloucester Ave, Berwick VIC 3806",
+    "longitude": 145.3472,
+    "latitude": -38.0357
+  },
+  {
+    "schoolid": 82,
+    "precent_above_40": 17.1,
+    "suburb": "WERRIBEE",
+    "schoolname": "Suzanne Cory High School",
+    "address": "225 Hoppers Ln, Werribee VIC 3030",
+    "longitude": 144.7008,
+    "latitude": -37.8939
+  },
+  {
+    "schoolid": 574,
+    "precent_above_40": 17.05,
+    "suburb": "ALBERT PARK",
+    "schoolname": "Albert Park College",
+    "address": "83 Danks St, Albert Park VIC 3206",
+    "longitude": 144.9482,
+    "latitude": -37.8453
+  },
+  {
+    "schoolid": 6,
+    "precent_above_40": 17,
+    "suburb": "RINGWOOD",
+    "schoolname": "Yarra Valley Grammar School",
+    "address": "Kalinda Rd, Ringwood VIC 3134",
+    "longitude": 145.2552,
+    "latitude": -37.7873
+  },
+  {
+    "schoolid": 396,
+    "precent_above_40": 17,
+    "suburb": "BENDIGO",
+    "schoolname": "Girton Grammar School",
+    "address": "105 MacKenzie St, Bendigo VIC 3550",
+    "longitude": 144.2707,
+    "latitude": -36.7616
+  },
+  {
+    "schoolid": 265,
+    "precent_above_40": 16.8,
+    "suburb": "MCKINNON",
+    "schoolname": "McKinnon Secondary College",
+    "address": "291a McKinnon Rd, McKinnon VIC 3204",
+    "longitude": 145.0478,
+    "latitude": -37.9122
+  },
+  {
+    "schoolid": 332,
+    "precent_above_40": 16.5,
+    "suburb": "ORMOND",
+    "schoolname": "Kilvington Baptist Girls Grammar",
+    "address": "2 Leila Rd, Ormond VIC 3204",
+    "longitude": 145.0408,
+    "latitude": -37.9
+  },
+  {
+    "schoolid": 392,
+    "precent_above_40": 16.5,
+    "suburb": "GLEN WAVERLEY",
+    "schoolname": "Glen Waverley Secondary College",
+    "address": "Osullivan Rd, Glen Waverley VIC 3150",
+    "longitude": 145.1624,
+    "latitude": -37.8782
+  },
+  {
+    "schoolid": 513,
+    "precent_above_40": 16,
+    "suburb": "BRIGHTON",
+    "schoolname": "Brighton Grammar School",
+    "address": "90 Outer Cres, Brighton VIC 3186",
+    "longitude": 144.9938,
+    "latitude": -37.9082
+  },
+  {
+    "schoolid": 63,
+    "precent_above_40": 16,
+    "suburb": "MOUNT ELIZA",
+    "schoolname": "The Peninsula School",
+    "address": "20 Wooralla Dr, Mount Eliza VIC 3930",
+    "longitude": 145.0926,
+    "latitude": -38.197
+  },
+  {
+    "schoolid": 51,
+    "precent_above_40": 16,
+    "suburb": "PARKVILLE",
+    "schoolname": "University High School",
+    "address": "77 Story St, Parkville VIC 3052",
+    "longitude": 144.9567,
+    "latitude": -37.797
+  },
+  {
+    "schoolid": 551,
+    "precent_above_40": 15.9,
+    "suburb": "WENDOUREE",
+    "schoolname": "Ballarat Grammar School",
+    "address": "201 Forest St, Wendouree VIC 3355",
+    "longitude": 143.8322,
+    "latitude": -37.5357
+  },
+  {
+    "schoolid": 30,
+    "precent_above_40": 15.4,
+    "suburb": "WANTIRNA SOUTH",
+    "schoolname": "Waverley Christian College",
+    "address": "1248 High St Rd, Wantirna South VIC 3152",
+    "longitude": 145.2148,
+    "latitude": -37.8792
+  },
+  {
+    "schoolid": 263,
+    "precent_above_40": 15.3,
+    "suburb": "RICHMOND",
+    "schoolname": "Melbourne Girls College",
+    "address": "Yarra Blvd, Richmond VIC 3121",
+    "longitude": 145.0151,
+    "latitude": -37.8242
+  },
+  {
+    "schoolid": 103,
+    "precent_above_40": 15.2,
+    "suburb": "BRIGHTON EAST",
+    "schoolname": "St Leonards College",
+    "address": "163 South Rd, Brighton East VIC 3187",
+    "longitude": 145.0074,
+    "latitude": -37.9285
+  },
+  {
+    "schoolid": 351,
+    "precent_above_40": 15,
+    "suburb": "IVANHOE",
+    "schoolname": "Ivanhoe Grammar School",
+    "address": "41 The Ridgeway, Ivanhoe VIC 3079",
+    "longitude": 145.0436,
+    "latitude": -37.7752
+  },
+  {
+    "schoolid": 146,
+    "precent_above_40": 15,
+    "suburb": "OAKLEIGH",
+    "schoolname": "Sacred Heart Girls College",
+    "address": "113 Warrigal Rd, Oakleigh VIC 3166",
+    "longitude": 145.0865,
+    "latitude": -37.902
+  },
+  {
+    "schoolid": 253,
+    "precent_above_40": 14.7,
+    "suburb": "MENTONE",
+    "schoolname": "Mentone Grammar School",
+    "address": "63 Venice St, Mentone VIC 3194",
+    "longitude": 145.0674,
+    "latitude": -37.9879
+  },
+  {
+    "schoolid": 268,
+    "precent_above_40": 14,
+    "suburb": "MULGRAVE",
+    "schoolname": "Mazenod College",
+    "address": "5 Kernot Ave, Mulgrave VIC 3170",
+    "longitude": 145.1656,
+    "latitude": -37.9155
+  },
+  {
+    "schoolid": 132,
+    "precent_above_40": 14,
+    "suburb": "CAMBERWELL",
+    "schoolname": "Siena College",
+    "address": "815 Riversdale Rd, Camberwell VIC 3124",
+    "longitude": 145.0824,
+    "latitude": -37.8343
+  },
+  {
+    "schoolid": 521,
+    "precent_above_40": 13.9,
+    "suburb": "BOX HILL",
+    "schoolname": "Box Hill High School",
+    "address": "1180 Whitehorse Rd, Box Hill VIC 3128",
+    "longitude": 145.1373,
+    "latitude": -37.8199
+  },
+  {
+    "schoolid": 11,
+    "precent_above_40": 13.7,
+    "suburb": "LANGWARRIN SOUTH",
+    "schoolname": "Woodleigh School",
+    "address": "485 Golf Links Rd, Langwarrin South VIC 3911",
+    "longitude": 145.1736,
+    "latitude": -38.1926
+  },
+  {
+    "schoolid": 147,
+    "precent_above_40": 13.65,
+    "suburb": "HUGHESDALE",
+    "schoolname": "Sacred Heart Girls College",
+    "address": "113 Warrigal Rd, Oakleigh VIC 3166",
+    "longitude": 145.0865,
+    "latitude": -37.902
+  },
+  {
+    "schoolid": 293,
+    "precent_above_40": 13.2,
+    "suburb": "CROYDON HILLS",
+    "schoolname": "Luther College",
+    "address": "1-39 Plymouth Rd, Croydon VIC 3136",
+    "longitude": 145.0022,
+    "latitude": -37.8166
+  },
+  {
+    "schoolid": 500,
+    "precent_above_40": 13.1,
+    "suburb": "CANTERBURY",
+    "schoolname": "Canterbury Girls Secondary College",
+    "address": "16 Mangarra Rd, Canterbury VIC 3126",
+    "longitude": 145.0689,
+    "latitude": -37.8201
+  },
+  {
+    "schoolid": 22,
+    "precent_above_40": 13,
+    "suburb": "TRUGANINA",
+    "schoolname": "Westbourne Grammar School",
+    "address": "300 Sayers Rd, Truganina VIC 3029",
+    "longitude": 144.7233,
+    "latitude": -37.8519
+  },
+  {
+    "schoolid": 58,
+    "precent_above_40": 13,
+    "suburb": "RINGWOOD EAST",
+    "schoolname": "Tintern Schools",
+    "address": "90 Alexandra Road, Ringwood East VIC 3135",
+    "longitude": 145.2565,
+    "latitude": -37.8164
+  },
+  {
+    "schoolid": 189,
+    "precent_above_40": 13,
+    "suburb": "BOX HILL",
+    "schoolname": "Our Lady of Sion College",
+    "address": "1065 Whitehorse Rd, Box Hill VIC 3128",
+    "longitude": 145.1296,
+    "latitude": -37.8186
+  },
+  {
+    "schoolid": 24,
+    "precent_above_40": 12.8,
+    "suburb": "MELBOURNE",
+    "schoolname": "Wesley College",
+    "address": "577 St Kilda Rd, Melbourne VIC 3004",
+    "longitude": 144.9801,
+    "latitude": -37.8485
+  },
+  {
+    "schoolid": 92,
+    "precent_above_40": 12.65,
+    "suburb": "BRIGHTON",
+    "schoolname": "Star of the Sea College",
+    "address": "Martin St, Brighton VIC 3186",
+    "longitude": 144.9961,
+    "latitude": -37.8964
+  },
+  {
+    "schoolid": 427,
+    "precent_above_40": 12.4,
+    "suburb": "RESEARCH",
+    "schoolname": "Eltham College",
+    "address": "1660 Main Rd, Research VIC 3095",
+    "longitude": 145.1908,
+    "latitude": -37.6999
+  },
+  {
+    "schoolid": 403,
+    "precent_above_40": 12,
+    "suburb": "CORIO",
+    "schoolname": "Geelong Grammar School",
+    "address": "50 Biddlecombe Ave, Corio VIC 3214",
+    "longitude": 144.3974,
+    "latitude": -38.0696
+  },
+  {
+    "schoolid": 397,
+    "precent_above_40": 12,
+    "suburb": "SALE",
+    "schoolname": "Gippsland Grammar",
+    "address": "Princes Hwy, Sale VIC 3850",
+    "longitude": 147.0693,
+    "latitude": -38.0915
+  },
+  {
+    "schoolid": 65,
+    "precent_above_40": 12,
+    "suburb": "WANTIRNA SOUTH",
+    "schoolname": "The Knox School",
+    "address": "220 Burwood Hwy, Wantirna South VIC 3152",
+    "longitude": 145.2194,
+    "latitude": -37.8641
+  },
+  {
+    "schoolid": 67,
+    "precent_above_40": 12,
+    "suburb": "HAMILTON",
+    "schoolname": "The Hamilton and Alexandra College",
+    "address": "1 Chaucer St, Hamilton VIC 3300",
+    "longitude": 142.0245,
+    "latitude": -37.7373
+  },
+  {
+    "schoolid": 527,
+    "precent_above_40": 12,
+    "suburb": "MOOROOLBARK",
+    "schoolname": "Billanook College",
+    "address": "197-199 Cardigan Rd, Mooroolbark VIC 3138",
+    "longitude": 145.3381,
+    "latitude": -37.7857
+  },
+  {
+    "schoolid": 487,
+    "precent_above_40": 11.9,
+    "suburb": "ELTHAM",
+    "schoolname": "Catholic Ladies College",
+    "address": "19 Diamond St, Eltham VIC 3095",
+    "longitude": 145.1434,
+    "latitude": -37.7117
+  },
+  {
+    "schoolid": 559,
+    "precent_above_40": 11.6,
+    "suburb": "MOUNT WAVERLEY",
+    "schoolname": "Avila College",
+    "address": "35 Charles St, Mount Waverley VIC 3149",
+    "longitude": 145.1337,
+    "latitude": -37.8747
+  },
+  {
+    "schoolid": 191,
+    "precent_above_40": 11.5,
+    "suburb": "HEIDELBERG",
+    "schoolname": "Our Lady of Mercy College",
+    "address": "Victoria Rd, Parramatta NSW 2150",
+    "longitude": 151.0151,
+    "latitude": -33.8088
+  },
+  {
+    "schoolid": 388,
+    "precent_above_40": 11.1,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Glenvale School",
+    "address": "1/3 Killarney Dr, Melton VIC 3337",
+    "longitude": 144.6049,
+    "latitude": -37.6822
+  },
+  {
+    "schoolid": 480,
+    "precent_above_40": 11.1,
+    "suburb": "CHARLTON",
+    "schoolname": "Charlton College",
+    "address": "Davies Street, Charlton VIC 3525",
+    "longitude": 143.3558,
+    "latitude": -36.2694
+  },
+  {
+    "schoolid": 344,
+    "precent_above_40": 11,
+    "suburb": "BELL POST HILL",
+    "schoolname": "Kardinia International College",
+    "address": "29-31 Kardinia Drive, Bell Post Hill VIC 3215",
+    "longitude": 144.3287,
+    "latitude": -38.1126
+  },
+  {
+    "schoolid": 225,
+    "precent_above_40": 11,
+    "suburb": "MOUNT WAVERLEY",
+    "schoolname": "Mount Waverley Secondary College",
+    "address": "145 Stephensons Rd, Mount Waverley VIC 3149",
+    "longitude": 145.4412,
+    "latitude": -37.8626
+  },
+  {
+    "schoolid": 114,
+    "precent_above_40": 11,
+    "suburb": "ESSENDON",
+    "schoolname": "St Bernards College",
+    "address": "41 Rosehill Rd, Essendon VIC 3040",
+    "longitude": 144.883,
+    "latitude": -37.7485
+  },
+  {
+    "schoolid": 438,
+    "precent_above_40": 10.9,
+    "suburb": "DONVALE",
+    "schoolname": "Donvale Christian College",
+    "address": "155 Tindals Rd, Donvale VIC 3111",
+    "longitude": 145.1945,
+    "latitude": -37.774
+  },
+  {
+    "schoolid": 111,
+    "precent_above_40": 10.9,
+    "suburb": "ESSENDON",
+    "schoolname": "St Columbas College",
+    "address": "2 Leslie Rd, Essendon VIC 3040",
+    "longitude": 144.9138,
+    "latitude": -37.7575
+  },
+  {
+    "schoolid": 130,
+    "precent_above_40": 10.2,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Sirius College",
+    "address": "515 Fitzgerald Rd, Sunshine West VIC 3020",
+    "longitude": 144.7902,
+    "latitude": -37.7861
+  },
+  {
+    "schoolid": 209,
+    "precent_above_40": 10,
+    "suburb": "NEWHAVEN",
+    "schoolname": "Newhaven College",
+    "address": "1770 Phillip Island Rd, Rhyll VIC 3923",
+    "longitude": 145.2681,
+    "latitude": -38.4885
+  },
+  {
+    "schoolid": 270,
+    "precent_above_40": 10,
+    "suburb": "BELGRAVE",
+    "schoolname": "Mater Christi College",
+    "address": "28 Bayview Rd, Belgrave VIC 3160",
+    "longitude": 145.3595,
+    "latitude": -37.9108
+  },
+  {
+    "schoolid": 165,
+    "precent_above_40": 10,
+    "suburb": "PRINCES HILL",
+    "schoolname": "Princes Hill Secondary College",
+    "address": "Arnold Street, Carlton North VIC 3054",
+    "longitude": 144.9651,
+    "latitude": -37.7846
+  },
+  {
+    "schoolid": 119,
+    "precent_above_40": 10,
+    "suburb": "WANTIRNA SOUTH",
+    "schoolname": "St Andrews Christian College",
+    "address": "130 Tyner Rd, Wantirna South VIC 3152",
+    "longitude": 145.2447,
+    "latitude": -37.8741
+  },
+  {
+    "schoolid": 95,
+    "precent_above_40": 10,
+    "suburb": "WARRAGUL",
+    "schoolname": "St Pauls Anglican Grammar School",
+    "address": "150 Bowen St, Warragul VIC 3820",
+    "longitude": 145.9299,
+    "latitude": -38.1463
+  },
+  {
+    "schoolid": 560,
+    "precent_above_40": 9.3,
+    "suburb": "ABERFELDIE",
+    "schoolname": "Ave Maria College",
+    "address": "14/22 Vida St, Aberfeldie VIC 3040",
+    "longitude": -37.757,
+    "latitude": -37.757
+  },
+  {
+    "schoolid": 339,
+    "precent_above_40": 9.1,
+    "suburb": "KEW EAST",
+    "schoolname": "Kew High School",
+    "address": "1393 Burke Rd, Kew East VIC 3102",
+    "longitude": 145.0633,
+    "latitude": -37.7958
+  },
+  {
+    "schoolid": 518,
+    "precent_above_40": 9.1,
+    "suburb": "WOODEND",
+    "schoolname": "Braemar College",
+    "address": "1499 Mount Macedon Rd, Woodend VIC 3442",
+    "longitude": 144.5709,
+    "latitude": -37.3618
+  },
+  {
+    "schoolid": 503,
+    "precent_above_40": 9,
+    "suburb": "CANTERBURY",
+    "schoolname": "Camberwell High School",
+    "address": "Prospect Hill Rd, Canterbury VIC 3126",
+    "longitude": 145.0784,
+    "latitude": -37.8306
+  },
+  {
+    "schoolid": 218,
+    "precent_above_40": 9,
+    "suburb": "MURTOA",
+    "schoolname": "Murtoa College",
+    "address": "Webb St, Murtoa VIC 3390",
+    "longitude": 142.4752,
+    "latitude": -36.6229
+  },
+  {
+    "schoolid": 70,
+    "precent_above_40": 9,
+    "suburb": "WANGARATTA",
+    "schoolname": "The Centre",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "schoolid": 123,
+    "precent_above_40": 9,
+    "suburb": "RINGWOOD",
+    "schoolname": "Southwood Boys Grammar",
+    "address": "Maidstone St, Ringwood VIC 3134",
+    "longitude": 145.2248,
+    "latitude": -37.8262
+  },
+  {
+    "schoolid": 186,
+    "precent_above_40": 9,
+    "suburb": "CHIRNSIDE PARK",
+    "schoolname": "Oxley Christian College",
+    "address": "15-49 Old Melbourne Rd, Chirnside Park VIC 3116",
+    "longitude": 145.3062,
+    "latitude": -37.7632
+  },
+  {
+    "schoolid": 283,
+    "precent_above_40": 9,
+    "suburb": "MANANGATANG",
+    "schoolname": "Manangatang P-12 College",
+    "address": "4105 Mallee Hwy, Manangatang VIC 3546",
+    "longitude": 142.8841,
+    "latitude": -35.055
+  },
+  {
+    "schoolid": 190,
+    "precent_above_40": 9,
+    "suburb": "BENTLEIGH",
+    "schoolname": "Our Lady of Sacred Heart College",
+    "address": "496 Regency Rd, Enfield SA 5085",
+    "longitude": 138.604,
+    "latitude": -34.873
+  },
+  {
+    "schoolid": 254,
+    "precent_above_40": 9,
+    "suburb": "MENTONE",
+    "schoolname": "Mentone Girls Secondary College",
+    "address": "Balcombe Rd & Charman Rd, Mentone VIC 3194",
+    "longitude": 145.053,
+    "latitude": -37.9798
+  },
+  {
+    "schoolid": 474,
+    "precent_above_40": 9,
+    "suburb": "GEELONG WEST",
+    "schoolname": "Clonard College",
+    "address": "225-239 Church St, Herne Hill VIC 3218",
+    "longitude": 144.33,
+    "latitude": -38.1298
+  },
+  {
+    "schoolid": 17,
+    "precent_above_40": 9,
+    "suburb": "DONVALE",
+    "schoolname": "Whitefriars College",
+    "address": "156-158 Park Rd, Donvale VIC 3111",
+    "longitude": 145.1986,
+    "latitude": -37.7901
+  },
+  {
+    "schoolid": 354,
+    "precent_above_40": 9,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Isik College",
+    "address": "139 Chapel Rd, Keysborough VIC 3173",
+    "longitude": 145.161,
+    "latitude": -38.0048
+  },
+  {
+    "schoolid": 279,
+    "precent_above_40": 9,
+    "suburb": "BULLEEN",
+    "schoolname": "Marcellin College",
+    "address": "160 Bulleen Rd, Bulleen VIC 3105",
+    "longitude": 145.0797,
+    "latitude": -37.7681
+  },
+  {
+    "schoolid": 161,
+    "precent_above_40": 9,
+    "suburb": "RINGWOOD",
+    "schoolname": "Ringwood Secondary College",
+    "address": "Bedford Rd, Ringwood VIC 3134",
+    "longitude": 145.2362,
+    "latitude": -37.816
+  },
+  {
+    "schoolid": 329,
+    "precent_above_40": 8.9,
+    "suburb": "BOX HILL",
+    "schoolname": "Kingswood College",
+    "address": "355 Station St, Box Hill South VIC 3128",
+    "longitude": 145.1207,
+    "latitude": -37.8324
+  },
+  {
+    "schoolid": 345,
+    "precent_above_40": 8.7,
+    "suburb": "KANIVA",
+    "schoolname": "Kaniva College",
+    "address": "Farmers St S, Kaniva VIC 3419",
+    "longitude": 141.2453,
+    "latitude": -36.3825
+  },
+  {
+    "schoolid": 334,
+    "precent_above_40": 8.7,
+    "suburb": "MENTONE",
+    "schoolname": "Kilbreda College",
+    "address": "118 Mentone Parade, Mentone VIC 3194",
+    "longitude": 145.0649,
+    "latitude": -37.9832
+  },
+  {
+    "schoolid": 557,
+    "precent_above_40": 8.7,
+    "suburb": "BACCHUS MARSH",
+    "schoolname": "Bacchus Marsh Grammar",
+    "address": "S Maddingley Rd, Maddingley VIC 3340",
+    "longitude": 144.4301,
+    "latitude": -37.6944
+  },
+  {
+    "schoolid": 48,
+    "precent_above_40": 8.7,
+    "suburb": "VERMONT",
+    "schoolname": "Vermont Secondary College",
+    "address": "27-63 Morack Rd, Vermont VIC 3133",
+    "longitude": 145.1997,
+    "latitude": -37.8439
+  },
+  {
+    "schoolid": 39,
+    "precent_above_40": 8.6,
+    "suburb": "ROSANNA",
+    "schoolname": "Viewbank College",
+    "address": "1 Warren Rd, Viewbank VIC 3084",
+    "longitude": 145.0864,
+    "latitude": -37.741
+  },
+  {
+    "schoolid": 475,
+    "precent_above_40": 8.6,
+    "suburb": "WAURN PONDS",
+    "schoolname": "Christian College",
+    "address": "59 Parsons St, Sunshine VIC 3020",
+    "longitude": 144.8392,
+    "latitude": -37.7913
+  },
+  {
+    "schoolid": 87,
+    "precent_above_40": 8.4,
+    "suburb": "STRATHMORE",
+    "schoolname": "Strathmore Secondary College",
+    "address": "400 Pascoe Vale Rd, Strathmore VIC 3041",
+    "longitude": 144.9268,
+    "latitude": -37.7377
+  },
+  {
+    "schoolid": 326,
+    "precent_above_40": 8.3,
+    "suburb": "MONT ALBERT NORTH",
+    "schoolname": "Koonung Secondary College",
+    "address": "615 Elgar Rd, Mont Albert North VIC 3129",
+    "longitude": 145.1177,
+    "latitude": -37.8023
+  },
+  {
+    "schoolid": 482,
+    "precent_above_40": 8,
+    "suburb": "DROUIN",
+    "schoolname": "Chairo Christian School",
+    "address": "76 Balfour Rd, Drouin VIC 3818",
+    "longitude": 145.8785,
+    "latitude": -38.1428
+  },
+  {
+    "schoolid": 407,
+    "precent_above_40": 8,
+    "suburb": "FRANKSTON",
+    "schoolname": "Frankston High School",
+    "address": "97 Foot St, Frankston VIC 3199",
+    "longitude": 145.1291,
+    "latitude": -38.1612
+  },
+  {
+    "schoolid": 449,
+    "precent_above_40": 8,
+    "suburb": "MALVERN",
+    "schoolname": "De La Salle College",
+    "address": "1318 High St, Malvern VIC 3144",
+    "longitude": 145.0321,
+    "latitude": -37.8572
+  },
+  {
+    "schoolid": 236,
+    "precent_above_40": 8,
+    "suburb": "MORTLAKE",
+    "schoolname": "Mortlake College",
+    "address": "10 Hood Ave, Mortlake VIC 3272",
+    "longitude": 142.8095,
+    "latitude": -38.0865
+  },
+  {
+    "schoolid": 422,
+    "precent_above_40": 8,
+    "suburb": "VERMONT SOUTH",
+    "schoolname": "Emmaus College",
+    "address": "503 Springvale Rd, Vermont South VIC 3133",
+    "longitude": 145.1711,
+    "latitude": -37.8458
+  },
+  {
+    "schoolid": 577,
+    "precent_above_40": 8,
+    "suburb": "FITZROY",
+    "schoolname": "Academy of Mary Immaculate",
+    "address": "88 Nicholson St, Fitzroy VIC 3065",
+    "longitude": 144.974,
+    "latitude": -37.8036
+  },
+  {
+    "schoolid": 435,
+    "precent_above_40": 8,
+    "suburb": "DONCASTER EAST",
+    "schoolname": "East Doncaster Secondary College",
+    "address": "20 George St, Doncaster East VIC 3109",
+    "longitude": 145.1588,
+    "latitude": -37.7822
+  },
+  {
+    "schoolid": 10,
+    "precent_above_40": 8,
+    "suburb": "WYCHEPROOF",
+    "schoolname": "Wycheproof P-12 College",
+    "address": "McKenzie Cres, Wycheproof VIC 3527",
+    "longitude": 143.2283,
+    "latitude": -36.0752
+  },
+  {
+    "schoolid": 515,
+    "precent_above_40": 8,
+    "suburb": "GLEN WAVERLEY",
+    "schoolname": "Brentwood Secondary College",
+    "address": "65-71 Watsons Rd, Glen Waverley VIC 3150",
+    "longitude": 145.1687,
+    "latitude": -37.8975
+  },
+  {
+    "schoolid": 525,
+    "precent_above_40": 8,
+    "suburb": "BLACKBURN",
+    "schoolname": "Blackburn High School",
+    "address": "58-62 Springfield Rd, Blackburn VIC 3130",
+    "longitude": 145.1499,
+    "latitude": -37.8103
+  },
+  {
+    "schoolid": 14,
+    "precent_above_40": 7.8,
+    "suburb": "WILLIAMSTOWN",
+    "schoolname": "Williamstown High School",
+    "address": "76 Pasco St, Williamstown VIC 3016",
+    "longitude": 144.8951,
+    "latitude": -37.863
+  },
+  {
+    "schoolid": 566,
+    "precent_above_40": 7.8,
+    "suburb": "RINGWOOD",
+    "schoolname": "Aquinas College",
+    "address": "58 Mount Henry Rd, Salter Point WA 6152",
+    "longitude": 115.8655,
+    "latitude": -32.024
+  },
+  {
+    "schoolid": 299,
+    "precent_above_40": 7.7,
+    "suburb": "BALLARAT",
+    "schoolname": "Loreto College",
+    "address": "415 Cavendish Rd, Coorparoo QLD 4151",
+    "longitude": 153.0639,
+    "latitude": -27.5088
+  },
+  {
+    "schoolid": 524,
+    "precent_above_40": 7.6,
+    "suburb": "BOORT",
+    "schoolname": "Boort District P-12 School",
+    "address": "1 Malone St, Boort VIC 3537",
+    "longitude": 143.7252,
+    "latitude": -36.1102
+  },
+  {
+    "schoolid": 172,
+    "precent_above_40": 7.5,
+    "suburb": "DOREEN",
+    "schoolname": "Plenty Valley Christian College",
+    "address": "840 Yan Yean Rd, Doreen VIC 3754",
+    "longitude": 145.1373,
+    "latitude": -37.6119
+  },
+  {
+    "schoolid": 74,
+    "precent_above_40": 7.5,
+    "suburb": "MELBOURNE",
+    "schoolname": "Taylors College",
+    "address": "965 Bourke St, Waterloo NSW 2017",
+    "longitude": 151.2075,
+    "latitude": -33.9025
+  },
+  {
+    "schoolid": 196,
+    "precent_above_40": 7.4,
+    "suburb": "NUNAWADING",
+    "schoolname": "Nunawading Christian College",
+    "address": "161 Central Rd, Nunawading VIC 3131",
+    "longitude": 145.1667,
+    "latitude": -37.8244
+  },
+  {
+    "schoolid": 507,
+    "precent_above_40": 7.3,
+    "suburb": "ESSENDON",
+    "schoolname": "Buckley Park College",
+    "address": "Cooper St, Essendon VIC 3040",
+    "longitude": 144.8972,
+    "latitude": -37.7497
+  },
+  {
+    "schoolid": 412,
+    "precent_above_40": 7.1,
+    "suburb": "FITZROY NORTH",
+    "schoolname": "Fitzroy High School",
+    "address": "Falconer St, Fitzroy VIC 3068",
+    "longitude": 144.9882,
+    "latitude": -37.7844
+  },
+  {
+    "schoolid": 205,
+    "precent_above_40": 7.1,
+    "suburb": "NORTHCOTE",
+    "schoolname": "Northcote High School",
+    "address": "19-25 St Georges Rd, Northcote VIC 3070",
+    "longitude": 144.9898,
+    "latitude": -37.7742
+  },
+  {
+    "schoolid": 439,
+    "precent_above_40": 7,
+    "suburb": "DONCASTER",
+    "schoolname": "Doncaster Secondary College",
+    "address": "123 Church Rd, Doncaster VIC 3108",
+    "longitude": 145.1382,
+    "latitude": -37.7839
+  },
+  {
+    "schoolid": 167,
+    "precent_above_40": 7,
+    "suburb": "KEW",
+    "schoolname": "Preshil - The Margaret Lyttle Secondary College",
+    "address": "395 Barkers Rd, Kew VIC 3101",
+    "longitude": 145.0358,
+    "latitude": -37.8146
+  },
+  {
+    "schoolid": 122,
+    "precent_above_40": 7,
+    "suburb": "SPRINGVALE",
+    "schoolname": "SPRINGVALE SECONDARY COLLEGE",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 108,
+    "precent_above_40": 7,
+    "suburb": "PRESTON",
+    "schoolname": "St Johns Greek Orthodox College",
+    "address": "21 Railway Place, West Preston VIC 3072",
+    "longitude": 144.9993,
+    "latitude": -37.7482
+  },
+  {
+    "schoolid": 187,
+    "precent_above_40": 7,
+    "suburb": "KEILOR",
+    "schoolname": "Overnewton Anglican Community College",
+    "address": "2-30 Overnewton Rd, Keilor VIC 3036",
+    "longitude": 144.8217,
+    "latitude": -37.7063
+  },
+  {
+    "schoolid": 120,
+    "precent_above_40": 7,
+    "suburb": "NORTH MELBOURNE",
+    "schoolname": "St Aloysius College",
+    "address": "47 Upper Pitt St, Kirribilli NSW 2061",
+    "longitude": 151.2141,
+    "latitude": -33.8487
+  },
+  {
+    "schoolid": 182,
+    "precent_above_40": 7,
+    "suburb": "BUNDOORA",
+    "schoolname": "Parade College",
+    "address": "1436 Plenty Rd, Bundoora VIC 3083",
+    "longitude": 145.0652,
+    "latitude": -37.6902
+  },
+  {
+    "schoolid": 467,
+    "precent_above_40": 7,
+    "suburb": "COLAC",
+    "schoolname": "COLAC HIGH SCHOOL",
+    "address": "173 Queen St, Colac VIC 3250",
+    "longitude": 143.5907,
+    "latitude": -38.3516
+  },
+  {
+    "schoolid": 140,
+    "precent_above_40": 7,
+    "suburb": "NORTHCOTE",
+    "schoolname": "Santa Maria College",
+    "address": "18 Stoneham Rd, Attadale WA 6156",
+    "longitude": 115.7958,
+    "latitude": -32.0186
+  },
+  {
+    "schoolid": 148,
+    "precent_above_40": 7,
+    "suburb": "NEWTOWN",
+    "schoolname": "Sacred Heart College",
+    "address": "95-235 Brighton Rd, Somerton Park SA 5044",
+    "longitude": 138.5212,
+    "latitude": -34.997
+  },
+  {
+    "schoolid": 115,
+    "precent_above_40": 6.9,
+    "suburb": "MENTONE",
+    "schoolname": "St Bedes College",
+    "address": "2 Mentone Parade, Mentone VIC 3194",
+    "longitude": 145.0651,
+    "latitude": -37.9904
+  },
+  {
+    "schoolid": 145,
+    "precent_above_40": 6.9,
+    "suburb": "DRYSDALE",
+    "schoolname": "Saint Ignatius College",
+    "address": "2 Manresa Ct, Athelstone SA 5076",
+    "longitude": 138.6992,
+    "latitude": -34.8751
+  },
+  {
+    "schoolid": 575,
+    "precent_above_40": 6.8,
+    "suburb": "EPPING",
+    "schoolname": "Al Siraat College",
+    "address": "45 Harvest Home Rd, Epping VIC 3076",
+    "longitude": 145.0367,
+    "latitude": -37.6241
+  },
+  {
+    "schoolid": 229,
+    "precent_above_40": 6.7,
+    "suburb": "LILYDALE",
+    "schoolname": "Mount Lilydale Mercy College",
+    "address": "120 Anderson St, Lilydale VIC 3140",
+    "longitude": 145.3576,
+    "latitude": -37.7489
+  },
+  {
+    "schoolid": 27,
+    "precent_above_40": 6.7,
+    "suburb": "WERRIBEE",
+    "schoolname": "Werribee Secondary College",
+    "address": "Duncans Rd, Werribee VIC 3030",
+    "longitude": 144.6727,
+    "latitude": -37.9073
+  },
+  {
+    "schoolid": 516,
+    "precent_above_40": 6.7,
+    "suburb": "BRAYBROOK",
+    "schoolname": "Braybrook College",
+    "address": "352 Ballarat Rd, Braybrook VIC 3019",
+    "longitude": 144.8483,
+    "latitude": -37.7789
+  },
+  {
+    "schoolid": 512,
+    "precent_above_40": 6.7,
+    "suburb": "BRIGHTON EAST",
+    "schoolname": "Brighton Secondary College",
+    "address": "120 Marriage Rd, Brighton East VIC 3187",
+    "longitude": 145.0191,
+    "latitude": -37.9204
+  },
+  {
+    "schoolid": 230,
+    "precent_above_40": 6.6,
+    "suburb": "MOUNT EVELYN",
+    "schoolname": "Mount Evelyn Christian School",
+    "address": "135 York Rd, Mount Evelyn VIC 3796",
+    "longitude": 145.3755,
+    "latitude": -37.7925
+  },
+  {
+    "schoolid": 96,
+    "precent_above_40": 6.5,
+    "suburb": "BALLARAT",
+    "schoolname": "St Patricks College",
+    "address": "60 Park Parade, Shorncliffe QLD 4017",
+    "longitude": 153.0826,
+    "latitude": -27.3238
+  },
+  {
+    "schoolid": 143,
+    "precent_above_40": 6.5,
+    "suburb": "CHADSTONE",
+    "schoolname": "Salesian College",
+    "address": "Bosco St, Chadstone VIC 3148",
+    "longitude": 145.1002,
+    "latitude": -37.8824
+  },
+  {
+    "schoolid": 168,
+    "precent_above_40": 6.5,
+    "suburb": "WINDSOR",
+    "schoolname": "Presentation College",
+    "address": "187 Dandenong Rd, Windsor VIC 3181",
+    "longitude": 144.995,
+    "latitude": -37.8572
+  },
+  {
+    "schoolid": 273,
+    "precent_above_40": 6.5,
+    "suburb": "LEONGATHA",
+    "schoolname": "Mary Mackillop Catholic Regional College",
+    "address": "Horn St, Leongatha VIC 3953",
+    "longitude": 145.9584,
+    "latitude": -38.4738
+  },
+  {
+    "schoolid": 361,
+    "precent_above_40": 6.5,
+    "suburb": "HOPETOUN",
+    "schoolname": "Hopetoun P-12 College",
+    "address": "1 Dodgshun St, Hopetoun VIC 3396",
+    "longitude": 142.3663,
+    "latitude": -35.7341
+  },
+  {
+    "schoolid": 97,
+    "precent_above_40": 6.4,
+    "suburb": "EPPING",
+    "schoolname": "St Monicas College",
+    "address": "16 Davisson St, Epping VIC 3076",
+    "longitude": 145.0296,
+    "latitude": -37.6512
+  },
+  {
+    "schoolid": 567,
+    "precent_above_40": 6.4,
+    "suburb": "APOLLO BAY",
+    "schoolname": "Apollo Bay P-12 College",
+    "address": "Pengilley Ave, Apollo Bay VIC 3233",
+    "longitude": 143.6624,
+    "latitude": 38.7541
+  },
+  {
+    "schoolid": 259,
+    "precent_above_40": 6.4,
+    "suburb": "WARRANWOOD",
+    "schoolname": "Melbourne Rudolf Steiner School",
+    "address": "213 Wonga Rd, Warranwood VIC 3134",
+    "longitude": 145.2495,
+    "latitude": -37.7772
+  },
+  {
+    "schoolid": 576,
+    "precent_above_40": 6.3,
+    "suburb": "GREENVALE",
+    "schoolname": "Aitken College",
+    "address": "1010 Mickleham Road, Greenvale VIC 3059",
+    "longitude": 144.8831,
+    "latitude": -37.6264
+  },
+  {
+    "schoolid": 426,
+    "precent_above_40": 6.1,
+    "suburb": "ELTHAM",
+    "schoolname": "Eltham High School",
+    "address": "30-60 Withers Way, Eltham VIC 3095",
+    "longitude": 145.1416,
+    "latitude": -37.7246
+  },
+  {
+    "schoolid": 460,
+    "precent_above_40": 6.1,
+    "suburb": "CORRYONG",
+    "schoolname": "Corryong College",
+    "address": "27-45 Towong Rd, Corryong VIC 3707",
+    "longitude": 147.9106,
+    "latitude": -36.1926
+  },
+  {
+    "schoolid": 490,
+    "precent_above_40": 6.1,
+    "suburb": "BENDIGO",
+    "schoolname": "Catholic College Bendigo",
+    "address": "Barkly St, Bendigo VIC 3550",
+    "longitude": 144.2762,
+    "latitude": -36.7526
+  },
+  {
+    "schoolid": 303,
+    "precent_above_40": 6,
+    "suburb": "LILYDALE",
+    "schoolname": "Lilydale Adventist Academy",
+    "address": "47 Edinburgh Rd., Lilydale VIC 3140",
+    "longitude": 145.3508,
+    "latitude": -37.7848
+  },
+  {
+    "schoolid": 294,
+    "precent_above_40": 6,
+    "suburb": "WATSONIA",
+    "schoolname": "Loyola College",
+    "address": "325 Grimshaw St, Watsonia VIC 3087",
+    "longitude": 145.0798,
+    "latitude": -37.7023
+  },
+  {
+    "schoolid": 281,
+    "precent_above_40": 6,
+    "suburb": "MANSFIELD",
+    "schoolname": "Mansfield Secondary College",
+    "address": "15 View St, Mansfield VIC 3722",
+    "longitude": 146.0879,
+    "latitude": -37.0622
+  },
+  {
+    "schoolid": 366,
+    "precent_above_40": 6,
+    "suburb": "GLEN WAVERLEY",
+    "schoolname": "Highvale Secondary College",
+    "address": "Capital Ave, Glen Waverley VIC 3150",
+    "longitude": 145.1807,
+    "latitude": -37.8707
+  },
+  {
+    "schoolid": 109,
+    "precent_above_40": 6,
+    "suburb": "ELTHAM",
+    "schoolname": "St Helena Secondary College",
+    "address": "Wallowa Rd, Eltham North VIC 3095",
+    "longitude": 145.1399,
+    "latitude": -37.6866
+  },
+  {
+    "schoolid": 541,
+    "precent_above_40": 6,
+    "suburb": "BERWICK",
+    "schoolname": "Beaconhills College",
+    "address": "30-34 Toomuc Valley Rd, Pakenham VIC 3810",
+    "longitude": 145.4665,
+    "latitude": -38.0616
+  },
+  {
+    "schoolid": 280,
+    "precent_above_40": 6,
+    "suburb": "ENDEAVOUR HILLS",
+    "schoolname": "Maranatha Christian School",
+    "address": "146 Kidds Rd, Doveton VIC 3177",
+    "longitude": 145.2367,
+    "latitude": -37.9874
+  },
+  {
+    "schoolid": 489,
+    "precent_above_40": 6,
+    "suburb": "SALE",
+    "schoolname": "Catholic College Sale",
+    "address": "Our Lady of Sion Campus, Cnr York St and Raglan St, Sale VIC 3850",
+    "longitude": 147.0672,
+    "latitude": -38.0991
+  },
+  {
+    "schoolid": 29,
+    "precent_above_40": 6,
+    "suburb": "WEDDERBURN",
+    "schoolname": "Wedderburn College",
+    "address": "15-29 Hospital St, Wedderburn VIC 3518",
+    "longitude": 143.6176,
+    "latitude": -36.4171
+  },
+  {
+    "schoolid": 508,
+    "precent_above_40": 6,
+    "suburb": "BRUNSWICK",
+    "schoolname": "Brunswick Secondary College",
+    "address": "47 Dawson St, Melbourne VIC 3056",
+    "longitude": 144.9553,
+    "latitude": -37.771
+  },
+  {
+    "schoolid": 488,
+    "precent_above_40": 5.9,
+    "suburb": "WODONGA",
+    "schoolname": "Catholic College Wodonga",
+    "address": "1 Bowman Ct, Wodonga VIC 3690",
+    "longitude": 146.8625,
+    "latitude": -36.1297
+  },
+  {
+    "schoolid": 228,
+    "precent_above_40": 5.8,
+    "suburb": "CRAIGIEBURN",
+    "schoolname": "Mount Ridley College",
+    "address": "2-30 Hampton St, Craigieburn VIC 3064",
+    "longitude": 144.9208,
+    "latitude": -37.5792
+  },
+  {
+    "schoolid": 304,
+    "precent_above_40": 5.75,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Lighthouse Christian College",
+    "address": "927 Springvale Rd, Keysborough VIC 3173",
+    "longitude": 145.143,
+    "latitude": -38.0011
+  },
+  {
+    "schoolid": 195,
+    "precent_above_40": 5.7,
+    "suburb": "OAKLEIGH",
+    "schoolname": "Oakleigh Grammar",
+    "address": "77/73-81 Willesden Rd, Hughesdale VIC 3166",
+    "longitude": 145.0826,
+    "latitude": -37.8962
+  },
+  {
+    "schoolid": 411,
+    "precent_above_40": 5.65,
+    "suburb": "TRARALGON",
+    "schoolname": "Flinders Christian Community College",
+    "address": "2-10 Lansdowne Rd, Traralgon VIC 3844",
+    "longitude": 146.5511,
+    "latitude": -38.2089
+  },
+  {
+    "schoolid": 372,
+    "precent_above_40": 5.6,
+    "suburb": "WERRIBEE",
+    "schoolname": "Heathdale Christian College",
+    "address": "175 Derrimut Rd, Werribee VIC 3030",
+    "longitude": 144.682,
+    "latitude": -37.8808
+  },
+  {
+    "schoolid": 531,
+    "precent_above_40": 5.5,
+    "suburb": "OFFICER",
+    "schoolname": "Berwick Grammar School",
+    "address": "80 Tivendale Rd, Officer VIC 3809",
+    "longitude": 145.4118,
+    "latitude": -38.0529
+  },
+  {
+    "schoolid": 275,
+    "precent_above_40": 5.5,
+    "suburb": "WARRAGUL",
+    "schoolname": "Marist Sion College",
+    "address": "165 Burke St, Warragul VIC 3820",
+    "longitude": 145.9144,
+    "latitude": -38.1586
+  },
+  {
+    "schoolid": 415,
+    "precent_above_40": 5.5,
+    "suburb": "MORWELL",
+    "schoolname": "Federation Training",
+    "address": "48 Main St, Bairnsdale VIC 3875",
+    "longitude": 147.6357,
+    "latitude": -37.8257
+  },
+  {
+    "schoolid": 364,
+    "precent_above_40": 5.4,
+    "suburb": "CLYDE NORTH",
+    "schoolname": "Hillcrest Christian College",
+    "address": "21 Bridgman Dr, Reedy Creek QLD 4227",
+    "longitude": 153.3978,
+    "latitude": -28.1031
+  },
+  {
+    "schoolid": 216,
+    "precent_above_40": 5.4,
+    "suburb": "BAIRNSDALE",
+    "schoolname": "Nagle College",
+    "address": "Hope Ave, Bairnsdale VIC 3875",
+    "longitude": 147.5868,
+    "latitude": -37.8412
+  },
+  {
+    "schoolid": 31,
+    "precent_above_40": 5.4,
+    "suburb": "WARRNAMBOOL",
+    "schoolname": "Warrnambool College",
+    "address": "Grafton Rd, Warrnambool VIC 3280",
+    "longitude": 142.5025,
+    "latitude": -38.379
+  },
+  {
+    "schoolid": 554,
+    "precent_above_40": 5.3,
+    "suburb": "MOUNT MARTHA",
+    "schoolname": "Balcombe Grammar School",
+    "address": "389 Nepean Hwy, Mount Martha VIC 3934",
+    "longitude": 145.0326,
+    "latitude": -38.2759
+  },
+  {
+    "schoolid": 476,
+    "precent_above_40": 5.3,
+    "suburb": "ST KILDA EAST",
+    "schoolname": "Christian Brothers College",
+    "address": "214 Wakefield St, Adelaide SA 5000",
+    "longitude": 138.6094,
+    "latitude": -34.9281
+  },
+  {
+    "schoolid": 564,
+    "precent_above_40": 5.2,
+    "suburb": "ASHWOOD",
+    "schoolname": "Ashwood Secondary College",
+    "address": "50 Vannam Dr, Ashwood VIC 3147",
+    "longitude": 145.1032,
+    "latitude": -37.865
+  },
+  {
+    "schoolid": 28,
+    "precent_above_40": 5.2,
+    "suburb": "MULGRAVE",
+    "schoolname": "Wellington Secondary College",
+    "address": "91 Police Rd, Mulgrave VIC 3170",
+    "longitude": 145.1691,
+    "latitude": -37.9345
+  },
+  {
+    "schoolid": 129,
+    "precent_above_40": 5.2,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Sirius College - Keysborough",
+    "address": "139 Chapel Rd, Keysborough VIC 3173",
+    "longitude": 145.161,
+    "latitude": -38.0048
+  },
+  {
+    "schoolid": 220,
+    "precent_above_40": 5.2,
+    "suburb": "MITCHAM",
+    "schoolname": "Mullauna College",
+    "address": "456 Springfield Rd, Mitcham VIC 3132",
+    "longitude": 145.1895,
+    "latitude": -37.8071
+  },
+  {
+    "schoolid": 441,
+    "precent_above_40": 5.2,
+    "suburb": "THORNBURY",
+    "schoolname": "Distance Education Victoria",
+    "address": "315 Clarendon St, Thornbury VIC 3071",
+    "longitude": 145.0257,
+    "latitude": -37.7621
+  },
+  {
+    "schoolid": 226,
+    "precent_above_40": 5.2,
+    "suburb": "ALTONA",
+    "schoolname": "Mount St Joseph Girls College",
+    "address": "133 Maidstone Street, Altona VIC 3018",
+    "longitude": 144.8122,
+    "latitude": -37.8641
+  },
+  {
+    "schoolid": 333,
+    "precent_above_40": 5.2,
+    "suburb": "SPRINGVALE",
+    "schoolname": "Killester College",
+    "address": "433 Springvale Rd., Springvale VIC 3171",
+    "longitude": 145.1512,
+    "latitude": -37.9581
+  },
+  {
+    "schoolid": 184,
+    "precent_above_40": 5.1,
+    "suburb": "MORNINGTON",
+    "schoolname": "Padua College",
+    "address": "80 Turner Rd, Kedron QLD 4031",
+    "longitude": 153.0252,
+    "latitude": -27.4077
+  },
+  {
+    "schoolid": 406,
+    "precent_above_40": 5.1,
+    "suburb": "WANGARATTA",
+    "schoolname": "Galen College",
+    "address": "188 - 244 Phillipson St, Wangaratta VIC 3677",
+    "longitude": 146.3085,
+    "latitude": -36.3396
+  },
+  {
+    "schoolid": 121,
+    "precent_above_40": 5.1,
+    "suburb": "ST ALBANS",
+    "schoolname": "St Albans Secondary College",
+    "address": "289 Main Rd E, St Albans VIC 3021",
+    "longitude": 144.8074,
+    "latitude": -37.7451
+  },
+  {
+    "schoolid": 370,
+    "precent_above_40": 5.1,
+    "suburb": "CLARINDA",
+    "schoolname": "Heatherton Christian College",
+    "address": "316-322 Kingston Road, Clarinda VIC 3169",
+    "longitude": 145.1118,
+    "latitude": -37.9588
+  },
+  {
+    "schoolid": 355,
+    "precent_above_40": 5,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Ilim College of Australia",
+    "address": "30 Inverloch Cres, Dallas VIC 3047",
+    "longitude": 144.9285,
+    "latitude": -37.6691
+  },
+  {
+    "schoolid": 570,
+    "precent_above_40": 5,
+    "suburb": "ALPHINGTON",
+    "schoolname": "Alphington Grammar School",
+    "address": "18 Old Heidelberg Road, Alphington VIC 3078",
+    "longitude": 145.0365,
+    "latitude": -37.7802
+  },
+  {
+    "schoolid": 545,
+    "precent_above_40": 5,
+    "suburb": "LANGWARRIN SOUTH",
+    "schoolname": "Bayside Christian College",
+    "address": "120-128 Robinsons Rd, Langwarrin South VIC 3911",
+    "longitude": 145.1627,
+    "latitude": -38.1774
+  },
+  {
+    "schoolid": 232,
+    "precent_above_40": 5,
+    "suburb": "MOUNT ELIZA",
+    "schoolname": "Mount Eliza Secondary College",
+    "address": "Canadian Bay Rd, Mount Eliza VIC 393",
+    "longitude": 145.1057,
+    "latitude": -38.2047
+  },
+  {
+    "schoolid": 36,
+    "precent_above_40": 5,
+    "suburb": "WANGARATTA",
+    "schoolname": "Wangaratta High School",
+    "address": "17-49 Edwards St, Wangaratta VIC 3677",
+    "longitude": 146.3091,
+    "latitude": -36.3433
+  },
+  {
+    "schoolid": 131,
+    "precent_above_40": 5,
+    "suburb": "WEST MELBOURNE",
+    "schoolname": "Simonds Catholic College",
+    "address": "273 Victoria St, West Melbourne VIC 3003",
+    "longitude": 144.9524,
+    "latitude": -37.8058
+  },
+  {
+    "schoolid": 54,
+    "precent_above_40": 5,
+    "suburb": "COLAC",
+    "schoolname": "Trinity College Colac",
+    "address": "119 Hart St, Colac VIC 3250",
+    "longitude": 143.579,
+    "latitude": -38.3507
+  },
+  {
+    "schoolid": 252,
+    "precent_above_40": 5,
+    "suburb": "COBURG",
+    "schoolname": "Mercy College",
+    "address": "Mirrabooka Ave & Beach Road, Koondoola WA 6064",
+    "longitude": 115.8551,
+    "latitude": -31.8487
+  },
+  {
+    "schoolid": 393,
+    "precent_above_40": 5,
+    "suburb": "CAULFIELD EAST",
+    "schoolname": "Glen Eira College",
+    "address": "76 Booran Rd, Caulfield East VIC 3145",
+    "longitude": 145.0375,
+    "latitude": -37.8853
+  },
+  {
+    "schoolid": 101,
+    "precent_above_40": 5,
+    "suburb": "SWAN HILL",
+    "schoolname": "St Mary MacKillop College",
+    "address": "Erindale Dr, Wanniassa ACT 2903",
+    "longitude": 149.0963,
+    "latitude": -35.4066
+  },
+  {
+    "schoolid": 244,
+    "precent_above_40": 5,
+    "suburb": "MONBULK",
+    "schoolname": "Monbulk College",
+    "address": "146-148 David Hill Rd, Monbulk VIC 3793",
+    "longitude": 145.4278,
+    "latitude": -37.8832
+  },
+  {
+    "schoolid": 287,
+    "precent_above_40": 5,
+    "suburb": "WERRIBEE",
+    "schoolname": "MacKillop Catholic Reg College",
+    "address": "Russell St, Werribee VIC 3030",
+    "longitude": 144.6612,
+    "latitude": -37.9107
+  },
+  {
+    "schoolid": 440,
+    "precent_above_40": 5,
+    "suburb": "DONALD",
+    "schoolname": "Donald High School",
+    "address": "2-16 camp street, Donald VIC 3480",
+    "longitude": 142.9754,
+    "latitude": -36.3713
+  },
+  {
+    "schoolid": 99,
+    "precent_above_40": 5,
+    "suburb": "COOLAROO",
+    "schoolname": "St Marys Coptic Orth College",
+    "address": "19-35 Thorpdale Ave, Coolaroo VIC 3048",
+    "longitude": 144.9314,
+    "latitude": -37.6556
+  },
+  {
+    "schoolid": 526,
+    "precent_above_40": 5,
+    "suburb": "BIRCHIP",
+    "schoolname": "Birchip P-12 School",
+    "address": "Birchip VIC 3483",
+    "longitude": 142.9146,
+    "latitude": -35.9833
+  },
+  {
+    "schoolid": 269,
+    "precent_above_40": 5,
+    "suburb": "GEELONG",
+    "schoolname": "Matthew Flinders Girls Secondary College",
+    "address": "Little Ryrie St, Geelong VIC 3220",
+    "longitude": 144.3585,
+    "latitude": -38.1501
+  },
+  {
+    "schoolid": 517,
+    "precent_above_40": 5,
+    "suburb": "WARRNAMBOOL",
+    "schoolname": "Brauer College",
+    "address": "37 Caramut Rd, Warrnambool VIC 3280",
+    "longitude": 142.4604,
+    "latitude": -38.3595
+  },
+  {
+    "schoolid": 12,
+    "precent_above_40": 5,
+    "suburb": "WONTHAGGI",
+    "schoolname": "Wonthaggi Secondary College",
+    "address": "S Dudley Rd, Wonthaggi VIC 3995",
+    "longitude": 145.5794,
+    "latitude": -38.5979
+  },
+  {
+    "schoolid": 246,
+    "precent_above_40": 5,
+    "suburb": "SPRINGVALE",
+    "schoolname": "Minaret College",
+    "address": "36/38 Lewis St, Springvale VIC 3171",
+    "longitude": 145.1482,
+    "latitude": -37.9384
+  },
+  {
+    "schoolid": 359,
+    "precent_above_40": 5,
+    "suburb": "HORSHAM",
+    "schoolname": "Horsham College",
+    "address": "310 Baillie St, Horsham VIC 3400",
+    "longitude": 142.1831,
+    "latitude": -36.7116
+  },
+  {
+    "schoolid": 37,
+    "precent_above_40": 4.9,
+    "suburb": "SHEPPARTON",
+    "schoolname": "Wanganui Park Secondary College",
+    "address": "Parkside Dr, Shepparton VIC 3630",
+    "longitude": 145.3867,
+    "latitude": -36.3565
+  },
+  {
+    "schoolid": 538,
+    "precent_above_40": 4.9,
+    "suburb": "BELGRAVE HEIGHTS",
+    "schoolname": "Belgrave Heights Christian School",
+    "address": "Wattle Valley Rd, Belgrave Heights VIC 3160",
+    "longitude": 145.3451,
+    "latitude": -37.9199
+  },
+  {
+    "schoolid": 271,
+    "precent_above_40": 4.8,
+    "suburb": "SOUTH MORANG",
+    "schoolname": "Marymede Catholic College",
+    "address": "60 Williamsons Rd, South Morang VIC 3752",
+    "longitude": 145.0894,
+    "latitude": -37.644
+  },
+  {
+    "schoolid": 113,
+    "precent_above_40": 4.8,
+    "suburb": "HORSHAM",
+    "schoolname": "St Brigids College",
+    "address": "200 Lesmurdie Rd, Lesmurdie WA 6076",
+    "longitude": 116.0526,
+    "latitude": -31.9961
+  },
+  {
+    "schoolid": 106,
+    "precent_above_40": 4.75,
+    "suburb": "NEWTOWN",
+    "schoolname": "St Josephs College",
+    "address": "Mark Street,Hunters Hill, NSW 2111",
+    "longitude": 151.1382,
+    "latitude": -33.8302
+  },
+  {
+    "schoolid": 353,
+    "precent_above_40": 4.7,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Isik College - Dandenong",
+    "address": "139 Chapel Rd, Keysborough VIC 3173",
+    "longitude": 145.161,
+    "latitude": -38.0048
+  },
+  {
+    "schoolid": 105,
+    "precent_above_40": 4.65,
+    "suburb": "FERNTREE GULLY",
+    "schoolname": "St Josephs College",
+    "address": "Mark Street,Hunters Hill, NSW 2110",
+    "longitude": 151.1382,
+    "latitude": -33.8302
+  },
+  {
+    "schoolid": 535,
+    "precent_above_40": 4.6,
+    "suburb": "BENALLA",
+    "schoolname": "Benalla P-12 College",
+    "address": "44 Clarke St, Benalla VIC 3672",
+    "longitude": 145.968,
+    "latitude": -36.5538
+  },
+  {
+    "schoolid": 110,
+    "precent_above_40": 4.6,
+    "suburb": "BEACONSFIELD",
+    "schoolname": "St Francis Xavier College",
+    "address": "Barnard Circuit, Florey ACT 2615",
+    "longitude": 149.0397,
+    "latitude": -35.2259
+  },
+  {
+    "schoolid": 429,
+    "precent_above_40": 4.55,
+    "suburb": "LILYDALE",
+    "schoolname": "Edinburgh College",
+    "address": "33-61 Edinburgh Road, Lilydale VIC 3140",
+    "longitude": 145.3514,
+    "latitude": -37.7844
+  },
+  {
+    "schoolid": 425,
+    "precent_above_40": 4.5,
+    "suburb": "ELWOOD",
+    "schoolname": "Elwood College",
+    "address": "101 Glen Huntly Rd, Elwood VIC 3184",
+    "longitude": 144.9846,
+    "latitude": -37.8821
+  },
+  {
+    "schoolid": 222,
+    "precent_above_40": 4.5,
+    "suburb": "MELTON",
+    "schoolname": "Mowbray College",
+    "address": "Centenary Ave, Melton, VIC, 3337",
+    "longitude": 144.575,
+    "latitude": -37.6736
+  },
+  {
+    "schoolid": 214,
+    "precent_above_40": 4.5,
+    "suburb": "NATHALIA",
+    "schoolname": "Nathalia Secondary College",
+    "address": "41/42 Chapel St, Nathalia VIC 3638",
+    "longitude": 145.2079,
+    "latitude": -36.0608
+  },
+  {
+    "schoolid": 324,
+    "precent_above_40": 4.5,
+    "suburb": "KORUMBURRA",
+    "schoolname": "Korumburra Secondary College",
+    "address": "125 Jumbunna Rd, Korumburra VIC 3950",
+    "longitude": 145.8038,
+    "latitude": -38.4437
+  },
+  {
+    "schoolid": 200,
+    "precent_above_40": 4.5,
+    "suburb": "RINGWOOD",
+    "schoolname": "Norwood Secondary College",
+    "address": "Byron St, Ringwood VIC 3134",
+    "longitude": 145.2373,
+    "latitude": -37.8001
+  },
+  {
+    "schoolid": 224,
+    "precent_above_40": 4.4,
+    "suburb": "MONBULK",
+    "schoolname": "Mountain District Christian School",
+    "address": "Macclesfield Rd, Monbulk VIC 3793",
+    "longitude": 145.4412,
+    "latitude": -37.8626
+  },
+  {
+    "schoolid": 56,
+    "precent_above_40": 4.4,
+    "suburb": "TRAFALGAR",
+    "schoolname": "Trafalgar High School",
+    "address": "84 School Rd, Trafalgar VIC 3824",
+    "longitude": 146.1597,
+    "latitude": -38.2149
+  },
+  {
+    "schoolid": 573,
+    "precent_above_40": 4.3,
+    "suburb": "ALEXANDRA",
+    "schoolname": "Alexandra Secondary College",
+    "address": "Downey St, Alexandra VIC 3714",
+    "longitude": 145.7097,
+    "latitude": -37.1916
+  },
+  {
+    "schoolid": 391,
+    "precent_above_40": 4.2,
+    "suburb": "ENDEAVOUR HILLS",
+    "schoolname": "Gleneagles Secondary College",
+    "address": "58 Reema Blvd, Endeavour Hills VIC 3802",
+    "longitude": 145.2736,
+    "latitude": -37.974
+  },
+  {
+    "schoolid": 35,
+    "precent_above_40": 4.2,
+    "suburb": "WANTIRNA",
+    "schoolname": "Wantirna College",
+    "address": "90 Harold St, Wantirna VIC 3152",
+    "longitude": 145.23,
+    "latitude": -37.8578
+  },
+  {
+    "schoolid": 243,
+    "precent_above_40": 4.2,
+    "suburb": "HAMILTON",
+    "schoolname": "Monivae College",
+    "address": "33 Ballarat Rd, Hamilton VIC 3300",
+    "longitude": 142.0373,
+    "latitude": -37.7421
+  },
+  {
+    "schoolid": 492,
+    "precent_above_40": 4.2,
+    "suburb": "CASTLEMAINE",
+    "schoolname": "Castlemaine Secondary College",
+    "address": "Etty St, Castlemaine VIC 3450",
+    "longitude": 144.2121,
+    "latitude": -37.0774
+  },
+  {
+    "schoolid": 126,
+    "precent_above_40": 4.1,
+    "suburb": "FOSTER",
+    "schoolname": "South Gippsland Secondary College",
+    "address": "Pioneer St & Hoddle Road, Foster VIC 3960",
+    "longitude": 146.197,
+    "latitude": -38.6525
+  },
+  {
+    "schoolid": 330,
+    "precent_above_40": 4.1,
+    "suburb": "WARRNAMBOOL",
+    "schoolname": "Kings College",
+    "address": "Upland Road, St Lucia QLD 4067",
+    "longitude": 153.0099,
+    "latitude": -27.5007
+  },
+  {
+    "schoolid": 569,
+    "precent_above_40": 4,
+    "suburb": "TRUGANINA",
+    "schoolname": "Al-Taqwa College",
+    "address": "201 Sayers Rd, Truganina VIC 3029",
+    "longitude": 144.7222,
+    "latitude": -37.8523
+  },
+  {
+    "schoolid": 418,
+    "precent_above_40": 4,
+    "suburb": "BENALLA",
+    "schoolname": "F.C.J. College",
+    "address": "36 Arundel St, Benalla VIC 3672",
+    "longitude": 145.9847,
+    "latitude": -36.5586
+  },
+  {
+    "schoolid": 423,
+    "precent_above_40": 4,
+    "suburb": "ALTONA NORTH",
+    "schoolname": "Emmanuel College",
+    "address": "17 Birmingham Rd, Carrara QLD 4211",
+    "longitude": 153.369,
+    "latitude": -28.0149
+  },
+  {
+    "schoolid": 286,
+    "precent_above_40": 4,
+    "suburb": "MACLEOD",
+    "schoolname": "Macleod College",
+    "address": "Carwarp St, Macleod VIC 3085",
+    "longitude": 145.072,
+    "latitude": -37.7272
+  },
+  {
+    "schoolid": 395,
+    "precent_above_40": 4,
+    "suburb": "GISBORNE",
+    "schoolname": "Gisborne Secondary College",
+    "address": "Gisborne Melton Rd, Gisborne VIC 3437",
+    "longitude": 144.5647,
+    "latitude": -37.5255
+  },
+  {
+    "schoolid": 365,
+    "precent_above_40": 4,
+    "suburb": "MARYBOROUGH",
+    "schoolname": "Highview Christian Community College",
+    "address": "21 Kars St, Maryborough VIC 3465",
+    "longitude": 143.7353,
+    "latitude": -37.0517
+  },
+  {
+    "schoolid": 442,
+    "precent_above_40": 4,
+    "suburb": "DIMBOOLA",
+    "schoolname": "Dimboola Memorial Secondary College",
+    "address": "Ellerman Street, Dimboola VIC 3414",
+    "longitude": 142.0285,
+    "latitude": -36.4448
+  },
+  {
+    "schoolid": 533,
+    "precent_above_40": 4,
+    "suburb": "BENDIGO",
+    "schoolname": "Bendigo Senior Secondary College",
+    "address": "Gaol Rd, Bendigo VIC 3550",
+    "longitude": 144.2783,
+    "latitude": -36.7551
+  },
+  {
+    "schoolid": 276,
+    "precent_above_40": 4,
+    "suburb": "MARIBYRNONG",
+    "schoolname": "Maribyrnong Secondary College",
+    "address": "River St, Maribyrnong VIC 3032",
+    "longitude": 144.8881,
+    "latitude": -37.7797
+  },
+  {
+    "schoolid": 465,
+    "precent_above_40": 4,
+    "suburb": "COLLINGWOOD",
+    "schoolname": "Collingwood College",
+    "address": "Cromwell St & McCutcheon Way, Abbotsford VIC 3067",
+    "longitude": 144.9904,
+    "latitude": -37.8034
+  },
+  {
+    "schoolid": 563,
+    "precent_above_40": 4,
+    "suburb": "KILMORE",
+    "schoolname": "Assumption College",
+    "address": "Sutherland St, Kilmore VIC 3764",
+    "longitude": 144.9478,
+    "latitude": -37.3035
+  },
+  {
+    "schoolid": 536,
+    "precent_above_40": 4,
+    "suburb": "BELMONT",
+    "schoolname": "Belmont High School",
+    "address": "Rotherham St, Belmont VIC 3216",
+    "longitude": 144.3308,
+    "latitude": -38.1754
+  },
+  {
+    "schoolid": 479,
+    "precent_above_40": 4,
+    "suburb": "CHELTENHAM",
+    "schoolname": "Cheltenham Secondary College",
+    "address": "73 Bernard St, Cheltenham VIC 3192",
+    "longitude": 145.0684,
+    "latitude": -37.9539
+  },
+  {
+    "schoolid": 486,
+    "precent_above_40": 4,
+    "suburb": "MELTON WEST",
+    "schoolname": "Catholic Regional College",
+    "address": "10-28 College St, Caroline Springs VIC 3023",
+    "longitude": 144.7396,
+    "latitude": -37.7289
+  },
+  {
+    "schoolid": 52,
+    "precent_above_40": 4,
+    "suburb": "SEA LAKE",
+    "schoolname": "Tyrrell College",
+    "address": "10 Sutcliff St, Sea Lake VIC 3533",
+    "longitude": 142.8523,
+    "latitude": -35.5093
+  },
+  {
+    "schoolid": 251,
+    "precent_above_40": 4,
+    "suburb": "CAMPERDOWN",
+    "schoolname": "Mercy Regional College",
+    "address": "Henderson St, Camperdown VIC 3266",
+    "longitude": 143.1407,
+    "latitude": -38.2341
+  },
+  {
+    "schoolid": 164,
+    "precent_above_40": 4,
+    "suburb": "RAINBOW",
+    "schoolname": "Rainbow P-12 College",
+    "address": "7 Albert St, Rainbow VIC 3424",
+    "longitude": 141.9949,
+    "latitude": -35.8945
+  },
+  {
+    "schoolid": 221,
+    "precent_above_40": 4,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Mt Hira College",
+    "address": "185 Perry Rd, Keysborough VIC 3173",
+    "longitude": 145.1729,
+    "latitude": -38.0129
+  },
+  {
+    "schoolid": 179,
+    "precent_above_40": 4,
+    "suburb": "PASCOE VALE",
+    "schoolname": "Pascoe Vale Girls Secondary College",
+    "address": "Lake Ave, Pascoe Vale VIC 3044",
+    "longitude": 144.9355,
+    "latitude": -37.7174
+  },
+  {
+    "schoolid": 157,
+    "precent_above_40": 4,
+    "suburb": "ROSEBUD",
+    "schoolname": "Rosebud Secondary College",
+    "address": "245 Eastbourne Rd, Rosebud VIC 3939",
+    "longitude": 144.8869,
+    "latitude": -38.3674
+  },
+  {
+    "schoolid": 156,
+    "precent_above_40": 4,
+    "suburb": "NIDDRIE",
+    "schoolname": "Rosehill Secondary College",
+    "address": "Sapphire St, Niddrie VIC 3042",
+    "longitude": 144.8862,
+    "latitude": -37.7474
+  },
+  {
+    "schoolid": 193,
+    "precent_above_40": 4,
+    "suburb": "BELMONT",
+    "schoolname": "Oberon High School",
+    "address": "12 Pickett Cres, Belmont VIC 3216",
+    "longitude": 144.3374,
+    "latitude": -38.1867
+  },
+  {
+    "schoolid": 76,
+    "precent_above_40": 4,
+    "suburb": "TALLANGATTA",
+    "schoolname": "Tallangatta Secondary College",
+    "address": "140 Towong St, Tallangatta VIC 3700",
+    "longitude": 147.1744,
+    "latitude": -36.2171
+  },
+  {
+    "schoolid": 250,
+    "precent_above_40": 4,
+    "suburb": "RESERVOIR",
+    "schoolname": "Merrilands P-12 College",
+    "address": "60 Merrilands Rd, Reservoir VIC 3073",
+    "longitude": 145.0032,
+    "latitude": -37.6968
+  },
+  {
+    "schoolid": 32,
+    "precent_above_40": 4,
+    "suburb": "WARRANDYTE",
+    "schoolname": "Warrandyte High School",
+    "address": "241-247 Heidelberg-Warrandyte Rd, Warrandyte VIC 3113",
+    "longitude": 145.1846,
+    "latitude": -37.7482
+  },
+  {
+    "schoolid": 198,
+    "precent_above_40": 4,
+    "suburb": "SHEPPARTON",
+    "schoolname": "Notre Dame College",
+    "address": "139 Knight St, Shepparton VIC 3630",
+    "longitude": 145.4076,
+    "latitude": -36.374
+  },
+  {
+    "schoolid": 241,
+    "precent_above_40": 4,
+    "suburb": "MONTMORENCY",
+    "schoolname": "Montmorency Secondary College",
+    "address": "Para Rd, Montmorency VIC 3094",
+    "longitude": 145.1141,
+    "latitude": -37.7178
+  },
+  {
+    "schoolid": 213,
+    "precent_above_40": 4,
+    "suburb": "NOBLE PARK NORTH",
+    "schoolname": "Nazareth College",
+    "address": "15-17 Manning Dr, Noble Park North VIC 3174",
+    "longitude": 145.1962,
+    "latitude": -37.9409
+  },
+  {
+    "schoolid": 118,
+    "precent_above_40": 4,
+    "suburb": "FRANKSTON NORTH",
+    "schoolname": "St Anthonys Coptic Orthodox College",
+    "address": "15 Alpina St, Frankston North VIC 3200",
+    "longitude": 145.1581,
+    "latitude": -38.1203
+  },
+  {
+    "schoolid": 141,
+    "precent_above_40": 4,
+    "suburb": "SANDRINGHAM",
+    "schoolname": "Sandringham College",
+    "address": "11 Holloway Rd, Sandringham VIC 3191",
+    "longitude": 145.0246,
+    "latitude": -37.9572
+  },
+  {
+    "schoolid": 90,
+    "precent_above_40": 4,
+    "suburb": "STAWELL",
+    "schoolname": "Stawell Secondary College",
+    "address": "79-97 Patrick St, Stawell VIC 3380",
+    "longitude": 142.7892,
+    "latitude": -37.062
+  },
+  {
+    "schoolid": 180,
+    "precent_above_40": 4,
+    "suburb": "RINGWOOD NORTH",
+    "schoolname": "Parkwood Secondary College",
+    "address": "Byron St, Ringwood VIC 3134",
+    "longitude": 145.2373,
+    "latitude": -37.8001
+  },
+  {
+    "schoolid": 107,
+    "precent_above_40": 4,
+    "suburb": "DANDENONG",
+    "schoolname": "St Johns Regional College",
+    "address": "5-11 Caroline St, Dandenong VIC 3175",
+    "longitude": 145.2258,
+    "latitude": -37.9904
+  },
+  {
+    "schoolid": 201,
+    "precent_above_40": 4,
+    "suburb": "BUNDOORA",
+    "schoolname": "Northside Christian College",
+    "address": "151 Flockton St, Everton Park QLD 4053",
+    "longitude": 152.9912,
+    "latitude": -27.3945
+  },
+  {
+    "schoolid": 181,
+    "precent_above_40": 4,
+    "suburb": "MORDIALLOC",
+    "schoolname": "Parkdale Secondary College",
+    "address": "Warren Rd, Mordialloc VIC 3195",
+    "longitude": 145.0927,
+    "latitude": -37.9929
+  },
+  {
+    "schoolid": 142,
+    "precent_above_40": 4,
+    "suburb": "PRESTON",
+    "schoolname": "SAMARITAN CATHOLIC COLLEGE",
+    "address": "8 Clifton Grv; Preston, Victoria, Australia 3072",
+    "longitude": 145.0047,
+    "latitude": -37.744
+  },
+  {
+    "schoolid": 234,
+    "precent_above_40": 3.9,
+    "suburb": "MOUNT BEAUTY",
+    "schoolname": "Mount Beauty Secondary College",
+    "address": "Tailrace Road, Mount Beauty VIC 3699",
+    "longitude": 147.1675,
+    "latitude": -36.7419
+  },
+  {
+    "schoolid": 235,
+    "precent_above_40": 3.85,
+    "suburb": "FLEMINGTON",
+    "schoolname": "Mount Alexander College",
+    "address": "167-175 Mt Alexander Rd, Flemington VIC 3031",
+    "longitude": 144.9339,
+    "latitude": -37.7827
+  },
+  {
+    "schoolid": 80,
+    "precent_above_40": 3.8,
+    "suburb": "SWIFTS CREEK",
+    "schoolname": "Swifts Creek School",
+    "address": "Great Alpine Rd, Swifts Creek VIC 3896",
+    "longitude": 147.8163,
+    "latitude": -37.3592
+  },
+  {
+    "schoolid": 194,
+    "precent_above_40": 3.8,
+    "suburb": "OAKLEIGH",
+    "schoolname": "Oakleigh Greek Orthodox College",
+    "address": "77/73-81 Willesden Rd, Hughesdale VIC 3166",
+    "longitude": 145.0826,
+    "latitude": -37.8962
+  },
+  {
+    "schoolid": 553,
+    "precent_above_40": 3.8,
+    "suburb": "SEBASTOPOL",
+    "schoolname": "Ballarat Christian College",
+    "address": "111A Yarrowee St, Sebastopol VIC 3356",
+    "longitude": 143.8432,
+    "latitude": -37.5925
+  },
+  {
+    "schoolid": 394,
+    "precent_above_40": 3.8,
+    "suburb": "GLADSTONE PARK",
+    "schoolname": "Gladstone Park Secondary College",
+    "address": "14-36 Taylor Drive, Gladstone Park VIC 3043",
+    "longitude": 144.8896,
+    "latitude": -37.6891
+  },
+  {
+    "schoolid": 335,
+    "precent_above_40": 3.8,
+    "suburb": "SPRINGVALE SOUTH",
+    "schoolname": "Keysborough College (Banksia)",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 454,
+    "precent_above_40": 3.7,
+    "suburb": "MOUNT CLEAR",
+    "schoolname": "Damascus College",
+    "address": "1412 Geelong Rd, Mount Clear VIC 3350",
+    "longitude": 143.8707,
+    "latitude": -37.6114
+  },
+  {
+    "schoolid": 23,
+    "precent_above_40": 3.7,
+    "suburb": "CLAYTON SOUTH",
+    "schoolname": "Westall Secondary College",
+    "address": "88 Rosebank Ave, Clayton South VIC 3169",
+    "longitude": 145.1363,
+    "latitude": -37.9402
+  },
+  {
+    "schoolid": 348,
+    "precent_above_40": 3.7,
+    "suburb": "FRANKSTON",
+    "schoolname": "John Paul College",
+    "address": "John Paul Dr, Daisy Hill QLD 4127",
+    "longitude": 153.1482,
+    "latitude": -27.6358
+  },
+  {
+    "schoolid": 381,
+    "precent_above_40": 3.7,
+    "suburb": "GREENSBOROUGH",
+    "schoolname": "Greensborough Secondary College",
+    "address": "Nell St, Greensborough VIC 3088",
+    "longitude": 145.0994,
+    "latitude": -37.7092
+  },
+  {
+    "schoolid": 493,
+    "precent_above_40": 3.6,
+    "suburb": "CASTERTON",
+    "schoolname": "Casterton Secondary College",
+    "address": "27 Mt Gambier Rd, Casterton VIC 3311",
+    "longitude": 141.3877,
+    "latitude": -37.5888
+  },
+  {
+    "schoolid": 277,
+    "precent_above_40": 3.5,
+    "suburb": "ARARAT",
+    "schoolname": "Marian College Ararat",
+    "address": "304 Barkly St, Ararat VIC 3377",
+    "longitude": 142.9406,
+    "latitude": -37.2847
+  },
+  {
+    "schoolid": 530,
+    "precent_above_40": 3.5,
+    "suburb": "BERWICK",
+    "schoolname": "Berwick Secondary College",
+    "address": "Manuka Rd, Berwick VIC 3806",
+    "longitude": 145.3654,
+    "latitude": -38.0331
+  },
+  {
+    "schoolid": 301,
+    "precent_above_40": 3.5,
+    "suburb": "LILYDALE",
+    "schoolname": "Lilydale High School",
+    "address": "25 Melba Ave, Lilydale VIC 3140",
+    "longitude": 145.3446,
+    "latitude": -37.7607
+  },
+  {
+    "schoolid": 337,
+    "precent_above_40": 3.4,
+    "suburb": "SPRINGVALE SOUTH",
+    "schoolname": "Keysborough College - Banksia",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 542,
+    "precent_above_40": 3.4,
+    "suburb": "PORTLAND",
+    "schoolname": "Bayview College",
+    "address": "119 Bentinck St, Portland VIC 3305",
+    "longitude": 141.6062,
+    "latitude": -38.3452
+  },
+  {
+    "schoolid": 309,
+    "precent_above_40": 3.4,
+    "suburb": "TRARALGON",
+    "schoolname": "Lavalla Catholic College",
+    "address": "33-49 Kosciuszko St, Traralgon VIC 3844",
+    "longitude": 146.5148,
+    "latitude": -38.2008
+  },
+  {
+    "schoolid": 33,
+    "precent_above_40": 3.3,
+    "suburb": "WARRAGUL",
+    "schoolname": "Warragul Regional College",
+    "address": "55 Burke St, Warragul VIC 3820",
+    "longitude": 145.9246,
+    "latitude": -38.1642
+  },
+  {
+    "schoolid": 135,
+    "precent_above_40": 3.3,
+    "suburb": "SHEPPARTON",
+    "schoolname": "Shepparton Christian College",
+    "address": "155 Verney Rd, Shepparton VIC 3630",
+    "longitude": 145.4157,
+    "latitude": -36.3539
+  },
+  {
+    "schoolid": 398,
+    "precent_above_40": 3.3,
+    "suburb": "TAYLORS HILL",
+    "schoolname": "Gilson College",
+    "address": "450 Taylors Rd, Taylors Hill VIC 3037",
+    "longitude": 144.7627,
+    "latitude": -37.7251
+  },
+  {
+    "schoolid": 62,
+    "precent_above_40": 3.2,
+    "suburb": "TARNEIT",
+    "schoolname": "Thomas Carr College",
+    "address": "35 Thomas Carr Dr, Tarneit VIC 3029",
+    "longitude": 144.7022,
+    "latitude": -37.8477
+  },
+  {
+    "schoolid": 532,
+    "precent_above_40": 3.2,
+    "suburb": "BENTLEIGH EAST",
+    "schoolname": "Bentleigh Secondary College",
+    "address": "4 Vivien St, Bentleigh East VIC 3165",
+    "longitude": 145.0594,
+    "latitude": -37.9275
+  },
+  {
+    "schoolid": 470,
+    "precent_above_40": 3.2,
+    "suburb": "COBURG",
+    "schoolname": "Coburg Senior High School",
+    "address": "101 Urquhart St, Coburg VIC 3058",
+    "longitude": 144.9768,
+    "latitude": -37.7414
+  },
+  {
+    "schoolid": 550,
+    "precent_above_40": 3.2,
+    "suburb": "BALLARAT",
+    "schoolname": "Ballarat High School",
+    "address": "Sturt Street, West Ballarat VIC 3350",
+    "longitude": 143.8212,
+    "latitude": -37.5565
+  },
+  {
+    "schoolid": 73,
+    "precent_above_40": 3.2,
+    "suburb": "TAYLORS LAKES",
+    "schoolname": "Taylors Lakes Secondary College",
+    "address": "1-39 Parmelia Dr, Taylors Lakes VIC 3038",
+    "longitude": 144.7933,
+    "latitude": -37.707
+  },
+  {
+    "schoolid": 457,
+    "precent_above_40": 3.2,
+    "suburb": "CRANBOURNE EAST",
+    "schoolname": "Cranbourne East Secondary College",
+    "address": "50 Stately Dr, Cranbourne East VIC 3977",
+    "longitude": 145.3061,
+    "latitude": -38.1049
+  },
+  {
+    "schoolid": 318,
+    "precent_above_40": 3.15,
+    "suburb": "LAKE BOLAC",
+    "schoolname": "Lake Bolac College",
+    "address": "90 Montgomery St, Lake Bolac VIC 3351",
+    "longitude": 142.8377,
+    "latitude": -37.7203
+  },
+  {
+    "schoolid": 40,
+    "precent_above_40": 3.1,
+    "suburb": "WEST WODONGA",
+    "schoolname": "Victory Lutheran College",
+    "address": "28 Drage Rd, West Wodonga VIC 3690",
+    "longitude": 146.8466,
+    "latitude": -36.117
+  },
+  {
+    "schoolid": 568,
+    "precent_above_40": 3.1,
+    "suburb": "PASCOE VALE SOUTH",
+    "schoolname": "Antonine College",
+    "address": "Harding St, Coburg VIC 3058",
+    "longitude": 144.9734,
+    "latitude": -37.7458
+  },
+  {
+    "schoolid": 419,
+    "precent_above_40": 3.1,
+    "suburb": "EUROA",
+    "schoolname": "Euroa Secondary College",
+    "address": "26 Campbell St, Euroa VIC 3666",
+    "longitude": 145.5653,
+    "latitude": -36.7575
+  },
+  {
+    "schoolid": 498,
+    "precent_above_40": 3.1,
+    "suburb": "BRAYBROOK",
+    "schoolname": "Caroline Chisholm Catholic College",
+    "address": "204 Churchill Ave, Braybrook VIC 3019",
+    "longitude": 144.8482,
+    "latitude": -37.7866
+  },
+  {
+    "schoolid": 437,
+    "precent_above_40": 3.1,
+    "suburb": "DROMANA",
+    "schoolname": "Dromana Secondary College",
+    "address": "110 Harrisons Rd, Dromana VIC 3936",
+    "longitude": 145.0138,
+    "latitude": -38.3427
+  },
+  {
+    "schoolid": 546,
+    "precent_above_40": 3,
+    "suburb": "HEIDELBERG WEST",
+    "schoolname": "Banksia Latrobe Secondary College",
+    "address": "235 Kingsbury Dr, Macleod VIC 3085",
+    "longitude": 145.0576,
+    "latitude": -37.7291
+  },
+  {
+    "schoolid": 463,
+    "precent_above_40": 3,
+    "suburb": "DELAHEY",
+    "schoolname": "Copperfield College",
+    "address": "70 Goldsmith Ave, Delahey VIC 3037",
+    "longitude": 144.7721,
+    "latitude": -37.7198
+  },
+  {
+    "schoolid": 445,
+    "precent_above_40": 3,
+    "suburb": "DERRINALLUM",
+    "schoolname": "Derrinallum P-12 College",
+    "address": "Campbell St, Derrinallum VIC 3325",
+    "longitude": 143.2152,
+    "latitude": -37.94
+  },
+  {
+    "schoolid": 285,
+    "precent_above_40": 3,
+    "suburb": "MAFFRA",
+    "schoolname": "Maffra Secondary College",
+    "address": "14 Bill Cane Ct, Maffra VIC 3860",
+    "longitude": 149.7538,
+    "latitude": -37.5605
+  },
+  {
+    "schoolid": 215,
+    "precent_above_40": 3,
+    "suburb": "NARRE WARREN SOUTH",
+    "schoolname": "Narre Warren South P-12 College",
+    "address": "Amberly Park Dr, Narre Warren South VIC 3805",
+    "longitude": 145.2895,
+    "latitude": -38.0468
+  },
+  {
+    "schoolid": 284,
+    "precent_above_40": 3,
+    "suburb": "MALLACOOTA",
+    "schoolname": "Mallacoota P-12 College",
+    "address": "25 Bucknall St, Mallacoota VIC 3892",
+    "longitude": 149.7538,
+    "latitude": 37.5605
+  },
+  {
+    "schoolid": 571,
+    "precent_above_40": 3,
+    "suburb": "CRANBOURNE NORTH",
+    "schoolname": "Alkira Secondary College",
+    "address": "15 Nurture Ave, Cranbourne North VIC 3977",
+    "longitude": 145.3105,
+    "latitude": -38.0737
+  },
+  {
+    "schoolid": 211,
+    "precent_above_40": 3,
+    "suburb": "MELBOURNE",
+    "schoolname": "New Generation College",
+    "address": "152/154-168 Elizabeth St, Melbourne VIC 3000",
+    "longitude": 144.9637,
+    "latitude": -37.8143
+  },
+  {
+    "schoolid": 64,
+    "precent_above_40": 3,
+    "suburb": "MELBOURNE",
+    "schoolname": "THE MERIDIAN INTERNATIONAL SCHOOL",
+    "address": "123-129 Lonsdale St Melbourne, VIC, 3000",
+    "longitude": 144.9686,
+    "latitude": -37.8106
+  },
+  {
+    "schoolid": 257,
+    "precent_above_40": 3,
+    "suburb": "MELTON SOUTH",
+    "schoolname": "Melton Christian College",
+    "address": "152-156 Brooklyn Rd, Melton South VIC 3338",
+    "longitude": 144.5604,
+    "latitude": -37.701
+  },
+  {
+    "schoolid": 60,
+    "precent_above_40": 3,
+    "suburb": "THORNBURY",
+    "schoolname": "Thornbury High School",
+    "address": "238 Collins St., Thornbury VIC 3071",
+    "longitude": -37.7565,
+    "latitude": -37.7565
+  },
+  {
+    "schoolid": 155,
+    "precent_above_40": 3,
+    "suburb": "ROWVILLE",
+    "schoolname": "Rowville Secondary College",
+    "address": "Paratea Dr, Rowville VIC 3178",
+    "longitude": 145.2368,
+    "latitude": -37.9239
+  },
+  {
+    "schoolid": 374,
+    "precent_above_40": 3,
+    "suburb": "HAWTHORN EAST",
+    "schoolname": "Hawthorn Secondary College",
+    "address": "Burgess St, Hawthorn East VIC 3123",
+    "longitude": 145.0443,
+    "latitude": -37.8397
+  },
+  {
+    "schoolid": 450,
+    "precent_above_40": 3,
+    "suburb": "DAYLESFORD",
+    "schoolname": "Daylesford Secondary College",
+    "address": "Smith St, Daylesford VIC 3460",
+    "longitude": 144.1509,
+    "latitude": -37.3367
+  },
+  {
+    "schoolid": 371,
+    "precent_above_40": 3,
+    "suburb": "SPRINGVALE SOUTH",
+    "schoolname": "HEATHERHILL SECONDARY COLLEGE",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 459,
+    "precent_above_40": 3,
+    "suburb": "BELL POST HILL",
+    "schoolname": "Covenant College",
+    "address": "14049 Scenic Hwy, Lookout Mountain, GA 30750",
+    "longitude": -85.3743,
+    "latitude": 34.9665
+  },
+  {
+    "schoolid": 537,
+    "precent_above_40": 3,
+    "suburb": "DRYSDALE",
+    "schoolname": "Bellarine Secondary College",
+    "address": "Peninsula Dr, Drysdale VIC 3222",
+    "longitude": 144.5556,
+    "latitude": -38.189
+  },
+  {
+    "schoolid": 248,
+    "precent_above_40": 3,
+    "suburb": "MILDURA",
+    "schoolname": "Mildura Senior College",
+    "address": "Fourteenth St & Deakin Avenue, Mildura VIC 3500",
+    "longitude": 142.147,
+    "latitude": -34.1983
+  },
+  {
+    "schoolid": 539,
+    "precent_above_40": 3,
+    "suburb": "BEECHWORTH",
+    "schoolname": "Beechworth Secondary College",
+    "address": "85 Balaclava Rd, Beechworth VIC 3747",
+    "longitude": 146.6906,
+    "latitude": -36.3468
+  },
+  {
+    "schoolid": 178,
+    "precent_above_40": 3,
+    "suburb": "CARRUM",
+    "schoolname": "Patterson River Secondary College",
+    "address": "70-98 Eel Race Rd, Seaford VIC 3198",
+    "longitude": 145.1343,
+    "latitude": -38.0835
+  },
+  {
+    "schoolid": 410,
+    "precent_above_40": 3,
+    "suburb": "FOOTSCRAY",
+    "schoolname": "Footscray City College",
+    "address": "Kinnear St, Footscray VIC 3011",
+    "longitude": 144.8918,
+    "latitude": -37.791
+  },
+  {
+    "schoolid": 100,
+    "precent_above_40": 3,
+    "suburb": "NATHALIA",
+    "schoolname": "St Mary of the Angels School",
+    "address": "Wirruna Street, Guyra NSW 2365",
+    "longitude": 151.677,
+    "latitude": -30.216
+  },
+  {
+    "schoolid": 433,
+    "precent_above_40": 3,
+    "suburb": "DINGEE",
+    "schoolname": "East Loddon P-12 College",
+    "address": "Dingee Rd, Dingee VIC 3571",
+    "longitude": 144.183,
+    "latitude": -36.3709
+  },
+  {
+    "schoolid": 240,
+    "precent_above_40": 3,
+    "suburb": "MOOROOLBARK",
+    "schoolname": "Mooroolbark College",
+    "address": "186 Manchester Rd, Mooroolbark VIC 3138",
+    "longitude": 145.3136,
+    "latitude": -37.7739
+  },
+  {
+    "schoolid": 436,
+    "precent_above_40": 3,
+    "suburb": "DROUIN",
+    "schoolname": "Drouin Secondary College",
+    "address": "Main S Rd, Drouin VIC 3818",
+    "longitude": 145.848,
+    "latitude": -38.1459
+  },
+  {
+    "schoolid": 305,
+    "precent_above_40": 3,
+    "suburb": "LEONGATHA",
+    "schoolname": "Leongatha Secondary College",
+    "address": "Nerrena Rd, Leongatha VIC 3953",
+    "longitude": 145.9759,
+    "latitude": -38.4815
+  },
+  {
+    "schoolid": 399,
+    "precent_above_40": 3,
+    "suburb": "FOOTSCRAY",
+    "schoolname": "Gilmore College For Girls",
+    "address": "298 Barkly St, Footscray VIC 3011",
+    "longitude": 144.8939,
+    "latitude": -37.7989
+  },
+  {
+    "schoolid": 72,
+    "precent_above_40": 3,
+    "suburb": "TEMPLESTOWE LOWER",
+    "schoolname": "Templestowe College",
+    "address": "7 Cypress Ave, Templestowe Lower VIC 3107",
+    "longitude": 145.1216,
+    "latitude": -37.7675
+  },
+  {
+    "schoolid": 185,
+    "precent_above_40": 3,
+    "suburb": "MELBOURNE",
+    "schoolname": "Ozford College",
+    "address": "815 George Street, Sydney, NSW 2000",
+    "longitude": 151.2034,
+    "latitude": -33.8829
+  },
+  {
+    "schoolid": 158,
+    "precent_above_40": 3,
+    "suburb": "ROCHESTER",
+    "schoolname": "Rochester Secondary College",
+    "address": "Edward St, Rochester VIC 3561",
+    "longitude": 144.6985,
+    "latitude": -36.3551
+  },
+  {
+    "schoolid": 338,
+    "precent_above_40": 3,
+    "suburb": "KEYSBOROUGH",
+    "schoolname": "Keysborough College",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 245,
+    "precent_above_40": 3,
+    "suburb": "MIRBOO NORTH",
+    "schoolname": "Mirboo North Secondary College",
+    "address": "Castle St, Mirboo North VIC 3871",
+    "longitude": 146.1471,
+    "latitude": -38.4003
+  },
+  {
+    "schoolid": 49,
+    "precent_above_40": 3,
+    "suburb": "UPWEY",
+    "schoolname": "Upwey High School",
+    "address": "1451 Burwood Hwy, Upwey VIC 3158",
+    "longitude": 145.3329,
+    "latitude": -37.9041
+  },
+  {
+    "schoolid": 341,
+    "precent_above_40": 3,
+    "suburb": "KEILOR DOWNS",
+    "schoolname": "Keilor Downs College",
+    "address": "100-110 Odessa Ave, Keilor Downs VIC 3038",
+    "longitude": 144.8115,
+    "latitude": -37.716
+  },
+  {
+    "schoolid": 297,
+    "precent_above_40": 3,
+    "suburb": "LORNE",
+    "schoolname": "Lorne Aireys Inlet P-12 College",
+    "address": "15 Grove Rd, Lorne VIC 3232",
+    "longitude": 143.9732,
+    "latitude": -38.539
+  },
+  {
+    "schoolid": 514,
+    "precent_above_40": 3,
+    "suburb": "BRIGHT",
+    "schoolname": "Bright P-12 College",
+    "address": "Bakers Gully Rd & Park St, Bright VIC 3741",
+    "longitude": 146.9607,
+    "latitude": -36.7317
+  },
+  {
+    "schoolid": 175,
+    "precent_above_40": 2.9,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Penola Catholic College",
+    "address": "29 Gibson St, Broadmeadows VIC 3047",
+    "longitude": 144.9198,
+    "latitude": -37.6888
+  },
+  {
+    "schoolid": 93,
+    "precent_above_40": 2.9,
+    "suburb": "TYNONG",
+    "schoolname": "St Thomas Aquinas College",
+    "address": "1 Tynong Rd, Tynong VIC 3813",
+    "longitude": 145.6237,
+    "latitude": -38.0832
+  },
+  {
+    "schoolid": 327,
+    "precent_above_40": 2.9,
+    "suburb": "KOO WEE RUP",
+    "schoolname": "Koo Wee Rup Secondary College",
+    "address": "Rossiter Rd, Koo Wee Rup VIC 3981",
+    "longitude": 145.4855,
+    "latitude": -38.2014
+  },
+  {
+    "schoolid": 469,
+    "precent_above_40": 2.8,
+    "suburb": "COHUNA",
+    "schoolname": "Cohuna Secondary College",
+    "address": "6415 Murray Valley Hwy, Cohuna VIC 3568",
+    "longitude": 144.227,
+    "latitude": -35.8133
+  },
+  {
+    "schoolid": 548,
+    "precent_above_40": 2.8,
+    "suburb": "BALMORAL",
+    "schoolname": "Balmoral P-12 Comm College",
+    "address": "Harrow-Balmoral Rd, Balmoral VIC 3407",
+    "longitude": 141.7708,
+    "latitude": -37.2459
+  },
+  {
+    "schoolid": 314,
+    "precent_above_40": 2.75,
+    "suburb": "CAROLINE SPRINGS",
+    "schoolname": "Lakeview Senior College",
+    "address": "College St, Caroline Springs VIC 3023",
+    "longitude": 144.7371,
+    "latitude": -37.7304
+  },
+  {
+    "schoolid": 41,
+    "precent_above_40": 2.75,
+    "suburb": "STRATHDALE",
+    "schoolname": "Victory Christian College",
+    "address": "6 Kairn Rd, Strathdale VIC 3550",
+    "longitude": 144.3133,
+    "latitude": -36.7836
+  },
+  {
+    "schoolid": 3,
+    "precent_above_40": 2.7,
+    "suburb": "YEA",
+    "schoolname": "Yea High School",
+    "address": "Racecourse Rd, Yea VIC 3717",
+    "longitude": 145.397,
+    "latitude": -37.2154
+  },
+  {
+    "schoolid": 208,
+    "precent_above_40": 2.7,
+    "suburb": "NHILL",
+    "schoolname": "Nhill College",
+    "address": "Whitehead Ave, Nhill VIC 3418",
+    "longitude": 141.6561,
+    "latitude": -36.3319
+  },
+  {
+    "schoolid": 417,
+    "precent_above_40": 2.7,
+    "suburb": "KNOXFIELD",
+    "schoolname": "Fairhills High School",
+    "address": "330 Scoresby Rd, Knoxfield VIC 3180",
+    "longitude": 145.2595,
+    "latitude": -37.8728
+  },
+  {
+    "schoolid": 483,
+    "precent_above_40": 2.6,
+    "suburb": "MELBOURNE",
+    "schoolname": "Centre for Adult Education",
+    "address": "253 Flinders Ln, Melbourne VIC 3000",
+    "longitude": 144.9658,
+    "latitude": -37.8169
+  },
+  {
+    "schoolid": 5,
+    "precent_above_40": 2.6,
+    "suburb": "YARRAM",
+    "schoolname": "Yarram Secondary College",
+    "address": "86 James St, Yarram VIC 3971",
+    "longitude": 146.6836,
+    "latitude": -38.5662
+  },
+  {
+    "schoolid": 81,
+    "precent_above_40": 2.6,
+    "suburb": "SWAN HILL",
+    "schoolname": "Swan Hill College",
+    "address": "10-32 Pye St, Swan Hill VIC 3585",
+    "longitude": 143.5531,
+    "latitude": -35.3348
+  },
+  {
+    "schoolid": 18,
+    "precent_above_40": 2.6,
+    "suburb": "WHEELERS HILL",
+    "schoolname": "Wheelers Hill Secondary College",
+    "address": "Raphael Dr, Wheelers Hill VIC 3150",
+    "longitude": 145.1824,
+    "latitude": -37.9101
+  },
+  {
+    "schoolid": 375,
+    "precent_above_40": 2.6,
+    "suburb": "HAWKESDALE",
+    "schoolname": "Hawkesdale College",
+    "address": "Hawkesdale VIC 3287",
+    "longitude": 142.3048,
+    "latitude": -38.0541
+  },
+  {
+    "schoolid": 409,
+    "precent_above_40": 2.6,
+    "suburb": "BURWOOD EAST",
+    "schoolname": "Forest Hill College",
+    "address": "178/180 Mahoneys Rd, Forest Hill VIC 3131",
+    "longitude": 145.165,
+    "latitude": -37.843
+  },
+  {
+    "schoolid": 424,
+    "precent_above_40": 2.6,
+    "suburb": "EMERALD",
+    "schoolname": "Emerald Secondary College",
+    "address": "425 Belgrave-Gembrook Rd, Emerald VIC 3782",
+    "longitude": 145.4591,
+    "latitude": -37.9238
+  },
+  {
+    "schoolid": 267,
+    "precent_above_40": 2.6,
+    "suburb": "FRANKSTON",
+    "schoolname": "McClelland College",
+    "address": "31 Belar Ave, Frankston VIC 3199",
+    "longitude": 145.1579,
+    "latitude": -38.1455
+  },
+  {
+    "schoolid": 428,
+    "precent_above_40": 2.6,
+    "suburb": "LANGWARRIN",
+    "schoolname": "Elisabeth Murdoch College",
+    "address": "80 Warrandyte Rd, Langwarrin VIC 3910",
+    "longitude": 145.1898,
+    "latitude": -38.159
+  },
+  {
+    "schoolid": 562,
+    "precent_above_40": 2.55,
+    "suburb": "HAWTHORN EAST",
+    "schoolname": "Auburn High School",
+    "address": "26 Burgess Street, East Hawthorn, VIC 3123",
+    "longitude": 145.0437,
+    "latitude": -37.8396
+  },
+  {
+    "schoolid": 491,
+    "precent_above_40": 2.55,
+    "suburb": "WANGARATTA",
+    "schoolname": "Cathedral College",
+    "address": "344 Wangaratta-Whitfield Rd, Wangaratta VIC 3677",
+    "longitude": 146.3301,
+    "latitude": -36.3862
+  },
+  {
+    "schoolid": 127,
+    "precent_above_40": 2.5,
+    "suburb": "LEONGATHA",
+    "schoolname": "South Coast Christian College",
+    "address": "101 Horn St, Leongatha VIC 3953",
+    "longitude": 145.9605,
+    "latitude": -38.4702
+  },
+  {
+    "schoolid": 431,
+    "precent_above_40": 2.5,
+    "suburb": "ECHUCA",
+    "schoolname": "Echuca College",
+    "address": "20-50 Butcher St., Echuca VIC 3564",
+    "longitude": 144.731,
+    "latitude": -36.1332
+  },
+  {
+    "schoolid": 177,
+    "precent_above_40": 2.5,
+    "suburb": "MOOROOLBARK",
+    "schoolname": "Pembroke Secondary College",
+    "address": "16 Reay Road, Mooroolbark VIC 3138",
+    "longitude": 145.3155,
+    "latitude": -37.7882
+  },
+  {
+    "schoolid": 86,
+    "precent_above_40": 2.5,
+    "suburb": "SUNBURY",
+    "schoolname": "Sunbury College",
+    "address": "30 Racecourse Rd, Sunbury VIC 3429",
+    "longitude": 144.7291,
+    "latitude": -37.5733
+  },
+  {
+    "schoolid": 572,
+    "precent_above_40": 2.5,
+    "suburb": "HAWTHORN EAST",
+    "schoolname": "Alia College",
+    "address": "405 Tooronga Rd, Hawthorn East VIC 3123",
+    "longitude": 145.0449,
+    "latitude": -37.8433
+  },
+  {
+    "schoolid": 455,
+    "precent_above_40": 2.5,
+    "suburb": "CROYDON",
+    "schoolname": "Croydon Secondary College",
+    "address": "20 Brentnall Rd, Croydon VIC 3136",
+    "longitude": 145.2626,
+    "latitude": -37.7953
+  },
+  {
+    "schoolid": 471,
+    "precent_above_40": 2.4,
+    "suburb": "COBRAM",
+    "schoolname": "Cobram Secondary College",
+    "address": "25/47 Warkil St, Cobram VIC 3644",
+    "longitude": 145.6543,
+    "latitude": -35.9135
+  },
+  {
+    "schoolid": 321,
+    "precent_above_40": 2.4,
+    "suburb": "KYABRAM",
+    "schoolname": "Kyabram P-12 College",
+    "address": "57 Fischer St, Kyabram VIC 3620",
+    "longitude": 145.0516,
+    "latitude": -36.3179
+  },
+  {
+    "schoolid": 163,
+    "precent_above_40": 2.4,
+    "suburb": "RED CLIFFS",
+    "schoolname": "Red Cliffs Secondary College",
+    "address": "55 Fitzroy Ave, Red Cliffs VIC 3496",
+    "longitude": 142.1947,
+    "latitude": -34.3008
+  },
+  {
+    "schoolid": 166,
+    "precent_above_40": 2.4,
+    "suburb": "PRESTON",
+    "schoolname": "Preston Girls Secondary College",
+    "address": "Cooma St, Preston, VIC 3072",
+    "longitude": 145.0063,
+    "latitude": -37.7412
+  },
+  {
+    "schoolid": 340,
+    "precent_above_40": 2.4,
+    "suburb": "KERANG",
+    "schoolname": "Kerang Technical High School",
+    "address": "48 Murray Street, Kerang VIC 3585",
+    "longitude": 143.9145,
+    "latitude": -35.7246
+  },
+  {
+    "schoolid": 144,
+    "precent_above_40": 2.4,
+    "suburb": "SALE",
+    "schoolname": "Sale College",
+    "address": "PO Box 231, SALE VIC 3850",
+    "longitude": 147.073,
+    "latitude": -38.1026
+  },
+  {
+    "schoolid": 556,
+    "precent_above_40": 2.4,
+    "suburb": "HAMILTON",
+    "schoolname": "Baimbridge College",
+    "address": "85 Stephen St, Hamilton VIC 3300",
+    "longitude": 142.0147,
+    "latitude": -37.7334
+  },
+  {
+    "schoolid": 171,
+    "precent_above_40": 2.4,
+    "suburb": "POINT COOK",
+    "schoolname": "Point Cook Senior Secondary College",
+    "address": "Cnr Boardwalk Boulevard and Bergamot Drive, Point Cook VIC 3030",
+    "longitude": 144.7325,
+    "latitude": -37.8862
+  },
+  {
+    "schoolid": 59,
+    "precent_above_40": 2.4,
+    "suburb": "TIMBOON",
+    "schoolname": "Timboon P-12 School",
+    "address": "Bailey Street, Timboon VIC 3268",
+    "longitude": 142.9726,
+    "latitude": -38.4831
+  },
+  {
+    "schoolid": 116,
+    "precent_above_40": 2.35,
+    "suburb": "KYABRAM",
+    "schoolname": "St Augustines College",
+    "address": "Federal Parade, Brookvale NSW 2100",
+    "longitude": 151.2741,
+    "latitude": -33.7588
+  },
+  {
+    "schoolid": 278,
+    "precent_above_40": 2.3,
+    "suburb": "SUNSHINE WEST",
+    "schoolname": "Marian College",
+    "address": "196 Glengala Rd, Sunshine West VIC 3020",
+    "longitude": 144.8061,
+    "latitude": -37.7878
+  },
+  {
+    "schoolid": 347,
+    "precent_above_40": 2.3,
+    "suburb": "BERWICK",
+    "schoolname": "Kambrya College",
+    "address": "68 Bemersyde Dr, Berwick VIC 3806",
+    "longitude": 145.3472,
+    "latitude": -38.0545
+  },
+  {
+    "schoolid": 71,
+    "precent_above_40": 2.3,
+    "suburb": "TERANG",
+    "schoolname": "Terang College",
+    "address": "45 Strong St, Terang VIC 3264",
+    "longitude": 142.9206,
+    "latitude": -38.2462
+  },
+  {
+    "schoolid": 408,
+    "precent_above_40": 2.3,
+    "suburb": "FOUNTAIN GATE",
+    "schoolname": "Fountain Gate Secondary College",
+    "address": "45 Josephine Ave, Narre Warren VIC 3805",
+    "longitude": 145.2952,
+    "latitude": -38.0051
+  },
+  {
+    "schoolid": 312,
+    "precent_above_40": 2.2,
+    "suburb": "LALOR",
+    "schoolname": "Lalor Secondary College",
+    "address": "David St & Dalton Road, Lalor VIC 3075",
+    "longitude": 145.031,
+    "latitude": -37.6734
+  },
+  {
+    "schoolid": 451,
+    "precent_above_40": 2.2,
+    "suburb": "FAWKNER",
+    "schoolname": "Darul Ulum College of Victoria",
+    "address": "17 Baird St, Fawkner VIC 3060, Fawkner VIC 3060",
+    "longitude": 144.971,
+    "latitude": -37.7052
+  },
+  {
+    "schoolid": 117,
+    "precent_above_40": 2.2,
+    "suburb": "ST ARNAUD",
+    "schoolname": "St Arnaud Secondary College",
+    "address": "Smith St, St Arnaud VIC 3478",
+    "longitude": 143.2514,
+    "latitude": -36.6103
+  },
+  {
+    "schoolid": 162,
+    "precent_above_40": 2.1,
+    "suburb": "RESERVOIR",
+    "schoolname": "Reservoir High School",
+    "address": "855 Plenty Rd, Reservoir VIC 3073",
+    "longitude": 145.0303,
+    "latitude": -37.7223
+  },
+  {
+    "schoolid": 238,
+    "precent_above_40": 2.1,
+    "suburb": "MORDIALLOC",
+    "schoolname": "Mordialloc College",
+    "address": "1 Station St, Mordialloc VIC 3195",
+    "longitude": 145.0917,
+    "latitude": -38.0123
+  },
+  {
+    "schoolid": 316,
+    "precent_above_40": 2.1,
+    "suburb": "PAKENHAM",
+    "schoolname": "Lakeside Lutheran College",
+    "address": "2 Portobello Rd, Pakenham VIC 3810",
+    "longitude": 145.4558,
+    "latitude": -38.0645
+  },
+  {
+    "schoolid": 247,
+    "precent_above_40": 2.1,
+    "suburb": "EPPING",
+    "schoolname": "Mill Park Secondary College",
+    "address": "Civic Dr & Findon Road, Epping VIC 3076",
+    "longitude": 145.0628,
+    "latitude": -37.6456
+  },
+  {
+    "schoolid": 328,
+    "precent_above_40": 2.1,
+    "suburb": "GREENVALE",
+    "schoolname": "Kolbe Catholic College",
+    "address": "25 Dowling St, Rockingham WA 6168",
+    "longitude": 115.7529,
+    "latitude": -32.2806
+  },
+  {
+    "schoolid": 79,
+    "precent_above_40": 2.1,
+    "suburb": "HAWTHORN",
+    "schoolname": "Swinburne Senior Secondary College",
+    "address": "505 Burwood Rd., Hawthorn VIC 3122",
+    "longitude": 145.0408,
+    "latitude": -37.8231
+  },
+  {
+    "schoolid": 520,
+    "precent_above_40": 2.1,
+    "suburb": "BOX HILL",
+    "schoolname": "Box Hill Institute of TAFE",
+    "address": "465 Elgar Rd, Box Hill VIC 3128",
+    "longitude": 145.1153,
+    "latitude": -37.8154
+  },
+  {
+    "schoolid": 443,
+    "precent_above_40": 2,
+    "suburb": "GREENSBOROUGH",
+    "schoolname": "Diamond Valley Learn Centre",
+    "address": "Corner Of Diamond Creek & St Helena Rds, Greensborough VIC 3088",
+    "longitude": 145.1077,
+    "latitude": -37.6997
+  },
+  {
+    "schoolid": 444,
+    "precent_above_40": 2,
+    "suburb": "DIAMOND CREEK",
+    "schoolname": "Diamond Valley College",
+    "address": "165-179 Main Hurstbridge Rd, Diamond Creek VIC 3089",
+    "longitude": 145.168,
+    "latitude": -37.6722
+  },
+  {
+    "schoolid": 555,
+    "precent_above_40": 2,
+    "suburb": "BAIRNSDALE",
+    "schoolname": "Bairnsdale Secondary College",
+    "address": "90 McKean St, Bairnsdale VIC 3875",
+    "longitude": 145.0326,
+    "latitude": -38.2759
+  },
+  {
+    "schoolid": 291,
+    "precent_above_40": 2,
+    "suburb": "DANDENONG NORTH",
+    "schoolname": "Lyndale Secondary College",
+    "address": "170-174 Gladstone Rd, Dandenong North VIC 3175",
+    "longitude": 145.2069,
+    "latitude": -37.9577
+  },
+  {
+    "schoolid": 151,
+    "precent_above_40": 2,
+    "suburb": "RESERVOIR",
+    "schoolname": "Ruthven Secondary College",
+    "address": "60 Merrilands Rd, Reservoir VIC 3073",
+    "longitude": 145.0032,
+    "latitude": -37.6968
+  },
+  {
+    "schoolid": 296,
+    "precent_above_40": 2,
+    "suburb": "NEWBOROUGH",
+    "schoolname": "Lowanna College",
+    "address": "72-96 Newark Ave, Newborough VIC 3825",
+    "longitude": 146.2858,
+    "latitude": -38.1767
+  },
+  {
+    "schoolid": 464,
+    "precent_above_40": 2,
+    "suburb": "SPRINGVALE SOUTH",
+    "schoolname": "COOMOORA SECONDARY COLLEGE",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 468,
+    "precent_above_40": 2,
+    "suburb": "COLAC",
+    "schoolname": "COLAC COLLEGE",
+    "address": "174 Queen St, Colac VIC 3250",
+    "longitude": 143.5907,
+    "latitude": -38.3516
+  },
+  {
+    "schoolid": 430,
+    "precent_above_40": 2,
+    "suburb": "EDENHOPE",
+    "schoolname": "Edenhope College",
+    "address": "40-48 Lake St, Edenhope VIC 3318",
+    "longitude": 141.2938,
+    "latitude": -37.0355
+  },
+  {
+    "schoolid": 237,
+    "precent_above_40": 2,
+    "suburb": "MORNINGTON",
+    "schoolname": "Mornington Secondary College",
+    "address": "1051 Nepean Hwy, Mornington VIC 3931",
+    "longitude": 145.0528,
+    "latitude": -38.2235
+  },
+  {
+    "schoolid": 420,
+    "precent_above_40": 2,
+    "suburb": "ESSENDON",
+    "schoolname": "Essendon Keilor College",
+    "address": "286 Buckley St, Essendon VIC 3040",
+    "longitude": 144.9017,
+    "latitude": -37.7553
+  },
+  {
+    "schoolid": 494,
+    "precent_above_40": 2,
+    "suburb": "CRANBOURNE",
+    "schoolname": "Casey Grammar School",
+    "address": "3 New Holland Dr, Cranbourne East VIC 3977",
+    "longitude": 145.2933,
+    "latitude": -38.1104
+  },
+  {
+    "schoolid": 367,
+    "precent_above_40": 2,
+    "suburb": "HEYWOOD",
+    "schoolname": "Heywood and District Secondary College",
+    "address": "23 Gorrie St, Heywood VIC 3304",
+    "longitude": 141.6207,
+    "latitude": -38.1293
+  },
+  {
+    "schoolid": 369,
+    "precent_above_40": 2,
+    "suburb": "HEATHMONT",
+    "schoolname": "Heathmont College",
+    "address": "Waters Grove, Heathmont VIC 3135",
+    "longitude": 145.2329,
+    "latitude": -37.8386
+  },
+  {
+    "schoolid": 89,
+    "precent_above_40": 2,
+    "suburb": "MELBOURNE",
+    "schoolname": "Stotts College",
+    "address": "252 Lygon St, Carlton VIC 3053",
+    "longitude": 144.9671,
+    "latitude": -37.8013
+  },
+  {
+    "schoolid": 510,
+    "precent_above_40": 2,
+    "suburb": "BROADFORD",
+    "schoolname": "Broadford Secondary College",
+    "address": "2-12 Pinniger St, Broadford VIC 3658",
+    "longitude": 145.0407,
+    "latitude": -37.2041
+  },
+  {
+    "schoolid": 380,
+    "precent_above_40": 2,
+    "suburb": "GROVEDALE",
+    "schoolname": "Grovedale College",
+    "address": "19 Wingarra Dr, Grovedale VIC 3216",
+    "longitude": 144.3269,
+    "latitude": -38.2098
+  },
+  {
+    "schoolid": 85,
+    "precent_above_40": 2,
+    "suburb": "SUNBURY",
+    "schoolname": "Sunbury Downs Secondary College",
+    "address": "148-174 Mitchells Ln, Sunbury VIC 3429",
+    "longitude": 144.7058,
+    "latitude": -37.5842
+  },
+  {
+    "schoolid": 84,
+    "precent_above_40": 2,
+    "suburb": "SUNSHINE",
+    "schoolname": "Sunshine College",
+    "address": "Northumberlan Road, Sunshine, VIC 3020",
+    "longitude": 144.8416,
+    "latitude": -37.772
+  },
+  {
+    "schoolid": 386,
+    "precent_above_40": 2,
+    "suburb": "HAMILTON",
+    "schoolname": "Good Shepherd College",
+    "address": "20 Ponsonby Rd, Ponsonby, Auckland 1011",
+    "longitude": 174.7515,
+    "latitude": -36.8595
+  },
+  {
+    "schoolid": 497,
+    "precent_above_40": 2,
+    "suburb": "CAROLINE SPRINGS",
+    "schoolname": "Caroline Springs College",
+    "address": "CAROLINE SPRINGS , VIC, 3023",
+    "longitude": 144.74,
+    "latitude": -37.745
+  },
+  {
+    "schoolid": 390,
+    "precent_above_40": 2,
+    "suburb": "GLENROY",
+    "schoolname": "Glenroy College",
+    "address": "120 Glenroy Rd, Glenroy VIC 3046",
+    "longitude": 144.9249,
+    "latitude": -37.7057
+  },
+  {
+    "schoolid": 495,
+    "precent_above_40": 2,
+    "suburb": "NOBLE PARK NORTH",
+    "schoolname": "Carwatha College P-12",
+    "address": "43-81 Browns Road, Noble Park North VIC 3174",
+    "longitude": 145.1888,
+    "latitude": -37.9422
+  },
+  {
+    "schoolid": 192,
+    "precent_above_40": 2,
+    "suburb": "ORBOST",
+    "schoolname": "Orbost Secondary College",
+    "address": "2 Arnold St, Orbost VIC 3888",
+    "longitude": 148.466,
+    "latitude": -37.7055
+  },
+  {
+    "schoolid": 402,
+    "precent_above_40": 2,
+    "suburb": "EAST GEELONG",
+    "schoolname": "Geelong High School",
+    "address": "385 Ryrie St, East Geelong VIC 3219",
+    "longitude": 144.3736,
+    "latitude": -38.153
+  },
+  {
+    "schoolid": 320,
+    "precent_above_40": 2,
+    "suburb": "KYNETON",
+    "schoolname": "Kyneton Secondary College",
+    "address": "Epping St, Kyneton VIC 3444",
+    "longitude": 144.4621,
+    "latitude": -37.252
+  },
+  {
+    "schoolid": 323,
+    "precent_above_40": 2,
+    "suburb": "CHURCHILL",
+    "schoolname": "Kurnai College",
+    "address": "Northways Road & McDonald Way, Churchill VIC 3842",
+    "longitude": 146.4251,
+    "latitude": -38.3115
+  },
+  {
+    "schoolid": 94,
+    "precent_above_40": 2,
+    "suburb": "CRANBOURNE",
+    "schoolname": "St Peters College",
+    "address": "57 Hackney Rd, Hackney SA 5069",
+    "longitude": 138.6141,
+    "latitude": -34.9149
+  },
+  {
+    "schoolid": 233,
+    "precent_above_40": 2,
+    "suburb": "MOUNT CLEAR",
+    "schoolname": "Mount Clear College",
+    "address": "59 Olympic Ave, Mount Clear VIC 3350",
+    "longitude": 145.1057,
+    "latitude": -38.2047
+  },
+  {
+    "schoolid": 188,
+    "precent_above_40": 2,
+    "suburb": "OUYEN",
+    "schoolname": "Ouyen P-12 College",
+    "address": "1-35 Fuller St, Ouyen VIC 3490",
+    "longitude": 142.3208,
+    "latitude": -35.0641
+  },
+  {
+    "schoolid": 315,
+    "precent_above_40": 2,
+    "suburb": "RESERVOIR",
+    "schoolname": "Lakeside Secondary College",
+    "address": "21-29 Radford Rd, Reservoir VIC 3073",
+    "longitude": 144.9823,
+    "latitude": -37.7109
+  },
+  {
+    "schoolid": 544,
+    "precent_above_40": 2,
+    "suburb": "NEWPORT",
+    "schoolname": "Bayside P-12 College",
+    "address": "P-9, 1 Mcarthurs Road, Altona VIC 3025",
+    "longitude": 144.8469,
+    "latitude": -37.8375
+  },
+  {
+    "schoolid": 34,
+    "precent_above_40": 2,
+    "suburb": "WARRACKNABEAL",
+    "schoolname": "Warracknabeal Secondary College",
+    "address": "Tregear St, Warracknabeal VIC 3393",
+    "longitude": 142.3903,
+    "latitude": -36.2621
+  },
+  {
+    "schoolid": 543,
+    "precent_above_40": 2,
+    "suburb": "BAYSWATER",
+    "schoolname": "Bayswater Secondary College",
+    "address": "Orchard Rd, Bayswater VIC 3153",
+    "longitude": 145.2607,
+    "latitude": -37.8392
+  },
+  {
+    "schoolid": 336,
+    "precent_above_40": 2,
+    "suburb": "SPRINGVALE SOUTH",
+    "schoolname": "Keysborough College - Coomoora",
+    "address": "8-20 Janine Rd, Springvale South VIC 3172",
+    "longitude": 145.1595,
+    "latitude": -37.9668
+  },
+  {
+    "schoolid": 44,
+    "precent_above_40": 1.95,
+    "suburb": "ST ALBANS",
+    "schoolname": "Victoria University Secondary College",
+    "address": "88 Billingham Rd, Deer Park VIC 3023",
+    "longitude": 144.7666,
+    "latitude": -37.7593
+  },
+  {
+    "schoolid": 358,
+    "precent_above_40": 1.95,
+    "suburb": "MICKLEHAM",
+    "schoolname": "Hume Anglican Grammar",
+    "address": "100 Mt Ridley Rd, Mickleham VIC 3064",
+    "longitude": 144.932,
+    "latitude": -37.5684
+  },
+  {
+    "schoolid": 125,
+    "precent_above_40": 1.9,
+    "suburb": "OAKLEIGH SOUTH",
+    "schoolname": "South Oakleigh Secondary College",
+    "address": "Bakers Rd, Oakleigh South VIC 3167",
+    "longitude": 145.0896,
+    "latitude": -37.9222
+  },
+  {
+    "schoolid": 523,
+    "precent_above_40": 1.9,
+    "suburb": "BORONIA",
+    "schoolname": "Boronia K-12 College",
+    "address": "35-37 Albert Ave, Boronia VIC 3155",
+    "longitude": 145.294,
+    "latitude": -37.8594
+  },
+  {
+    "schoolid": 50,
+    "precent_above_40": 1.9,
+    "suburb": "YARRA JUNCTION",
+    "schoolname": "Upper Yarra Secondary College",
+    "address": "81-89 Little Yarra Rd, Yarra Junction VIC 3797",
+    "longitude": 145.6246,
+    "latitude": -37.7925
+  },
+  {
+    "schoolid": 472,
+    "precent_above_40": 1.9,
+    "suburb": "COBRAM",
+    "schoolname": "Cobram Anglican Grammar School",
+    "address": "40-48 Campbell Rd, Cobram VIC 3644",
+    "longitude": 145.6601,
+    "latitude": -35.9243
+  },
+  {
+    "schoolid": 170,
+    "precent_above_40": 1.9,
+    "suburb": "PORTLAND",
+    "schoolname": "Portland Secondary College",
+    "address": "Must St, Portland VIC 3305",
+    "longitude": 141.6031,
+    "latitude": -38.3596
+  },
+  {
+    "schoolid": 401,
+    "precent_above_40": 1.9,
+    "suburb": "ARMSTRONG CREEK",
+    "schoolname": "Geelong Lutheran College",
+    "address": "2-38 Burvilles Rd, Mount Duneed VIC 3216",
+    "longitude": 144.3382,
+    "latitude": -38.2305
+  },
+  {
+    "schoolid": 160,
+    "precent_above_40": 1.9,
+    "suburb": "CARLTON",
+    "schoolname": "RMIT TAFE",
+    "address": "124 La Trobe St, Melbourne VIC 3000",
+    "longitude": 144.9648,
+    "latitude": -37.8074
+  },
+  {
+    "schoolid": 477,
+    "precent_above_40": 1.85,
+    "suburb": "COBRAM",
+    "schoolname": "Christ the King Anglican College",
+    "address": "40-48 Campbell Rd, Cobram VIC 3644",
+    "longitude": 145.6601,
+    "latitude": -35.9243
+  },
+  {
+    "schoolid": 13,
+    "precent_above_40": 1.8,
+    "suburb": "WODONGA",
+    "schoolname": "Wodonga Senior Secondary College",
+    "address": "80 Brockley St, Wodonga VIC 3690",
+    "longitude": 146.8807,
+    "latitude": -36.1274
+  },
+  {
+    "schoolid": 173,
+    "precent_above_40": 1.8,
+    "suburb": "SEBASTOPOL",
+    "schoolname": "Phoenix P-12 Community College",
+    "address": "Hertford Street, Sebastopol VIC 3356",
+    "longitude": 143.8334,
+    "latitude": -37.5862
+  },
+  {
+    "schoolid": 55,
+    "precent_above_40": 1.8,
+    "suburb": "TRARALGON",
+    "schoolname": "Traralgon College",
+    "address": "154-184 Grey St, Traralgon VIC 3844",
+    "longitude": 146.5195,
+    "latitude": -38.1914
+  },
+  {
+    "schoolid": 231,
+    "precent_above_40": 1.8,
+    "suburb": "FRANKSTON",
+    "schoolname": "Mount Erin College",
+    "address": "Robinsons Rd, Frankston South VIC 3199",
+    "longitude": 145.1514,
+    "latitude": -38.1755
+  },
+  {
+    "schoolid": 45,
+    "precent_above_40": 1.7,
+    "suburb": "DEER PARK",
+    "schoolname": "Victoria University SC",
+    "address": "88 Billingham Rd, Deer Park VIC 3023",
+    "longitude": 144.7666,
+    "latitude": -37.7593
+  },
+  {
+    "schoolid": 502,
+    "precent_above_40": 1.6,
+    "suburb": "CAMPERDOWN",
+    "schoolname": "Camperdown College",
+    "address": "1 Wilson St, Camperdown VIC 3260",
+    "longitude": 143.1455,
+    "latitude": -38.2394
+  },
+  {
+    "schoolid": 134,
+    "precent_above_40": 1.6,
+    "suburb": "SHEPPARTON",
+    "schoolname": "Shepparton High School",
+    "address": "31-71 Hawdon St, Shepparton VIC 3630",
+    "longitude": 145.4151,
+    "latitude": -36.3729
+  },
+  {
+    "schoolid": 239,
+    "precent_above_40": 1.6,
+    "suburb": "MOOROOPNA",
+    "schoolname": "Mooroopna Secondary College",
+    "address": "141-179 Echuca Rd, Mooroopna VIC 3629",
+    "longitude": 145.3513,
+    "latitude": -36.3807
+  },
+  {
+    "schoolid": 519,
+    "precent_above_40": 1.5,
+    "suburb": "MONT ALBERT NORTH",
+    "schoolname": "Box Hill Senior Secondary College",
+    "address": "19 Dunloe Ave, Mont Albert North VIC 3129",
+    "longitude": 145.1142,
+    "latitude": -37.8094
+  },
+  {
+    "schoolid": 212,
+    "precent_above_40": 1.5,
+    "suburb": "NEERIM SOUTH",
+    "schoolname": "Neerim District Secondary College",
+    "address": "Neerim E Rd, Neerim South VIC 3831",
+    "longitude": 145.9751,
+    "latitude": -38.0097
+  },
+  {
+    "schoolid": 197,
+    "precent_above_40": 1.5,
+    "suburb": "NUMURKAH",
+    "schoolname": "Numurkah Secondary College",
+    "address": "104 Tocumwal Rd, Numurkah VIC 3636",
+    "longitude": 145.4459,
+    "latitude": -36.0799
+  },
+  {
+    "schoolid": 343,
+    "precent_above_40": 1.5,
+    "suburb": "FRANKSTON",
+    "schoolname": "KARINGAL PARK SECONDARY COLLEGE",
+    "address": "31 Belar Ave, Frankston VIC 3199, Australia",
+    "longitude": 145.1579,
+    "latitude": -38.1455
+  },
+  {
+    "schoolid": 421,
+    "precent_above_40": 1.5,
+    "suburb": "EPPING",
+    "schoolname": "Epping Secondary College",
+    "address": "McDonalds Rd, Epping VIC 3076",
+    "longitude": 145.0484,
+    "latitude": -37.6468
+  },
+  {
+    "schoolid": 456,
+    "precent_above_40": 1.5,
+    "suburb": "CRANBOURNE",
+    "schoolname": "Cranbourne Secondary College",
+    "address": "Stawell St, Cranbourne VIC 3977",
+    "longitude": 145.2869,
+    "latitude": -38.1084
+  },
+  {
+    "schoolid": 376,
+    "precent_above_40": 1.5,
+    "suburb": "HAMPTON PARK",
+    "schoolname": "Hampton Park Secondary College",
+    "address": "58-96 Fordholm Rd, Hampton Park VIC 3976",
+    "longitude": 142.3048,
+    "latitude": -38.0541
+  },
+  {
+    "schoolid": 264,
+    "precent_above_40": 1.5,
+    "suburb": "CROYDON",
+    "schoolname": "Melba College",
+    "address": "20 Brentnall Rd, Croydon VIC 3136",
+    "longitude": 145.2626,
+    "latitude": -37.7953
+  },
+  {
+    "schoolid": 274,
+    "precent_above_40": 1.4,
+    "suburb": "CROYDON",
+    "schoolname": "Maroondah Secondary College",
+    "address": "20 Brentnall Rd, Croydon VIC 3136",
+    "longitude": 145.2626,
+    "latitude": -37.7953
+  },
+  {
+    "schoolid": 258,
+    "precent_above_40": 1.4,
+    "suburb": "MELBOURNE",
+    "schoolname": "Melbourne Senior Secondary College",
+    "address": "168/152 Elizabeth St, Melbourne VIC 3000",
+    "longitude": 144.9636,
+    "latitude": -37.8145
+  },
+  {
+    "schoolid": 540,
+    "precent_above_40": 1.3,
+    "suburb": "BEAUFORT",
+    "schoolname": "Beaufort Secondary College",
+    "address": "Park Rd, Beaufort VIC 3373",
+    "longitude": 143.3813,
+    "latitude": -37.4378
+  },
+  {
+    "schoolid": 15,
+    "precent_above_40": 1.3,
+    "suburb": "RESERVOIR",
+    "schoolname": "William Ruthven Secondary College",
+    "address": "60 Merrilands Rd, Reservoir VIC 3073",
+    "longitude": 145.0032,
+    "latitude": -37.6968
+  },
+  {
+    "schoolid": 9,
+    "precent_above_40": 1.3,
+    "suburb": "WERRIBEE",
+    "schoolname": "Wyndham Central Secondary College",
+    "address": "101 Shaws Rd, Werribee VIC 3030",
+    "longitude": 144.6539,
+    "latitude": -37.889
+  },
+  {
+    "schoolid": 453,
+    "precent_above_40": 1.25,
+    "suburb": "DANDENONG",
+    "schoolname": "Dandenong High School",
+    "address": "92-106 Princes Hwy, Dandenong VIC 3175",
+    "longitude": 145.2086,
+    "latitude": -37.9792
+  },
+  {
+    "schoolid": 20,
+    "precent_above_40": 1.2,
+    "suburb": "HAMLYN HEIGHTS",
+    "schoolname": "Western Heights Secondary College",
+    "address": "37-61 Vines Rd, Hamlyn Heights VIC 3215",
+    "longitude": 144.3282,
+    "latitude": -38.1228
+  },
+  {
+    "schoolid": 139,
+    "precent_above_40": 1.2,
+    "suburb": "SCORESBY",
+    "schoolname": "Scoresby Secondary College",
+    "address": "2 Cavell St, Scoresby VIC 3179",
+    "longitude": 145.236,
+    "latitude": -37.8897
+  },
+  {
+    "schoolid": 16,
+    "precent_above_40": 1.2,
+    "suburb": "WHITTLESEA",
+    "schoolname": "Whittlesea Secondary College",
+    "address": "Laurel St, Whittlesea VIC 3757",
+    "longitude": 145.1222,
+    "latitude": -37.5149
+  },
+  {
+    "schoolid": 466,
+    "precent_above_40": 1.2,
+    "suburb": "COLAC",
+    "schoolname": "Colac Secondary College",
+    "address": "173 Queen St, Colac VIC 3250",
+    "longitude": 143.5907,
+    "latitude": -38.3516
+  },
+  {
+    "schoolid": 128,
+    "precent_above_40": 1.1,
+    "suburb": "SOMERVILLE",
+    "schoolname": "Somerville Secondary College",
+    "address": "37 Graf Rd, Somerville VIC 3912",
+    "longitude": 145.1687,
+    "latitude": -38.2269
+  },
+  {
+    "schoolid": 565,
+    "precent_above_40": 1.1,
+    "suburb": "ARARAT",
+    "schoolname": "Ararat Secondary College",
+    "address": "4-30 Barkly St, Ararat VIC 3377",
+    "longitude": 142.922,
+    "latitude": -37.2856
+  },
+  {
+    "schoolid": 256,
+    "precent_above_40": 1.1,
+    "suburb": "MELTON",
+    "schoolname": "Melton Secondary College",
+    "address": "Coburns Rd, Melton VIC 3337",
+    "longitude": 144.5684,
+    "latitude": -37.6818
+  },
+  {
+    "schoolid": 317,
+    "precent_above_40": 1.1,
+    "suburb": "LAKES ENTRANCE",
+    "schoolname": "Lakes Entrance Secondary College",
+    "address": "1-11 North St, Lakes Entrance VIC 3909",
+    "longitude": 147.9981,
+    "latitude": -37.8714
+  },
+  {
+    "schoolid": 561,
+    "precent_above_40": 1.1,
+    "suburb": "COBURG",
+    "schoolname": "Australian International Academy",
+    "address": "56 Bakers Rd., North Coburg VIC 3058",
+    "longitude": 144.9585,
+    "latitude": -37.7263
+  },
+  {
+    "schoolid": 266,
+    "precent_above_40": 1.1,
+    "suburb": "SHEPPARTON",
+    "schoolname": "McGuire College",
+    "address": "92-100 Wilmot Road, Shepparton VIC 3630",
+    "longitude": 145.4081,
+    "latitude": -36.3987
+  },
+  {
+    "schoolid": 362,
+    "precent_above_40": 1.05,
+    "suburb": "HOLMESGLEN",
+    "schoolname": "Holmesglen Institute of TAFE",
+    "address": "332 St Kilda Rd, Southbank VIC 3006",
+    "longitude": 144.9705,
+    "latitude": -37.8299
+  },
+  {
+    "schoolid": 38,
+    "precent_above_40": 1.05,
+    "suburb": "WALLAN",
+    "schoolname": "Wallan Secondary College",
+    "address": "100 Duke St, Wallan VIC 3756",
+    "longitude": 144.9807,
+    "latitude": -37.4167
+  },
+  {
+    "schoolid": 357,
+    "precent_above_40": 1,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Hume Central Secondary College",
+    "address": "64/78 Tanderrum Way, Broadmeadows VIC 3047",
+    "longitude": 144.9153,
+    "latitude": -37.6804
+  },
+  {
+    "schoolid": 207,
+    "precent_above_40": 1,
+    "suburb": "NOBLE PARK",
+    "schoolname": "Noble Park Secondary College",
+    "address": "3 Callaghan St, Noble Park VIC 3174",
+    "longitude": 145.1824,
+    "latitude": -37.9699
+  },
+  {
+    "schoolid": 360,
+    "precent_above_40": 1,
+    "suburb": "HOPPERS CROSSING",
+    "schoolname": "Hoppers Crossing Secondary College",
+    "address": "2 Fraser St, Hoppers Crossing VIC 3029",
+    "longitude": 144.6953,
+    "latitude": -37.8713
+  },
+  {
+    "schoolid": 210,
+    "precent_above_40": 1,
+    "suburb": "NEWCOMB",
+    "schoolname": "Newcomb Secondary College",
+    "address": "81/85 Bellarine Hwy, Newcomb VIC 3219",
+    "longitude": 144.3952,
+    "latitude": -38.1714
+  },
+  {
+    "schoolid": 522,
+    "precent_above_40": 1,
+    "suburb": "GLENROY",
+    "schoolname": "Box Forest Secondary College",
+    "address": "120 Glenroy Rd, Glenroy VIC 3046",
+    "longitude": 144.9249,
+    "latitude": -37.7057
+  },
+  {
+    "schoolid": 313,
+    "precent_above_40": 1,
+    "suburb": "EPPING",
+    "schoolname": "Lalor North Secondary College",
+    "address": "114 Childs Rd, Epping VIC 3076",
+    "longitude": 145.0345,
+    "latitude": -37.6612
+  },
+  {
+    "schoolid": 350,
+    "precent_above_40": 1,
+    "suburb": "FAWKNER",
+    "schoolname": "John Fawkner College",
+    "address": "Jukes Rd, Fawkner VIC 3060",
+    "longitude": 144.969,
+    "latitude": -37.7021
+  },
+  {
+    "schoolid": 61,
+    "precent_above_40": 1,
+    "suburb": "THOMASTOWN",
+    "schoolname": "Thomastown Secondary College",
+    "address": "80-96 Main St, Thomastown VIC 3074",
+    "longitude": 145.002,
+    "latitude": -37.6789
+  },
+  {
+    "schoolid": 21,
+    "precent_above_40": 1,
+    "suburb": "GEELONG NORTH",
+    "schoolname": "Western Heights College",
+    "address": "37-61 Vines Rd, Hamlyn Heights VIC 3215",
+    "longitude": 144.3282,
+    "latitude": -38.1228
+  },
+  {
+    "schoolid": 217,
+    "precent_above_40": 1,
+    "suburb": "MYRTLEFORD",
+    "schoolname": "Myrtleford P-12 College",
+    "address": "Prince St, Myrtleford VIC 3737",
+    "longitude": 146.7223,
+    "latitude": -36.5556
+  },
+  {
+    "schoolid": 342,
+    "precent_above_40": 1,
+    "suburb": "KEALBA",
+    "schoolname": "Kealba Secondary College",
+    "address": "88 Billingham Rd, Deer Park VIC 3023",
+    "longitude": 144.7666,
+    "latitude": -37.7593
+  },
+  {
+    "schoolid": 68,
+    "precent_above_40": 1,
+    "suburb": "HOPPERS CROSSING",
+    "schoolname": "The Grange P-12 College",
+    "address": "Callistemon Dr, Hoppers Crossing VIC 3029",
+    "longitude": 144.6785,
+    "latitude": -37.8591
+  },
+  {
+    "schoolid": 373,
+    "precent_above_40": 1,
+    "suburb": "HEALESVILLE",
+    "schoolname": "Healesville High School",
+    "address": "10 Camerons Rd, Healesville VIC 3777",
+    "longitude": 145.5304,
+    "latitude": -37.644
+  },
+  {
+    "schoolid": 4,
+    "precent_above_40": 1,
+    "suburb": "YARRAWONGA",
+    "schoolname": "Yarrawonga College P-12",
+    "address": "Pinniger St, Yarrawonga VIC 3730",
+    "longitude": 146.0054,
+    "latitude": -36.022
+  },
+  {
+    "schoolid": 549,
+    "precent_above_40": 1,
+    "suburb": "BALLARAT",
+    "schoolname": "Ballarat Secondary College",
+    "address": "1 Fussell St, Ballarat East VIC 3350",
+    "longitude": 143.8921,
+    "latitude": -37.5595
+  },
+  {
+    "schoolid": 558,
+    "precent_above_40": 1,
+    "suburb": "BACCHUS MARSH",
+    "schoolname": "Bacchus Marsh College",
+    "address": "Grant St, Bacchus Marsh VIC 3340",
+    "longitude": 144.4344,
+    "latitude": -37.6808
+  },
+  {
+    "schoolid": 311,
+    "precent_above_40": 1,
+    "suburb": "LARA",
+    "schoolname": "Lara Secondary College",
+    "address": "34 Alkara Ave, Lara VIC 3212",
+    "longitude": 144.4124,
+    "latitude": -38.0185
+  },
+  {
+    "schoolid": 290,
+    "precent_above_40": 1,
+    "suburb": "CRANBOURNE",
+    "schoolname": "Lyndhurst Secondary College",
+    "address": "950 S Gippsland Hwy, Cranbourne VIC 3977",
+    "longitude": 145.2714,
+    "latitude": -38.0744
+  },
+  {
+    "schoolid": 272,
+    "precent_above_40": 1,
+    "suburb": "MARYBOROUGH",
+    "schoolname": "Maryborough Education Centre",
+    "address": "102-192 Balaclava Rd, Maryborough VIC 3465",
+    "longitude": 143.7231,
+    "latitude": -37.0427
+  },
+  {
+    "schoolid": 511,
+    "precent_above_40": 1,
+    "suburb": "ST ALBANS",
+    "schoolname": "Brimbank College",
+    "address": "5A Jamieson St, St Albans VIC 3021",
+    "longitude": 144.786,
+    "latitude": -37.7418
+  },
+  {
+    "schoolid": 447,
+    "precent_above_40": 1,
+    "suburb": "DEER PARK",
+    "schoolname": "Deer Park Secondary College",
+    "address": "88 Billingham Rd, Deer Park VIC 3023",
+    "longitude": 144.7666,
+    "latitude": -37.7593
+  },
+  {
+    "schoolid": 458,
+    "precent_above_40": 1,
+    "suburb": "CRAIGIEBURN",
+    "schoolname": "Craigieburn Secondary College",
+    "address": "102 Hothlyn Dr, Craigieburn VIC 3064",
+    "longitude": 144.9361,
+    "latitude": -37.6084
+  },
+  {
+    "schoolid": 452,
+    "precent_above_40": 1,
+    "suburb": "DANDENONG",
+    "schoolname": "DANDENONG HIGH SCHOOL - CLEELAND",
+    "address": "92-106 Princes Hwy, Dandenong VIC 3175",
+    "longitude": 145.2086,
+    "latitude": -37.9792
+  },
+  {
+    "schoolid": 159,
+    "precent_above_40": 1,
+    "suburb": "ROBINVALE",
+    "schoolname": "Robinvale P-12 College",
+    "address": "186 Latje Rd, Robinvale VIC 3549",
+    "longitude": 142.7822,
+    "latitude": -34.589
+  },
+  {
+    "schoolid": 377,
+    "precent_above_40": 1,
+    "suburb": "HALLAM",
+    "schoolname": "Hallam Senior Secondary College",
+    "address": "74/84 Frawley Rd, Hallam VIC 3803",
+    "longitude": 145.2619,
+    "latitude": -38.0003
+  },
+  {
+    "schoolid": 154,
+    "precent_above_40": 1,
+    "suburb": "ROXBURGH PARK",
+    "schoolname": "Roxburgh College",
+    "address": "60-70 Donald Cameron Dr, Roxburgh Park VIC 3064",
+    "longitude": 144.9298,
+    "latitude": -37.6305
+  },
+  {
+    "schoolid": 506,
+    "precent_above_40": 1,
+    "suburb": "BUNDOORA",
+    "schoolname": "Bundoora Secondary College",
+    "address": "53 Balmoral Ave, Bundoora VIC 3083",
+    "longitude": 145.0623,
+    "latitude": -37.7071
+  },
+  {
+    "schoolid": 137,
+    "precent_above_40": 1,
+    "suburb": "SEYMOUR",
+    "schoolname": "Seymour College",
+    "address": "546 Portrush Rd, Glen Osmond SA 5064",
+    "longitude": 138.6479,
+    "latitude": -34.9565
+  },
+  {
+    "schoolid": 152,
+    "precent_above_40": 1,
+    "suburb": "RUTHERGLEN",
+    "schoolname": "Rutherglen High School",
+    "address": "Sheridans Bridge Road, Rutherglen VIC 3685",
+    "longitude": 146.4431,
+    "latitude": -36.0795
+  },
+  {
+    "schoolid": 496,
+    "precent_above_40": 1,
+    "suburb": "CARRUM DOWNS",
+    "schoolname": "Carrum Downs Secondary College",
+    "address": "263 McCormicks Rd, Carrum Downs VIC 3201",
+    "longitude": 145.1982,
+    "latitude": -38.0962
+  },
+  {
+    "schoolid": 462,
+    "precent_above_40": 1,
+    "suburb": "CORIO",
+    "schoolname": "Corio Bay Senior College",
+    "address": "38 Hendy St, Corio VIC 3214",
+    "longitude": 144.3666,
+    "latitude": -38.0715
+  },
+  {
+    "schoolid": 448,
+    "precent_above_40": 1,
+    "suburb": "FLEMINGTON",
+    "schoolname": "Debney Park Secondary College",
+    "address": "167-175 Mt Alexander Rd, Flemington VIC 3031",
+    "longitude": 144.9339,
+    "latitude": -37.7827
+  },
+  {
+    "schoolid": 91,
+    "precent_above_40": 0.9,
+    "suburb": "MELTON SOUTH",
+    "schoolname": "Staughton College",
+    "address": "26-46 Wilson Rd, Melton VIC 3337",
+    "longitude": 144.5687,
+    "latitude": -37.7085
+  },
+  {
+    "schoolid": 83,
+    "precent_above_40": 0.8,
+    "suburb": "TORQUAY",
+    "schoolname": "Surf Coast Secondary College",
+    "address": "75 White St, Torquay VIC 3228",
+    "longitude": 144.3279,
+    "latitude": -38.3052
+  },
+  {
+    "schoolid": 19,
+    "precent_above_40": 0.8,
+    "suburb": "HASTINGS",
+    "schoolname": "Western Port Secondary College",
+    "address": "215 High St, Hastings VIC 3915",
+    "longitude": 145.1753,
+    "latitude": -38.3094
+  },
+  {
+    "schoolid": 389,
+    "precent_above_40": 0.8,
+    "suburb": "GLENROY",
+    "schoolname": "Glenroy Secondary College",
+    "address": "120 Glenroy Rd, Glenroy VIC 3046",
+    "longitude": 144.9249,
+    "latitude": -37.7057
+  },
+  {
+    "schoolid": 7,
+    "precent_above_40": 0.8,
+    "suburb": "MOOROOLBARK",
+    "schoolname": "Yarra Hills Secondary College",
+    "address": "16 Reay Road, Mooroolbark VIC 3138",
+    "longitude": 145.3155,
+    "latitude": -37.7882
+  },
+  {
+    "schoolid": 153,
+    "precent_above_40": 0.7,
+    "suburb": "RUSHWORTH",
+    "schoolname": "Rushworth P-12 College",
+    "address": "Heily St, Rushworth VIC 3612",
+    "longitude": 145.0156,
+    "latitude": -36.5846
+  },
+  {
+    "schoolid": 47,
+    "precent_above_40": 0.7,
+    "suburb": "FOOTSCRAY",
+    "schoolname": "Victoria Uni of Tech - TAFE",
+    "address": "Ballarat Road, Footscray VIC 3011",
+    "longitude": 144.8972,
+    "latitude": -37.7935
+  },
+  {
+    "schoolid": 75,
+    "precent_above_40": 0.6,
+    "suburb": "TARNEIT",
+    "schoolname": "Tarneit Senior College",
+    "address": "861 Leakes Rd, Tarneit VIC 3029",
+    "longitude": 144.6804,
+    "latitude": -37.8333
+  },
+  {
+    "schoolid": 405,
+    "precent_above_40": 0.5,
+    "suburb": "WERRIBEE",
+    "schoolname": "Galvin Park Secondary College",
+    "address": "101 Shaws Rd, Werribee VIC 3030",
+    "longitude": 144.6539,
+    "latitude": -37.889
+  },
+  {
+    "schoolid": 346,
+    "precent_above_40": 0.5,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Kangan Institute of TAFE",
+    "address": "1 Batmans Hill Dr, Docklands VIC 3008",
+    "longitude": 144.9484,
+    "latitude": -37.8222
+  },
+  {
+    "schoolid": 481,
+    "precent_above_40": 0.5,
+    "suburb": "MACLEOD WEST",
+    "schoolname": "Charles La Trobe P-12 College",
+    "address": "235 Kingsbury Dr, Macleod VIC 3085",
+    "longitude": 145.0576,
+    "latitude": -37.7291
+  },
+  {
+    "schoolid": 322,
+    "precent_above_40": 0.4,
+    "suburb": "MELTON",
+    "schoolname": "Kurunjang Secondary College",
+    "address": "10 Kurunjang Dr, Kurunjang VIC 3337",
+    "longitude": 144.5847,
+    "latitude": -37.6722
+  },
+  {
+    "schoolid": 282,
+    "precent_above_40": 0.4,
+    "suburb": "WYNDHAM VALE",
+    "schoolname": "Manor Lakes P-12 College",
+    "address": "2 - 50 Minindee Road, Wyndham Vale VIC 3024",
+    "longitude": 144.6025,
+    "latitude": -37.8768
+  },
+  {
+    "schoolid": 183,
+    "precent_above_40": 0.4,
+    "suburb": "PAKENHAM",
+    "schoolname": "Pakenham Secondary College",
+    "address": "1020 Princes Hwy, Pakenham VIC 3810",
+    "longitude": 145.4712,
+    "latitude": -38.0689
+  },
+  {
+    "schoolid": 206,
+    "precent_above_40": 0.4,
+    "suburb": "GEELONG NORTH",
+    "schoolname": "North Geelong Secondary College",
+    "address": "130 Separation St, North Geelong VIC 3215",
+    "longitude": 144.3415,
+    "latitude": -38.1104
+  },
+  {
+    "schoolid": 368,
+    "precent_above_40": 0.35,
+    "suburb": "OFFICER",
+    "schoolname": "Heritage College",
+    "address": "2-10 Heritage Ct, Oakden SA 5086",
+    "longitude": 138.6417,
+    "latitude": -34.8534
+  },
+  {
+    "schoolid": 478,
+    "precent_above_40": 0.3,
+    "suburb": "DANDENONG",
+    "schoolname": "Chisholm Institute",
+    "address": "121 Stud Rd, Dandenong VIC 3175",
+    "longitude": 145.2196,
+    "latitude": -37.9752
+  },
+  {
+    "schoolid": 307,
+    "precent_above_40": 0,
+    "suburb": "LAVERTON",
+    "schoolname": "Laverton P-12 College",
+    "address": "91 Bladin St, Laverton VIC 3028",
+    "longitude": 144.7727,
+    "latitude": -37.8571
+  },
+  {
+    "schoolid": 434,
+    "precent_above_40": 0,
+    "suburb": "BAIRNSDALE",
+    "schoolname": "East Gippsland Institute of TAFE",
+    "address": "Bairnsdale, VIC, 3875",
+    "longitude": 147.6167,
+    "latitude": -37.8333
+  },
+  {
+    "schoolid": 25,
+    "precent_above_40": 0,
+    "suburb": "WERRIMULL",
+    "schoolname": "Werrimull P-12 School",
+    "address": "King St, Werrimull VIC 3496",
+    "longitude": 141.5968,
+    "latitude": -34.3887
+  },
+  {
+    "schoolid": 288,
+    "precent_above_40": 0,
+    "suburb": "MACEDON",
+    "schoolname": "MACEDON GRAMMAR SCHOOL",
+    "address": "110 Bailey Rd, Macedon VIC 3440",
+    "longitude": 144.5332,
+    "latitude": -37.4457
+  },
+  {
+    "schoolid": 242,
+    "precent_above_40": 0,
+    "suburb": "FRANKSTON NORTH",
+    "schoolname": "Monterey Secondary College",
+    "address": "Silvertop St, Frankston North VIC 3200",
+    "longitude": 145.1483,
+    "latitude": -38.1256
+  },
+  {
+    "schoolid": 302,
+    "precent_above_40": 0,
+    "suburb": "LILYDALE",
+    "schoolname": "Lilydale Heights College",
+    "address": "17 Nelson Rd, Lilydale VIC 3140",
+    "longitude": 145.3411,
+    "latitude": -37.746
+  },
+  {
+    "schoolid": 300,
+    "precent_above_40": 0,
+    "suburb": "YARRA JUNCTION",
+    "schoolname": "Little Yarra Steiner School",
+    "address": "205 Little Yarra Rd, Yarra Junction VIC 3797",
+    "longitude": 145.6313,
+    "latitude": -37.7939
+  },
+  {
+    "schoolid": 446,
+    "precent_above_40": 0,
+    "suburb": "DERRINALLUM",
+    "schoolname": "Derrinallum P12 College",
+    "address": "Campbell St, Derrinallum VIC 3326",
+    "longitude": 143.2152,
+    "latitude": -37.94
+  },
+  {
+    "schoolid": 26,
+    "precent_above_40": 0,
+    "suburb": "WERRIMULL",
+    "schoolname": "WERRIMULL P-12 COLLEGE",
+    "address": "King St, Werrimull VIC 3496",
+    "longitude": 141.5968,
+    "latitude": -34.3887
+  },
+  {
+    "schoolid": 432,
+    "precent_above_40": 0,
+    "suburb": "PRESTON EAST",
+    "schoolname": "East Preston Islamic College",
+    "address": "55 Tyler St, Preston VIC 3072",
+    "longitude": 145.0359,
+    "latitude": -37.7336
+  },
+  {
+    "schoolid": 292,
+    "precent_above_40": 0,
+    "suburb": "RICHMOND",
+    "schoolname": "Lynall Hall Community School",
+    "address": "17 Gleadell St, Richmond VIC 3121",
+    "longitude": 145.0022,
+    "latitude": -37.8166
+  },
+  {
+    "schoolid": 308,
+    "precent_above_40": 0,
+    "suburb": "LAVERS HILL",
+    "schoolname": "Lavers Hill P-12 College",
+    "address": "10 College Dr, Lavers Hill VIC 3238",
+    "longitude": 143.3835,
+    "latitude": -38.6819
+  },
+  {
+    "schoolid": 78,
+    "precent_above_40": 0,
+    "suburb": "CROYDON",
+    "schoolname": "Swinburne University Of Tech",
+    "address": "John St, Hawthorn VIC 3122",
+    "longitude": 145.039,
+    "latitude": -37.8218
+  },
+  {
+    "schoolid": 473,
+    "precent_above_40": 0,
+    "suburb": "COBDEN",
+    "schoolname": "Cobden Technical School",
+    "address": "McKenzie St, Cobden VIC 3266",
+    "longitude": 143.069,
+    "latitude": -38.3195
+  },
+  {
+    "schoolid": 387,
+    "precent_above_40": 0,
+    "suburb": "TARNEIT",
+    "schoolname": "Good News Lutheran College",
+    "address": "580 Tarneit Rd, Tarneit VIC 3029",
+    "longitude": 144.6676,
+    "latitude": -37.8555
+  },
+  {
+    "schoolid": 203,
+    "precent_above_40": 0,
+    "suburb": "PRESTON EAST",
+    "schoolname": "Northern College of Arts and Technology",
+    "address": "62 Murray Rd, Preston VIC 3072",
+    "longitude": 145.026,
+    "latitude": -37.7402
+  },
+  {
+    "schoolid": 509,
+    "precent_above_40": 0,
+    "suburb": "BROADMEADOWS",
+    "schoolname": "Broadmeadows Secondary College",
+    "address": "Blair Street, Broadmeadows, VIC, 3047",
+    "longitude": 144.9282,
+    "latitude": -37.6808
+  },
+  {
+    "schoolid": 204,
+    "precent_above_40": 0,
+    "suburb": "CORIO",
+    "schoolname": "Northern Bay P-12 College",
+    "address": "Goldsworthy Rd; Geelong, Victoria 3214",
+    "longitude": 144.3484,
+    "latitude": -38.0772
+  },
+  {
+    "schoolid": 383,
+    "precent_above_40": 0,
+    "suburb": "SHEPPARTON",
+    "schoolname": "Goulburn Ovens Institute Of TAFE",
+    "address": "152-200 Fryers Street, Shepparton VIC 3630",
+    "longitude": 145.405,
+    "latitude": 36.3799
+  },
+  {
+    "schoolid": 363,
+    "precent_above_40": 0,
+    "suburb": "MELBOURNE",
+    "schoolname": "Holmes Secondary College",
+    "address": "185 Spring St, Melbourne VIC 3000",
+    "longitude": 144.9723,
+    "latitude": -37.8103
+  },
+  {
+    "schoolid": 501,
+    "precent_above_40": 0,
+    "suburb": "CANN RIVER",
+    "schoolname": "Cann River P-12 College",
+    "address": "20-24 Tamboon Rd, Cann River VIC 3890",
+    "longitude": 149.1532,
+    "latitude": -37.569
+  },
+  {
+    "schoolid": 124,
+    "precent_above_40": 0,
+    "suburb": "WARRNAMBOOL",
+    "schoolname": "South West Institute of TAFE",
+    "address": "39 Hammond St, Hamilton VIC 3300",
+    "longitude": 142.0061,
+    "latitude": -37.7266
+  },
+  {
+    "schoolid": 384,
+    "precent_above_40": 0,
+    "suburb": "GOROKE",
+    "schoolname": "Goroke P-12 College",
+    "address": "Natimuk-Frances Rd, Goroke VIC 3412",
+    "longitude": 141.515,
+    "latitude": -36.7182
+  },
+  {
+    "schoolid": 385,
+    "precent_above_40": 0,
+    "suburb": "GEELONG",
+    "schoolname": "Gordon Institute",
+    "address": "2 Fenwick St, Geelong VIC 3220",
+    "longitude": 144.3543,
+    "latitude": -38.1489
+  },
+  {
+    "schoolid": 534,
+    "precent_above_40": 0,
+    "suburb": "BENDIGO",
+    "schoolname": "Bendigo Regional Institute of TAFE",
+    "address": "23 Mundy St, Bendigo VIC 3550",
+    "longitude": 144.2835,
+    "latitude": -36.758
+  },
+  {
+    "schoolid": 77,
+    "precent_above_40": 0,
+    "suburb": "BRUNSWICK",
+    "schoolname": "Sydney Road Community School",
+    "address": "350 Sydney Rd, Brunswick VIC 3056",
+    "longitude": 144.962,
+    "latitude": -37.7699
+  },
+  {
+    "schoolid": 133,
+    "precent_above_40": 0,
+    "suburb": "SASSAFRAS",
+    "schoolname": "Sherbrooke Community School",
+    "address": "311 Mount Dandenong Tourist Rd, Sassafras VIC 3787",
+    "longitude": 145.3499,
+    "latitude": -37.8687
+  },
+  {
+    "schoolid": 219,
+    "precent_above_40": 0,
+    "suburb": "MURRAYVILLE",
+    "schoolname": "Murrayville Community College",
+    "address": "20 Francis St, Murrayville VIC 3512",
+    "longitude": 141.1781,
+    "latitude": -35.2658
+  },
+  {
+    "schoolid": 404,
+    "precent_above_40": 0,
+    "suburb": "LOVELY BANKS",
+    "schoolname": "Geelong Baptist College",
+    "address": "590 Anakie Rd, Lovely Banks VIC 3221",
+    "longitude": 144.328,
+    "latitude": -38.0673
+  },
+  {
+    "schoolid": 223,
+    "precent_above_40": 0,
+    "suburb": "FERNTREE GULLY",
+    "schoolname": "Mountain District Learning Centre",
+    "address": "13-15 The Ave, Ferntree Gully VIC 3156",
+    "longitude": 145.2932,
+    "latitude": -37.8833
+  },
+  {
+    "schoolid": 484,
+    "precent_above_40": 0,
+    "suburb": "NEWBOROUGH",
+    "schoolname": "Central Gippsland Institute of TAFE",
+    "address": "GPO Box 5387, Melbourne, Australia, 3001",
+    "longitude": 144.9623,
+    "latitude": -37.8142
+  },
+  {
+    "schoolid": 202,
+    "precent_above_40": 0,
+    "suburb": "PRESTON",
+    "schoolname": "Northern Melbourne Institute of TAFE",
+    "address": "77 St Georges Rd, Preston VIC 3072",
+    "longitude": 144.9977,
+    "latitude": -37.7424
+  },
+  {
+    "schoolid": 416,
+    "precent_above_40": 0,
+    "suburb": "FAWKNER",
+    "schoolname": "Fawkner Secondary College",
+    "address": "Jukes Rd, Fawkner VIC 3060",
+    "longitude": 144.969,
+    "latitude": -37.7021
+  },
+  {
+    "schoolid": 319,
+    "precent_above_40": 0,
+    "suburb": "MACLEOD",
+    "schoolname": "LA TROBE SECONDARY COLLEGE",
+    "address": "235 Kingsbury Dr, Macleod VIC 3085",
+    "longitude": 145.0576,
+    "latitude": -37.7291
+  },
+  {
+    "schoolid": 174,
+    "precent_above_40": 0,
+    "suburb": "LALOR",
+    "schoolname": "Peter Lalor Secondary College",
+    "address": "35 Duncan Rd, Lalor VIC 3075",
+    "longitude": 145.0107,
+    "latitude": -37.6673
+  },
+  {
+    "schoolid": 46,
+    "precent_above_40": 0,
+    "suburb": "SUNSHINE NORTH",
+    "schoolname": "Victoria Uni TAFE",
+    "address": "Ballarat Road, Footscray VIC 3011",
+    "longitude": 144.8972,
+    "latitude": -37.7935
+  }
+]
