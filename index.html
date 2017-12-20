@@ -16,7 +16,7 @@
             margin: 0;
             padding: 0;
         }
-    </style>
+    </style> 
 </head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <body>
@@ -136,9 +136,23 @@
                 ]
             };
             map = new google.maps.Map(document.getElementById('map'), mapOptions);
-            $.get("/data/schoolscores.json", 
+            $.get("https://pbhasi.github.io/schoolscores/data/schoolscores.json", 
                 function(data, status){
-                    console.log("Data: " + data);
+                    data.forEach(function(school) {
+                        var latlng = {};
+                        latlng.lat = school.latitude;
+                        latlng.lng = school.longitude;
+                        //console.log(latlng);
+                        var marker = new google.maps.Marker({
+                            position: latlng,
+                            title: school.schoolname,
+                            clickable: true,
+                            opacity: 0.5
+
+                        });
+                        marker.setMap(map);                      
+
+                    }, this);
                 });
 
         }
