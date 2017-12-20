@@ -16,14 +16,54 @@
             margin: 0;
             padding: 0;
         }
+        #legend {
+            font-family: Arial, sans-serif;
+            background: #fff;
+            padding: 10px;
+            margin: 10px;
+            opacity: 0.8;
+            border: none;
+        }
+        #legend h3 {
+            margin-top: 0;
+        }
+        #legend img {
+            vertical-align: middle;
+        }        
     </style> 
 </head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <body>
     <div id="map"></div>
+    <div id="legend"><h3>% of scores above 40</h3></div>
     <script>
         var map;
         function initMap() {
+        var iconBase = 'https://pbhasi.github.io/schoolscores/images/';
+        var icons = {
+          one_to_five: {
+            name: '1 - 5%',
+            icon: iconBase + 'magenta.png'
+          },
+          five_to_fift: {
+            name: '5 - 15%',
+            icon: iconBase + 'fluro.png'
+          },
+          fift_to_twefy: {
+            name: '15 - 25%',
+            icon: iconBase + 'purple.png'
+          },
+          twefy_to_thirfy:{
+            name: '25 - 35%',
+            icon: iconBase + 'turquoise.png'
+          },
+
+          thirfy_to_hndrd:{
+            name: '35 - 100%',
+            icon: iconBase + 'safron.png'
+          }
+
+        };            
 
             var mapOptions = {
  
@@ -141,19 +181,54 @@
                         var latlng = {};
                         latlng.lat = school.latitude;
                         latlng.lng = school.longitude;
+                        if(school.precent_above_40 >= 0 && school.precent_above_40 <= 5)
+                           var icon = 'https://pbhasi.github.io/schoolscores/images/magenta.png';
+                        if(school.precent_above_40 > 5  && school.precent_above_40 <= 15) 
+                           var icon = 'https://pbhasi.github.io/schoolscores/images/fluro.png';
+                        if(school.precent_above_40 > 15  && school.precent_above_40 <= 25) 
+                           var icon = 'https://pbhasi.github.io/schoolscores/images/purple.png';
+                        if(school.precent_above_40 > 25  && school.precent_above_40 <= 35) 
+                           var icon = 'https://pbhasi.github.io/schoolscores/images/turquoise.png';
+                        if(school.precent_above_40 > 35  && school.precent_above_40 <= 100) 
+                           var icon = 'https://pbhasi.github.io/schoolscores/images/safron.png';
+
+                        var contentString = '<div id="content">'+
+                                            '<b>School</b>: '+school.schoolname+'<br></br>'+
+                                            '<b>Suburb</b>: '+school.suburb+'<br></br>'+
+                                            '<b>% above 40</b>: '+school.precent_above_40+
+                                            '</div>';
+
+                        var infowindow = new google.maps.InfoWindow({
+                            content: contentString
+                            });
+
                         //console.log(latlng);
                         var marker = new google.maps.Marker({
                             position: latlng,
                             title: school.schoolname,
                             clickable: true,
-                            opacity: 0.5
-
+                            opacity: 0.6,
+                            icon: icon
                         });
-                        marker.setMap(map);                      
+                        marker.addListener('click', function() {
+                                infowindow.open(map, marker);
+                        });                        
+                        marker.setMap(map);   
 
                     }, this);
                 });
 
+            var legend = document.getElementById('legend');
+                for (var key in icons) {
+                var type = icons[key];
+                var name = type.name;
+                var icon = type.icon;
+                var div = document.createElement('div');
+                div.innerHTML = '<img src="' + icon + '"> ' + name +'</img><br></br>';
+                legend.appendChild(div);
+                }
+
+                map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
         }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZlWKvJkg04PPJ9UsWAD-Ld1noAPzp03M&callback=initMap" async
